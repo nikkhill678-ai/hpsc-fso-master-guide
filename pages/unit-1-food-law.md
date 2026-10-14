@@ -25,7 +25,7 @@ Food safety science is simply the discipline of breaking this chain at the earli
 | **Hazard (Codex)** | "A biological, chemical or physical agent in, or condition of, food with the potential to cause an adverse health effect."[cite: 7] | Potential, not certainty[cite: 7] |
 | **Contamination** | Presence of harmful or objectionable foreign substances (chemicals, micro-organisms, dilutants) in food, before/during/after processing or storage[cite: 7]. | Unintended presence[cite: 7] |
 | **Adulteration** | Intentional or accidental addition of impure, cheap, or unnecessary ingredients to cheat, cheapen, or falsify a preparation, altering composition/quality[cite: 7]. | Deliberate or negligent degradation[cite: 7] |
-| **Food Quality** | Attributes that influence a product's value to the consumer — negative (spoilage, contamination, adulteration, safety hazards) AND positive (colour, flavour, texture)[cite: 7]. | Quality ⊃ Safety (quality is the wider umbrella)[cite: 7] |
+| **Food Quality** | Attributes that influence a product's value to the consumer — negative (spoilage, contamination, adulteration, safety hazards) AND positive (colour, flavour, texture)[cite: 7]. | Quality includes Safety (quality is the wider umbrella)[cite: 7] |
 
 **Toxicity vs Hazard** — the single most tested distinction[cite: 7]. Toxicity is a fixed intrinsic property (e.g., cyanide is always toxic)[cite: 7]. Hazard is a contextual probability — it depends on dose, exposure route, and whether the substance is "not used in the prescribed manner and quantity."[cite: 7] A substance can be toxic but pose negligible hazard if controlled (e.g., nitrite at legal ppm levels)[cite: 7].
 
@@ -46,7 +46,7 @@ Food safety science is simply the discipline of breaking this chain at the earli
   * Extraneous matter / foreign bodies[cite: 7]
 
 #### (A) Biological Hazards
-**Intuition:** Micro-organisms are everywhere; they only become a "hazard" the moment they are (i) pathogenic to humans AND (ii) present in food in numbers/toxin-load sufficient to cause illness[cite: 7]. Spoilage organisms ≠ pathogenic organisms — a food can look/smell fine and still carry a biological hazard (classic trap)[cite: 7].
+**Intuition:** Micro-organisms are everywhere; they only become a "hazard" the moment they are (i) pathogenic to humans AND (ii) present in food in numbers/toxin-load sufficient to cause illness[cite: 7]. Spoilage organisms do not equal pathogenic organisms — a food can look/smell fine and still carry a biological hazard (classic trap)[cite: 7].
 * **Macro-biological hazards:** visible pests and insects — larvae, adult insects, rodent droppings/hair — detectable by the naked eye[cite: 7].
 * **Micro-biological hazards** (invisible without magnification)[cite: 7]:
   * Bacteria (e.g., *Salmonella*, *Clostridium botulinum*, *Staphylococcus aureus*)[cite: 7]
@@ -91,11 +91,11 @@ Statutory allergen list (protein-derived)[cite: 7]:
 7. Peanuts[cite: 7]
 8. Soybeans[cite: 7]
 
-These are protein-derived hazards — the allergenic potential resides in specific proteins, not the whole food matrix[cite: 7]. This is why highly refined oils carry much lower allergenic risk than the whole legume, though labelling precautions still apply[cite: 7].
+These are protein-derived hazards — the allergenic potential resides in specific proteins, not the whole food matrix[cite: 7]. Highly refined oils carry lower allergenic risk than the whole legume, though labelling precautions still apply[cite: 7].
 
 ### 1.4 Food Infection vs Food Intoxication — THE Definitive Distinction
 **First-Principles Intuition:** Ask: *"Is the live organism itself the problem, or is a pre-formed poison the problem?"*[cite: 7]
-* **Infection** = you swallow a living pathogen population that invades and multiplies inside you[cite: 7]. Damage accrues over hours–days[cite: 7].
+* **Infection** = you swallow a living pathogen population that invades and multiplies inside you[cite: 7]. Damage accrues over hours to days[cite: 7].
 * **Intoxication** = you swallow a poison that is already made (toxin), whether or not the organism that made it is still alive[cite: 7]. Damage begins almost immediately[cite: 7].
 
 | Parameter | Food Infection | Food Intoxication |
@@ -128,7 +128,7 @@ These are protein-derived hazards — the allergenic potential resides in specif
 | **1. Keep clean** | Wash hands before handling food and often during preparation; sanitize all surfaces; protect kitchen areas from insects/pests[cite: 7]. |
 | **2. Separate raw & cooked** | Separate raw meat, poultry, and seafood from other foods; use separate equipment/utensils (cutting boards)[cite: 7]. |
 | **3. Cook thoroughly** | Cook food thoroughly (meat, eggs, seafood); bring soups/stews to boiling to ensure pathogen destruction; reheat thoroughly[cite: 7]. |
-| **4. Keep food at safe temperatures** | Do not leave cooked food at room temp for &gt; 2 hours; refrigerate promptly (preferably &lt; 5°C); keep cooked food hot (&gt; 60°C); do not thaw at room temp[cite: 7]. |
+| **4. Keep food at safe temperatures** | Do not leave cooked food at room temp for more than 2 hours; refrigerate promptly (preferably below 5°C); keep cooked food hot (above 60°C); do not thaw at room temp[cite: 7]. |
 | **5. Use safe water & raw materials** | Use safe water; select fresh/wholesome foods; choose processed foods (e.g., pasteurized milk); wash raw fruits/vegetables; respect expiry dates[cite: 7]. |
 
 *(Mnemonic: C-S-C-T-W ➔ Clean, Separate, Cook, Temperature, Water)*[cite: 7]
@@ -243,12 +243,12 @@ Used to remove chill haze (tannins/polyphenols) in beverages[cite: 7]. Examples:
 ## MODULE 3: MICROBIOLOGICAL PRINCIPLES & SPOILAGE CRITERIA
 
 ### 3.1 The Three-Lever Control Model
-Every microorganism needs three things to grow: **Temperature**, **pH**, and **Water Activity ($a_w$)**[cite: 7].
+Every microorganism needs three things to grow: **Temperature**, **pH**, and **Water Activity (aw)**[cite: 7].
 
 #### 1. Cardinal Parameter: Temperature Domains
-* **Psychrotrophs:** Grow well at ≤ 7°C (Optimum: 20–30°C)[cite: 7]
+* **Psychrotrophs:** Grow well at 7°C or below (Optimum: 20–30°C)[cite: 7]
 * **Mesophiles:** Grow well at 20–45°C (Optimum: 30–40°C)[cite: 7]
-* **Thermophiles:** Grow well at ≥ 45°C (Optimum: 55–65°C)[cite: 7]
+* **Thermophiles:** Grow well at 45°C or above (Optimum: 55–65°C)[cite: 7]
 
 #### 2. Cardinal Parameter: pH Thresholds
 * **Most organisms:** near pH 7.0[cite: 7]
@@ -256,19 +256,19 @@ Every microorganism needs three things to grow: **Temperature**, **pH**, and **W
 * **Clostridium botulinum:** **Cannot grow below pH 4.6**[cite: 7]
 
 > **THE Critical Public Health Threshold:**  
-> pH 4.6 is the universal cutoff differentiating Low-acid foods (pH &gt; 4.6, require full retort sterilization) from Acid foods (pH ≤ 4.6, safer from *C. botulinum*)[cite: 7].
+> pH 4.6 is the universal cutoff differentiating Low-acid foods (pH above 4.6, require full retort sterilization) from Acid foods (pH 4.6 or below, safer from *C. botulinum*)[cite: 7].
 
-#### 3. Cardinal Parameter: Water Activity ($a_w$)
-* Fresh produce: $a_w$ &gt; 0.99[cite: 7]
-* Spoilage bacteria: $a_w$ &gt; 0.91[cite: 7]
-* Filamentous fungi / moulds: can grow at $a_w$ as low as **0.80**[cite: 7]
+#### 3. Cardinal Parameter: Water Activity (aw)
+* Fresh produce: aw above 0.99[cite: 7]
+* Spoilage bacteria: aw above 0.91[cite: 7]
+* Filamentous fungi / moulds: can grow at aw as low as **0.80**[cite: 7]
 
 ### 3.5 Spoilage Comparison Summary
 | Organism Group | Competitive Niche | Key Genera |
 | :--- | :--- | :--- |
-| **Bacteria** | Neutral pH, moderate-high $a_w$[cite: 7] | Soft rot bacteria[cite: 7] |
+| **Bacteria** | Neutral pH, moderate-high aw[cite: 7] | Soft rot bacteria[cite: 7] |
 | **Yeasts** | High sugar/salt, low pH[cite: 7] | *Zygosaccharomyces*, *Candida*[cite: 7] |
-| **Filamentous fungi** | Low $a_w$ (down to 0.80), wide pH tolerance[cite: 7] | Various moulds (Obligate aerobes)[cite: 7] |
+| **Filamentous fungi** | Low aw (down to 0.80), wide pH tolerance[cite: 7] | Various moulds (Obligate aerobes)[cite: 7] |
 
 ---
 
@@ -276,7 +276,7 @@ Every microorganism needs three things to grow: **Temperature**, **pH**, and **W
 
 ### 4.2 Artificial Ripening Agents
 **Calcium Carbide ("Masala") — STRICTLY BANNED**[cite: 7]
-* **Mechanism:** $\text{CaC}_2 + \text{Moisture} \rightarrow \text{Acetylene gas (C}_2\text{H}_2\text{)}$[cite: 7]. Acetylene mimics ethylene superficially[cite: 7].
+* **Mechanism:** CaC2 + Moisture ➔ Acetylene gas (C2H2)[cite: 7]. Acetylene mimics ethylene superficially[cite: 7].
 * **Why Banned:** Trace contamination with toxic **arsenic and phosphorus hydride**[cite: 7]. Produces superficial colouration without internal ripening[cite: 7].
 * **Safe Alternative:** Ethephon / Ethylene Gas[cite: 7].
 
@@ -332,7 +332,7 @@ In HACCP, "hazard" means potential to cause illness/injury[cite: 7].
 7. **Establish Documentation and Record-Keeping**[cite: 7].
 
 ### 6.5 CCP vs Prerequisite Programme (PRP)
-| Feature | CCP (Critical Control Point) | PRP (Prerequisite Programme) |
+| Feature | Critical Control Point (CCP) | Prerequisite Programme (PRP) |
 | :--- | :--- | :--- |
 | **Scope** | Specific point directly controlling a significant hazard[cite: 7] | General, plant-wide foundational practices (GMP, GHP, sanitation)[cite: 7] |
 | **Monitoring** | Continuous/frequent, tied to a measurable limit[cite: 7] | Periodic inspection/audit[cite: 7] |
@@ -353,7 +353,7 @@ In HACCP, "hazard" means potential to cause illness/injury[cite: 7].
 * **Answer:** Only 2 are correct (i and ii)[cite: 7].  
 * *Explanation:* (iii) is FALSE — HACCP was developed explicitly as a preventive, not reactive, system[cite: 7].
 
-**Q2. On date markings &amp; labelling:**[cite: 7]  
+**Q2. On date markings & labelling:**[cite: 7]  
 (i) "Best before" signifies the food must never be sold after that date under any circumstance[cite: 7].  
 (ii) "Use by"/"Expiry date" signifies the food shall not be sold after that date[cite: 7].  
 (iii) Milk and milk products are classified as non-vegetarian food because of animal origin[cite: 7].  
@@ -374,7 +374,7 @@ In HACCP, "hazard" means potential to cause illness/injury[cite: 7].
 ### STAGE 2: DESCRIPTIVE MODEL ANSWER (15 MARKS)
 **Question: Elaborate the 7 Principles of Hazard Analysis and Critical Control Point (HACCP). Explain how a Critical Control Point (CCP) is determined and distinguished from a Prerequisite Programme (PRP).**[cite: 7]
 
-#### 1. Introduction &amp; Historical Foundations (1 mark)
+#### 1. Introduction & Historical Foundations (1 mark)
 HACCP is a proactive, preventative food safety management system designed to identify and control hazards rather than relying on retrospective finished product testing[cite: 7]. Pioneered in the early 1960s by the Pillsbury Company alongside NASA to ensure absolute food safety for manned space flights, the system was formally codified into 7 core principles by the National Advisory Committee on Microbiological Criteria for Foods (NACMCF) in 1985[cite: 7].
 
 #### 2. The 7 Core HACCP Principles (9 marks)
