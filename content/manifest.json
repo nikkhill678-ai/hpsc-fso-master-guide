@@ -1,0 +1,71 @@
+{
+  "project": "HPSC FSO Study Website",
+  "source_documents": [
+    {
+      "file": "01_Unit1_Food_Safety_Law_HACCP.docx",
+      "json": "01_Unit1_Food_Safety_Law_HACCP.json",
+      "paragraphs": 409,
+      "tables": 30,
+      "blocks": 439,
+      "approx_words": 10687,
+      "bytes": 126040
+    },
+    {
+      "file": "UNIT_2_Food_Microbiology_Spoilage_Preservation_Master_Study_Manual(1).docx",
+      "json": "02_Unit2_Food_Microbiology_Preservation.json",
+      "paragraphs": 3174,
+      "tables": 59,
+      "blocks": 3233,
+      "approx_words": 25364,
+      "bytes": 94256,
+      "source_path": "original_sources/UNIT_2_Food_Microbiology_Spoilage_Preservation_Master_Study_Manual(1).docx",
+      "status": "newly uploaded authoritative Unit 2 source"
+    },
+    {
+      "file": "03_Unit3A_Food_Chemistry_Macromolecules.docx",
+      "json": "03_Unit3A_Food_Chemistry_Macromolecules.json",
+      "paragraphs": 1305,
+      "tables": 38,
+      "blocks": 1343,
+      "approx_words": 23714,
+      "bytes": 313766
+    },
+    {
+      "file": "04_Unit3B_Lipids_Enzymes_Fortification.docx",
+      "json": "04_Unit3B_Lipids_Enzymes_Fortification.json",
+      "paragraphs": 1143,
+      "tables": 82,
+      "blocks": 1225,
+      "approx_words": 20713,
+      "bytes": 284783
+    },
+    {
+      "file": "05_Commodity_Processing_Tech_Dairy_Cereal_Meat_Hort.docx",
+      "json": "05_Commodity_Processing_Tech_Dairy_Cereal_Meat_Hort.json",
+      "paragraphs": 379,
+      "tables": 50,
+      "blocks": 429,
+      "approx_words": 18596,
+      "bytes": 183228
+    },
+    {
+      "file": "06_Food_Toxicology_Contaminants_Biotoxins_Residues.docx",
+      "json": "06_Food_Toxicology_Contaminants_Biotoxins_Residues.json",
+      "paragraphs": 500,
+      "tables": 39,
+      "blocks": 539,
+      "approx_words": 18075,
+      "bytes": 196113
+    },
+    {
+      "file": "07_Modern_Packaging_Migration_Instrumental_Analysis.docx",
+      "json": "07_Modern_Packaging_Migration_Instrumental_Analysis.json",
+      "paragraphs": 475,
+      "tables": 38,
+      "blocks": 513,
+      "approx_words": 24831,
+      "bytes": 229782
+    }
+  ],
+  "unit_2_source_policy": "The newly uploaded 149-page UNIT_2_Food_Microbiology_Spoilage_Preservation_Master_Study_Manual(1).docx is the authoritative Unit 2 source. The prior shorter Unit 2 source is superseded for Unit 2 question-bank preparation."
+}

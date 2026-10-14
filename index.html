@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Source-grounded HPSC Food Safety Officer study library with searchable handouts, notes and revision tools.">
+<title>FSO Study Desk | HPSC Preparation</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar"><div class="brand"><div class="mark">FSO</div><div><strong>Study Desk</strong><small>HPSC Food Safety Officer</small></div></div><div class="header-meta"><span class="pill">Source-based study library</span><a class="quiet-link" href="quiz.html">Practice MCQs · 900 questions</a><button id="exportNotes" class="quiet">Export notes</button></div></header>
+<div class="layout">
+<aside class="sidebar"><div class="side-label">LIBRARY</div><nav id="unitNav" aria-label="Study units"></nav><div class="side-card"><strong>Your progress</strong><div class="progress-track"><span id="progressBar"></span></div><small id="progressText">0 of 7 units opened</small></div><div class="side-note">Study content is preserved from the uploaded handouts. Legal and scientific claims are not automatically certified as current.</div></aside>
+<main class="main"><section class="welcome"><div><div class="eyebrow">YOUR STUDY WORKSPACE</div><h1>Understand the science.<br><span>Master the exam.</span></h1><p>Search across all seven handouts, read source-ordered content, and keep revision notes as you study.</p></div><div class="welcome-symbol">✳</div></section>
+<section class="quiz-promo"><div><strong>Practice question bank</strong><p>900 draft MCQs across six units · Easy, Medium and Hard · +1 / −0.25 marking</p></div><a class="primary" href="quiz.html">Open MCQ practice →</a></section>
+<div class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search topics, definitions, instruments, regulations…" aria-label="Search all handouts"><kbd>Search</kbd></div>
+<section id="searchResults" class="search-results hidden" aria-live="polite"></section>
+<div class="selection-tools" aria-label="Selected text actions"><span>Reader tools · select text first</span><button id="saveHighlight" class="mini-action">Highlight selection</button><button id="saveSnapshot" class="mini-action">Save snapshot</button><small id="selectionStatus" role="status"></small></div>
+<section class="content-head"><div><div class="eyebrow" id="unitEyebrow">START HERE</div><h2 id="unitTitle">Your seven-source study library</h2><p id="unitDescription">Choose a handout to open its content in document order.</p></div><button id="markRead" class="primary" disabled>Mark unit reviewed</button></section>
+<div id="content" class="content"><div class="unit-grid" id="unitCards"></div></div>
+</main>
+<aside class="tools-panel"><div class="tools-title"><strong>Study tools</strong><span class="pill subtle">On this device</span></div><section class="tool-card"><div class="tool-icon">✎</div><h3>Personal notes</h3><p>Save a note for the currently selected handout.</p><textarea id="notes" rows="7" placeholder="Your explanation, memory aid, or doubt…"></textarea><button id="saveNote" class="primary full">Save note</button><small id="noteStatus" role="status"></small></section><section class="tool-card"><div class="tool-icon">⌑</div><h3>Quick revision</h3><p>Use these prompts while revising any topic.</p><ul><li>What is the core definition?</li><li>What mechanism explains it?</li><li>Which number, unit or exception is testable?</li><li>Is the claim source-based or legally verified?</li></ul></section><section class="tool-card saved-tools"><h3>Bookmarks</h3><p>Jump back to a saved paragraph or table.</p><div id="savedBookmarks"></div></section><section class="tool-card saved-tools"><h3>Snapshots</h3><p>Keep selected passages for quick revision.</p><div id="savedSnapshots"></div></section><section class="source-warning"><strong>Source integrity</strong><p>When a handout flags a correction or verification gap, that warning must travel with the content. Do not memorise a textbook figure as current law without checking its governing source.</p></section></aside>
+</div>
+<footer><span>HPSC FSO Study Desk · Prototype</span><span>Built from the seven uploaded Word handouts</span></footer>
+<script src="app.js"></script>
+</body></html>

@@ -1,0 +1,3949 @@
+{
+  "source_file": "05_Commodity_Processing_Tech_Dairy_Cereal_Meat_Hort.docx",
+  "title": "05 Commodity Processing Tech Dairy Cereal Meat Hort",
+  "paragraph_count": 379,
+  "table_count": 50,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "HPSC FSO Master Handout: Food Processing Operations & Commodity Technology",
+      "style": "Title"
+    },
+    {
+      "type": "paragraph",
+      "text": "Read First: Method & Corrections",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "HPSC Food Safety Officer — Master Study Handout",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Module: Food Processing Operations & Commodity Technology (Dairy, Cereals, Meat/Fish/Poultry/Egg, Horticulture)",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. How to use this handout",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "This handout teaches each commodity from first principles in a fixed order: physical-chemical nature of the raw material → engineering unit operation → machinery parameters → biochemical transformation → diagnostic quality defect → statutory or trade limit → descriptive answer skeleton. Every section is written out in full. Numerical values are given with their source basis (physics, textbook convention, FSSR/BIS/USDA standard) so that you can defend them in a descriptive answer and avoid being trapped by an altered number in an objective question.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Three labels recur throughout:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: a physical, chemical or biological law that will not change between editions of a textbook.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Convention: a widely taught number or range that varies slightly between references (for example 8–10 percent bran versus 5–8 percent bran in paddy). Learn the ordering and the magnitude; quote the figure used by the examiner's likely source.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard: a regulatory or grading figure (FSSR, BIS, USDA, EU). Verify against the currently notified text before quoting it as law.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Examination architecture (working assumptions)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Stage",
+          "Supplied pattern",
+          "Consequence for preparation"
+        ],
+        [
+          "Stage 1 Objective Screening",
+          "100 marks; 0.25 negative marking; count-based pair items; absolute-qualifier traps",
+          "Learn exact numbers, units, directions (increase/decrease) and organism-process pairs"
+        ],
+        [
+          "Stage 2 Subject Knowledge Test",
+          "150 marks; 3 hours; conventional descriptive answers; stated 87.5 percent merit weightage",
+          "Master mechanisms, flow sheets, comparative tables and labelled diagrams described in words"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "These particulars are user-supplied working assumptions. The notification applicable to the actual recruitment cycle controls.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Negative-marking arithmetic",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "With one mark for a correct response and 0.25 deducted for a wrong one, the expected score of an attempt with probability $p$ of being correct is",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "$$E = p - 0.25(1 - p) = 1.25p - 0.25$$",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Break-even is $p = 0.20$. In a four-option item, eliminating a single option already lifts $p$ to 0.33 and makes the attempt positive in expectation. Eliminate on units, direction and organism-process logic before guessing.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Count-based pair protocol",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "For every three-pair item, score each pair independently as $c_i = 1$ (correct) or $c_i = 0$ (incorrect), then compute",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "$$N = c_1 + c_2 + c_3$$",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Map $N$ to the option: 0 → None; 1 → Only 1; 2 → Only 2; 3 → All 3. The option counts correct pairs; it never names which pair. Never let the correctness of pair 1 colour your judgement of pair 2.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Descriptive-answer skeleton (use for every 10- and 15-mark answer)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Definition and first-principle intuition (one short paragraph).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Classification or flow sheet (numbered sequence or comparison table).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mechanism: physics, machinery parameter, or biochemical pathway.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Numbers with units and their basis.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Defects, diagnostics and control measures.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "One-sentence conclusion linking back to food safety or quality.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Time budget: 150 marks in 180 minutes gives 1.2 minutes per mark; reserve 15 minutes for reading and review, leaving roughly 11 minutes for a 10-mark answer and 16–17 minutes for a 15-mark answer.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Correction and qualification register (read before memorising any number)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Brief statement in the syllabus outline",
+          "Safe examination interpretation"
+        ],
+        [
+          "Milk freezing point −0.530 to −0.550 °C",
+          "Typical range; many references quote −0.512 to −0.550 °C. Adulteration with water moves the value towards 0 °C (for example −0.48 °C)."
+        ],
+        [
+          "Paneer coagulation at 80–85 °C",
+          "Milk is first heated to about 90 °C, then coagulated at 70–85 °C with 1–2 percent citric acid at pH 5.3–5.4. The pH figure matters more than the exact coagulation temperature."
+        ],
+        [
+          "PSE: pH < 5.4 while warm",
+          "Standard diagnostic is a rapid fall to pH ≤ 5.8–6.0 within 45 minutes post-mortem while muscle is still above about 35 °C; ultimate pH may then reach 5.3–5.5. The combination of low pH and high temperature is the defining feature, not any single pH number."
+        ],
+        [
+          "DFD: ultimate pH > 6.2",
+          "Many references use > 6.0; 6.2 is a commonly taught threshold. Learn the direction: DFD = high ultimate pH."
+        ],
+        [
+          "Candling Grade B air cell > 8 mm",
+          "USDA uses depth greater than 3/16 inch (about 4.8 mm) for Grade B; some Indian texts quote 8 mm. The ordering AA (≤ 3 mm) < A < B is what is tested."
+        ],
+        [
+          "Paddy bran 8–10 percent",
+          "Conventions range 5–10 percent; husk 20–22 percent; endosperm about 70 percent; germ 2–3 percent."
+        ],
+        [
+          "Khoa compositional standard",
+          "FSSR requires milk fat not less than 30 percent on dry-matter basis; moisture varies by type (Pindi lowest, Dhap highest). Verify the exact total-solids figure from the currently notified FSSR before quoting."
+        ],
+        [
+          "Nitrite 100–150 ppm",
+          "This is the usual ingoing level; statutory maxima (residual or ingoing) differ between jurisdictions. Quote ingoing level and purpose, then the applicable legal limit if asked."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When an objective item quotes a number that differs slightly from the one you memorised, test the direction and the magnitude first. A pair is usually made wrong by reversing a relationship (break versus reduction roll speed ratio), swapping an organism (Proteus versus Pseudomonas rot), or changing a unit (minutes versus seconds), far more often than by shifting a number by a few percent.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "7. Reading order",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Part 1 (Dairy) → Part 2 (Cereals and Pulses) → Part 3 (Meat, Fish and Egg) → Part 4 (Horticulture) → Revision Bank and Model Answers. Each part ends with its own HPSC EXAM TRAP boxes and comparative tables.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Part 1: Milk & Dairy Processing",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Part 1. Milk and Dairy Processing Technology",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.1 Milk as a polyphasic system",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Milk is not a single solution. It is three physical phases coexisting in one liquid, and every dairy unit operation acts on one of these phases.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Phase",
+          "Dispersed component",
+          "Particle size",
+          "What processing does to it"
+        ],
+        [
+          "Emulsion (oil-in-water)",
+          "Fat globules, each surrounded by a native milk-fat-globule membrane (MFGM) of phospholipid and protein",
+          "0.1–15 µm, mean 3–4 µm",
+          "Creaming, centrifugal separation, homogenisation, churning (phase inversion)"
+        ],
+        [
+          "Colloidal suspension",
+          "Casein micelles (αs1, αs2, β, κ-casein with colloidal calcium phosphate)",
+          "50–300 nm, mean about 150 nm",
+          "Rennet and acid coagulation, heat stability, UF retention"
+        ],
+        [
+          "True solution",
+          "Lactose, whey proteins (β-lactoglobulin, α-lactalbumin, immunoglobulins), soluble minerals, vitamins, urea",
+          "Molecular",
+          "Freezing-point depression, osmotic pressure, NF/RO concentration, Maillard browning"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Approximate composition of cow milk: water 87 percent, fat 3.5–4.5 percent, protein 3.2–3.5 percent (casein about 80 percent of protein), lactose 4.6–4.9 percent, ash 0.7 percent. Buffalo milk carries 6–8 percent fat and larger fat globules, which is why it gives higher khoa and ghee yields.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Physical constants used as adulteration indicators",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Property",
+          "Normal value",
+          "Basis",
+          "Adulteration signal"
+        ],
+        [
+          "Specific gravity (15.5 °C)",
+          "1.028–1.032 (lactometer reading 28–32)",
+          "Solids-not-fat raise density; fat lowers it",
+          "Added water lowers it; skimming raises it; both together can mask each other (hence combine with fat test)"
+        ],
+        [
+          "Titratable acidity",
+          "0.12–0.16 percent as lactic acid (fresh milk, natural acidity from casein, phosphates, citrates, CO2)",
+          "Titration with N/10 NaOH to phenolphthalein end-point",
+          "Developed acidity above about 0.18 percent indicates bacterial souring; neutralisers (soda) lower it artificially (Rosalic acid test)"
+        ],
+        [
+          "Freezing point",
+          "−0.512 to −0.550 °C, typical −0.53 to −0.55 °C",
+          "Colligative property of dissolved lactose and salts; most constant physical property of milk",
+          "Added water moves freezing point towards 0 °C. Hortvet or thermistor cryoscopy quantifies extraneous water: percent added water ≈ (T_ref − T_sample)/T_ref × 100, with T_ref taken as −0.540 °C"
+        ],
+        [
+          "pH",
+          "6.6–6.8",
+          "Buffering by phosphates, citrates and proteins",
+          "Falls with souring; rises with mastitis or added alkali"
+        ],
+        [
+          "Boiling point",
+          "100.17 °C",
+          "Slight elevation by solutes",
+          "Rarely used diagnostically"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] Freezing point depression, not specific gravity, is the reference method for added water, because sugar or salt added by an adulterator can restore the lactometer reading but every added solute changes the freezing point in a predictable way. A pair stating that cryoscopy detects skimming is wrong; cryoscopy detects water.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.2 Centrifugal separation and Stokes' law",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Fat globules are less dense (about 0.92 g/mL) than skim milk (about 1.036 g/mL), so they rise. The rate of rise of a single globule under gravity is given by Stokes' law:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "$$v = \\frac{d^2 (\\rho_s - \\rho_f) g}{18 \\eta}$$",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "where $d$ is globule diameter, $\\rho_s$ is serum density, $\\rho_f$ is fat density, $g$ is gravitational acceleration and $\\eta$ is viscosity. Doubling the diameter quadruples the creaming rate; cooling raises viscosity and slows creaming; in raw cold milk the cryoglobulin (IgM)-mediated clustering of globules accelerates creaming far beyond the single-globule prediction.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "In a centrifugal separator $g$ is replaced by $\\omega^2 r$ (angular velocity squared times radius), giving separation forces of 5,000–10,000 g at 6,000–8,000 rpm. The disc-bowl separator stacks conical discs 0.4–0.6 mm apart so that each globule travels only a short distance before reaching a disc surface. Warm milk (40–55 °C) is separated because fat is fully liquid and viscosity is low.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Outputs: cream (35–40 percent fat for butter, 20–25 percent for table cream) and skim milk (0.05–0.1 percent fat). Separation efficiency is judged by skim-milk fat; above 0.1 percent indicates worn discs, excessive throughput or cold milk. A clarifier is the same machine without a cream outlet; a bactofuge removes bacteria and spores by density difference at higher g.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Standardisation by the Pearson square",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Worked example: Prepare 1,000 kg of 3.0 percent fat milk from whole milk at 6.0 percent and skim milk at 0.1 percent.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "   Whole 6.0 ──────┐            ┌── parts whole = 3.0 − 0.1 = 2.9\n                    │  target   │\n                    ├── 3.0 ────┤\n                    │           │\n   Skim  0.1 ──────┘            └── parts skim  = 6.0 − 3.0 = 3.0",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "Total parts = 2.9 + 3.0 = 5.9. Whole milk = 1,000 × 2.9/5.9 = 491.5 kg; skim milk = 508.5 kg. Check: (491.5 × 6.0 + 508.5 × 0.1)/1,000 = (2,949 + 50.9)/1,000 = 3.0 percent. The rule: each component's parts equal the difference between the target and the other component's value, taken across the diagonal.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.3 Homogenisation engineering",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Creaming cannot be stopped by chemistry alone; it is stopped by making the fat globules so small that Stokes' velocity becomes negligible. Reducing mean diameter from 3–4 µm to below 1 µm (practically all below 2 µm) cuts the creaming rate by more than a factor of ten while increasing the total fat surface area 6–10 fold.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Parameter",
+          "Value",
+          "Reason"
+        ],
+        [
+          "First-stage pressure",
+          "15–25 MPa (2,000–3,000 psi; 150–250 bar)",
+          "Supplies the energy for turbulence, cavitation and shear in the valve gap"
+        ],
+        [
+          "Second-stage pressure",
+          "3–5 MPa (500 psi)",
+          "Breaks up the clusters of newly formed small globules that stick together through shared casein coating; essential for cream and high-fat products"
+        ],
+        [
+          "Temperature",
+          "55–80 °C",
+          "Fat must be liquid; cold homogenisation gives poor disruption and lipolysis"
+        ],
+        [
+          "Valve gap",
+          "about 0.1 mm",
+          "Velocity in the gap exceeds 100 m/s, pressure drops abruptly, cavitation bubbles collapse"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "New globule surfaces are coated predominantly by casein micelle fragments and some whey protein because the native MFGM is insufficient to cover a tenfold larger area.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consequences of homogenisation",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Effect",
+          "Direction",
+          "Explanation"
+        ],
+        [
+          "Creaming",
+          "Prevented",
+          "Small diameter; also casein-coated globules do not form cryoglobulin clusters"
+        ],
+        [
+          "Whiteness and viscosity",
+          "Increased",
+          "More light-scattering surfaces; higher dispersed-phase volume with protein coating"
+        ],
+        [
+          "Curd tension",
+          "Reduced (softer curd)",
+          "Casein is partly bound to fat surfaces and the fat globules act as structure breakers in the gel; useful for infant and clinical milks"
+        ],
+        [
+          "Susceptibility to lipolysis",
+          "Increased",
+          "Native MFGM is replaced by casein, which lipoprotein lipase can penetrate easily; raw homogenised milk turns rancid in minutes, so homogenisation is always paired with pasteurisation (upstream or immediately after)"
+        ],
+        [
+          "Light-induced oxidised flavour",
+          "Increased",
+          "Larger surface exposes lipids; sunlight flavour"
+        ],
+        [
+          "Heat stability of concentrated milk",
+          "Decreased",
+          "Casein-coated fat behaves like large casein particles"
+        ],
+        [
+          "Foaming",
+          "Reduced in whole milk",
+          "Surface-active MFGM phospholipids are redistributed"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] Homogenisation does not kill bacteria and does not reduce lipase activity; it increases lipolysis risk. A pair stating that homogenisation inactivates lipase is wrong. The second stage is not for further size reduction; it is for cluster dispersion.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.4 Thermal processing regimes",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Pasteurisation is a public-health treatment designed to destroy the most heat-resistant non-sporing pathogen historically relevant to milk (Coxiella burnetii, with Mycobacterium tuberculosis as the earlier benchmark) while causing minimal chemical change. Sterilisation (UHT or in-container) destroys spores to achieve commercial sterility. Each regime has a built-in biochemical marker that is inactivated at approximately the same time-temperature combination as the target organism.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Regime",
+          "Time-temperature",
+          "Equipment",
+          "Target and validation",
+          "Shelf life"
+        ],
+        [
+          "LTLT (holder/batch)",
+          "63 °C for 30 min",
+          "Jacketed vat with agitator",
+          "Pathogen destruction; alkaline phosphatase (ALP) negative",
+          "7–10 days at ≤ 4 °C"
+        ],
+        [
+          "HTST (continuous)",
+          "72 °C for 15 s (India: 71.7 °C for 15 s)",
+          "Plate heat exchanger with regeneration (≥ 90 percent), holding tube, flow diversion valve, booster pump",
+          "ALP negative; lactoperoxidase (Storch) remains positive, proving no over-heating",
+          "10–14 days at ≤ 4 °C"
+        ],
+        [
+          "Flash / higher-heat shorter-time",
+          "89 °C for 1 s; 94 °C for 0.1 s; 100 °C for 0.01 s",
+          "Plate or tubular",
+          "ALP negative",
+          "As HTST"
+        ],
+        [
+          "UHT",
+          "135–150 °C for 1–4 s (commonly 138–142 °C for 2–4 s)",
+          "Direct (steam injection or infusion, then flash cooling) or indirect (plate/tubular); aseptic filling",
+          "Commercial sterility; turbidity test negative; ALP negative but may reactivate; spores of Geobacillus stearothermophilus and Bacillus sporothermodurans are the resistance benchmarks",
+          "6 months ambient, unopened"
+        ],
+        [
+          "In-container sterilisation",
+          "110–120 °C for 10–40 min in retort",
+          "Batch or continuous (hydrostatic) steriliser, glass or plastic bottles",
+          "Commercial sterility; turbidity test negative; marked browning, cooked flavour",
+          "6–12 months ambient"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Validation chemistry",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alkaline phosphatase (ALP) test: ALP is a native milk enzyme slightly more heat resistant than Coxiella burnetii. Its presence (phenol released from disodium phenyl phosphate, detected with 2,6-dichloroquinone chloroimide giving blue, or by the Fluorophos method) means under-pasteurisation or raw-milk contamination. Negative = properly pasteurised. Microbial ALP from psychrotrophs and ALP reactivation in UHT milk after storage are known false positives.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Turbidity test (Aschaffenburg): Ammonium sulphate (20 g) is added to 20 mL milk; after filtration the filtrate is boiled. In raw or pasteurised milk, soluble whey proteins remain in the filtrate and precipitate on boiling, giving turbidity. In sterilised and UHT milk the whey proteins have already been denatured and are removed with the casein on filtration, so the boiled filtrate stays clear. Negative turbidity = adequately sterilised.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lactoperoxidase (Storch) test: Lactoperoxidase survives HTST but is destroyed above about 80 °C; a negative Storch test on milk sold as pasteurised indicates over-heating.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Methylene blue reduction and standard plate count: Confirm microbial quality rather than heat treatment.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] ALP negative proves pasteurisation, not sterilisation; turbidity negative proves sterilisation. A pair assigning the turbidity test to HTST milk is wrong. Also, UHT milk does not require refrigeration before opening; pasteurised milk does.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.5 Membrane separation",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Pressure-driven membranes fractionate milk by molecular size without heat, preserving native structure. Pore size falls and operating pressure rises as the process moves from MF to RO.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Process",
+          "Pore size / cut-off",
+          "Pressure",
+          "Retained (retentate)",
+          "Passed (permeate)",
+          "Dairy application"
+        ],
+        [
+          "Microfiltration (MF)",
+          "0.1–10 µm",
+          "0.1–0.3 MPa (1–3 bar)",
+          "Bacteria, spores, somatic cells, fat globules",
+          "Casein micelles, whey proteins, lactose, salts",
+          "Extended-shelf-life (ESL) milk; bacterial and spore removal from skim milk before cheese making; casein-whey fractionation with 0.1 µm membranes"
+        ],
+        [
+          "Ultrafiltration (UF)",
+          "1–100 nm; 1–500 kDa",
+          "0.2–1.0 MPa (2–10 bar)",
+          "Proteins (casein and whey) and fat",
+          "Lactose, minerals, water, non-protein nitrogen",
+          "Whey protein concentrate (WPC 35–80), protein-standardised cheese milk, pre-concentration for soft cheese (MMV process), high-protein yoghurt"
+        ],
+        [
+          "Nanofiltration (NF)",
+          "about 1 nm; 200–1,000 Da",
+          "1–4 MPa (10–40 bar)",
+          "Lactose, divalent ions, proteins",
+          "Water and monovalent ions (Na+, K+, Cl−)",
+          "Partial demineralisation of whey (30–40 percent), whey concentration, lactose standardisation"
+        ],
+        [
+          "Reverse osmosis (RO)",
+          "< 1 nm; dense membrane",
+          "3–6 MPa (30–60 bar)",
+          "All solutes",
+          "Water only",
+          "Pre-concentration of milk or whey before evaporation (energy saving), cheese-milk concentration, water recovery"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Membrane fouling (protein deposition, calcium phosphate scaling) is controlled by cross-flow velocity, temperature (about 50 °C for whey), pH and cleaning-in-place cycles. Diafiltration (adding water to the retentate and re-filtering) is used in UF to reach higher protein purity.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.6 Concentration and spray drying",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evaporation: Milk is first concentrated to 45–55 percent total solids in multiple-effect falling-film evaporators under vacuum (boiling at 45–70 °C) because removing water by evaporation costs about one-tenth of removing it in a spray dryer. Mechanical or thermal vapour recompression lowers steam use further.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spray-drying sequence",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Concentrate is pumped to the atomiser at the top of a tall cylindrical chamber.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Atomisation converts the liquid into droplets of 10–200 µm, creating enormous surface area.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hot air (inlet 180–220 °C) contacts the droplets; evaporation is so fast that the droplet surface stays near the wet-bulb temperature (about 50 °C) during the constant-rate period, protecting proteins.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Drying is complete in 5–30 seconds; air leaves at 75–95 °C (outlet temperature governs final moisture).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Powder is separated from the air in cyclones (centrifugal) with bag filters for fines; fines are returned to the atomiser zone for agglomeration.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "A vibrating fluid bed completes drying from about 6 to 3–4 percent moisture, cools the powder and allows lecithination (0.2 percent soya lecithin) for instant whole-milk powder.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Atomiser",
+          "Mechanism",
+          "Parameters",
+          "Characteristics"
+        ],
+        [
+          "Rotary (centrifugal) wheel",
+          "Liquid fed to the centre of a disc rotating at 10,000–20,000 rpm; flung off the rim as a sheet that breaks into droplets",
+          "Peripheral speed 100–200 m/s; low feed pressure",
+          "Handles viscous and abrasive feeds, wide chamber needed (radial spray), flexible capacity, more occluded air, lower bulk density"
+        ],
+        [
+          "Pressure nozzle",
+          "Feed forced at 5–30 MPa through a small orifice with swirl chamber",
+          "High-pressure pump; several nozzles per dryer",
+          "Narrow spray cone, tall-form dryers, denser powder, less occluded air, susceptible to orifice wear and blockage; preferred for agglomerated instant powders"
+        ],
+        [
+          "Two-fluid (pneumatic) nozzle",
+          "Compressed air shears the liquid",
+          "Low throughput",
+          "Pilot scale"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Droplet drying kinetics",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "A droplet dries in two periods: a constant-rate period, where free water evaporates from a saturated surface and the rate depends on air temperature and humidity, and a falling-rate period, where a solid crust forms and internal diffusion of water through the lactose-protein matrix controls the rate. Rapid crust formation at excessive inlet temperature traps vapour, causing hollow or burst particles and scorched particles (brown specks measured on the ADMI scorched-particle disc).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sticky-point temperature and lactose glass transition",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spray-dried lactose is amorphous (a glass). Above the glass-transition temperature (Tg) the matrix softens; about 10–20 °C above Tg the particles become sticky and adhere to walls and to each other. Tg of dry amorphous lactose is about 100 °C but falls steeply as moisture rises (water is a plasticiser), so a powder at 5 percent moisture can become sticky at 40–50 °C. Outlet temperature and powder moisture are therefore set below the sticky point; whey powders, rich in lactose, are pre-crystallised (seeded and held at 30 °C) to convert lactose to the non-hygroscopic α-monohydrate before drying.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Powder quality indices",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Index",
+          "Method",
+          "Typical standard"
+        ],
+        [
+          "Solubility (insolubility) index",
+          "10 g powder reconstituted, centrifuged; sediment in mL",
+          "Spray-dried SMP not more than 2.0 mL (FSSR; ADMI good powder ≤ 1.25 mL); roller-dried not more than 15 mL"
+        ],
+        [
+          "Moisture",
+          "Oven at 102 °C",
+          "SMP and WMP not more than 5 percent (FSSR); typical 3–4 percent"
+        ],
+        [
+          "Fat",
+          "Rose-Gottlieb",
+          "SMP not more than 1.5 percent; WMP not less than 26 percent"
+        ],
+        [
+          "Whey protein nitrogen index (WPNI)",
+          "Undenatured whey protein, mg N per g powder",
+          "Low-heat powder ≥ 6.0; medium 1.5–6.0; high-heat ≤ 1.5 (bakery and chocolate require high-heat; cheese and recombined milk require low-heat)"
+        ],
+        [
+          "Bulk density",
+          "Tapped volume",
+          "0.5–0.7 g/mL; rotary atomiser gives lower density"
+        ],
+        [
+          "Scorched particles",
+          "ADMI disc A–D",
+          "Grade A or B acceptable"
+        ],
+        [
+          "Wettability and dispersibility",
+          "Time to sink and dispersed percentage",
+          "Instant WMP wettable in ≤ 20 s"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] The solubility index is a sediment volume: a lower number means a better powder. A pair stating that high solubility index indicates good solubility is wrong. Roller-dried powder has lower solubility (higher index) because the film is heat-denatured on the drum at 130–150 °C.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.7 Butter technology",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle (phase inversion): Cream is an oil-in-water emulsion. Churning subjects it to air incorporation and mechanical shock; fat globules are driven to the air bubble surfaces, their membranes are stripped, partially crystalline fat spreads over the bubbles, and when the foam collapses the bare globules coalesce into butter grains. The serum (buttermilk) is expelled and the continuous phase becomes fat: a water-in-oil emulsion with 16 percent water dispersed as droplets of 1–10 µm.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Process sequence",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cream separation to 35–40 percent fat; neutralisation if acidity is high (to protect fat from hydrolysis during pasteurisation).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pasteurisation of cream at 85–95 °C (higher than milk because fat protects microbes and lipase must be destroyed); vacreation removes feed flavours.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ripening (optional, cultured butter) with Lactococcus lactis subsp. cremoris and Leuconostoc (diacetyl producers) to 0.4–0.5 percent acidity.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ageing at 4–7 °C for 12–16 hours to crystallise fat; the ratio of solid to liquid fat (about 50 percent solid at churning) governs grain formation; the Alnarp tempering program (cold-warm-cold) adjusts spreadability.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Churning at 8–14 °C (lower in summer, higher in winter) in a batch churn at 20–30 rpm for 30–45 minutes, or in a continuous Fritz-Eisenreich machine with a high-speed beater (1,000–1,400 rpm) followed by working sections. Break point occurs when grains the size of wheat appear.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Draining buttermilk; washing grains with chilled water to remove curd and serum.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Salting (salt not more than 3 percent in table butter) and working: kneading disperses moisture into fine droplets (most below 10 µm) so that microbial growth is confined to isolated droplets, removes free water, and gives a uniform close texture. Over-working causes greasy, leaky butter; under-working causes mottled, free-moisture butter.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Packaging and cold storage at −20 to −25 °C for long storage.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Standards (FSSR, table butter)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Constituent",
+          "Limit"
+        ],
+        [
+          "Milk fat",
+          "Not less than 80 percent"
+        ],
+        [
+          "Moisture",
+          "Not more than 16 percent"
+        ],
+        [
+          "Curd (milk solids-not-fat)",
+          "Not more than 1.5 percent"
+        ],
+        [
+          "Common salt",
+          "Not more than 3.0 percent"
+        ],
+        [
+          "Desi (cooking) butter",
+          "Milk fat not less than 76 percent"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Theories tested: Fisher and Hooker (foam theory), Rahn (foam-protein denaturation), King (phase-inversion theory, now accepted). Overrun is the butter yield above the weight of fat; theoretical overrun = (butter weight − fat weight)/fat weight × 100, typically 20–24 percent.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.8 Ghee technology",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Ghee is clarified milk fat; the aim is to remove water (to below 0.5 percent) and curd so that hydrolytic and microbial spoilage stop, while heat develops the characteristic cooked flavour.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Methods of preparation",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Method",
+          "Steps",
+          "Yield and remarks"
+        ],
+        [
+          "Desi (indigenous)",
+          "Milk → dahi (curd) → churned to makkhan → heated to ghee",
+          "Low fat recovery (80–85 percent), high flavour, 80 percent of Indian production; lactic flavour notes"
+        ],
+        [
+          "Creamery butter method",
+          "Cream → butter → melted and clarified",
+          "88–92 percent recovery; standard dairy method"
+        ],
+        [
+          "Direct cream method",
+          "Cream heated and clarified directly",
+          "Saves butter-making step; slightly more cooked and less typical flavour; higher acidity"
+        ],
+        [
+          "Pre-stratification",
+          "Butter melted and held at 80–85 °C for 15–30 minutes; stratifies into top scum, middle fat, bottom serum; serum (80 percent of moisture and curd) drained before final clarification",
+          "Saves fuel, lower FFA, lower phospholipid (hence slightly lower keeping quality)"
+        ],
+        [
+          "Continuous",
+          "Scraped-surface heat exchangers and centrifugal clarifiers",
+          "Industrial scale"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Clarification chemistry",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Heating to 110–120 °C (held briefly) drives off water as the mixture froths, denatures and browns the curd (Maillard reaction with lactose) and produces the cooked, nutty ghee flavour. Flavour compounds: δ-lactones (C10–C14, from hydroxy fatty acids) give the sweet buttery note; methyl ketones (C7–C15, from β-keto acids by decarboxylation) give the characteristic ghee aroma; free fatty acids (butyric) give sharpness; carbonyls and pyrazines from Maillard reactions add the toasted note. Clarification at 140 °C gives stronger flavour and colour but lowers vitamin A and raises FFA. Phospholipids transferred from the curd residue act as natural antioxidants; this is why desi ghee keeps longer.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Analytical purity standards (FSSR)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Parameter",
+          "Limit",
+          "What it detects"
+        ],
+        [
+          "Butyro-refractometer (BR) reading at 40 °C",
+          "40.0–43.0",
+          "Vegetable fats and animal body fats raise the reading (vanaspati 48–52, lard higher); extreme value signals gross adulteration"
+        ],
+        [
+          "Reichert-Meissl (RM) value",
+          "Not less than 28 (24 or 21 in specified regions such as the cotton tract)",
+          "Milligrams of N/10 KOH for water-soluble volatile fatty acids (butyric, caproic) in 5 g fat; milk fat is uniquely rich (24–34); vegetable oils and body fats have RM below 1, so adulteration lowers it"
+        ],
+        [
+          "Polenske value",
+          "1.0–2.0",
+          "Water-insoluble volatile fatty acids (caprylic, capric, lauric); coconut and palm-kernel oil raise it to 15–18"
+        ],
+        [
+          "Kirschner value",
+          "Typically 20–26 in genuine ghee",
+          "Water-soluble volatile acids as their silver salts; specific for butyric acid; distinguishes milk fat from coconut oil (which raises RM slightly but gives very low Kirschner)"
+        ],
+        [
+          "Moisture",
+          "Not more than 0.5 percent",
+          "Hydrolytic rancidity risk"
+        ],
+        [
+          "Free fatty acids",
+          "Not more than 3.0 percent as oleic acid",
+          "Poor raw material or storage"
+        ],
+        [
+          "Baudouin test",
+          "Negative",
+          "Sesame oil (mandatory 5 percent in vanaspati) gives crimson colour with furfural and HCl, proving vanaspati adulteration"
+        ],
+        [
+          "Phytosterol acetate test",
+          "Negative (melting point of sterol acetate 114–115 °C for cholesterol)",
+          "Vegetable fats introduce phytosterol acetate (126–137 °C)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] Adulteration with vegetable oil lowers the RM value and raises the BR reading; a pair stating that vanaspati raises RM is wrong. Coconut oil raises the Polenske value but not the Kirschner value. Saponification value of ghee is high (220–230) because of short-chain acids; iodine value is low (26–38).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.9 Traditional Indian dairy products",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Indian products are made by three routes: heat-acid coagulation (paneer, chhana), thermal desiccation (khoa) and fermentation (dahi). The route determines the protein structure, moisture and end use.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Product",
+          "Route and conditions",
+          "Key parameters",
+          "Standard (FSSR)",
+          "Yield and uses"
+        ],
+        [
+          "Paneer",
+          "Milk (buffalo preferred, 5–6 percent fat) heated to 90 °C, cooled to 70–85 °C, coagulated with 1–2 percent citric acid (or sour whey) to pH 5.3–5.4; curd settled, whey drained, pressed at 2–3 kg/cm² for 15–20 minutes, chilled in water at 4–6 °C",
+          "Casein and denatured whey proteins co-precipitate (hence higher yield than cheese); pressing gives a firm sliceable block that holds shape on frying; too low a pH gives hard, crumbly paneer; too high gives soft, high-moisture paneer",
+          "Moisture not more than 70 percent; milk fat not less than 50 percent on dry-matter basis (FDM); low-fat paneer: fat not more than 15 percent FDM",
+          "20–22 percent from buffalo milk; 16–18 percent from cow milk; curries, snacks"
+        ],
+        [
+          "Chhana",
+          "Cow milk preferred (smaller fat globules, softer casein, less calcium) heated to boiling, cooled to 70–80 °C, coagulated with lactic or citric acid at pH 5.4; whey drained through muslin without pressing",
+          "Soft, moist, granular, spongy body with good kneadability; buffalo milk gives hard, greasy chhana unsuitable for rasogolla",
+          "Moisture not more than 70 percent; fat not less than 50 percent FDM",
+          "16–18 percent; rasogolla, sandesh, chhana-murki, rasmalai (Bengali sweets)"
+        ],
+        [
+          "Khoa",
+          "Milk boiled vigorously in a shallow open karahi with constant scraping; moisture evaporates, proteins denature, lactose concentrates and partly crystallises, fat partially separates; pat formed at about 70 percent total solids; also made in continuous scraped-surface heat exchangers and inclined steam-jacketed pans",
+          "Buffalo milk preferred (higher fat, softer body, whiter colour, less sandiness)",
+          "Milk fat not less than 30 percent on dry-matter basis; moisture generally 20–30 percent depending on type",
+          "Buffalo milk 20–23 percent; cow milk 17–19 percent; burfi, peda, gulab jamun, kalakand"
+        ],
+        [
+          "Dahi",
+          "Standardised milk heated to 85–90 °C, cooled to 30–37 °C, inoculated 1–2 percent with mixed mesophilic lactococci and thermophilic lactobacilli, incubated 8–12 hours",
+          "Acid gel of casein at pH 4.4–4.6; diacetyl flavour",
+          "Acidity, set body; probiotic variants",
+          "Mishti doi (sweetened), lassi, shrikhand (chakka)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Khoa types",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Type",
+          "Moisture",
+          "Texture",
+          "Sweet made"
+        ],
+        [
+          "Pindi",
+          "Lowest (about 20–25 percent)",
+          "Hard, compact, circular pat",
+          "Burfi, peda"
+        ],
+        [
+          "Dhap",
+          "Highest (35–40 percent)",
+          "Loose, sticky, high moisture",
+          "Gulab jamun, pantua"
+        ],
+        [
+          "Danedar",
+          "Intermediate",
+          "Granular; a little acid (sour whey or citric acid) is added during heating to induce controlled coagulation",
+          "Kalakand, kunda"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Khoa defects: sandiness (lactose crystals after over-concentration or slow cooling), browning (Maillard, high temperature), rancidity and mould on storage (water activity 0.9 permits growth; shelf life 2–3 days ambient, 2 weeks refrigerated).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.10 Comparative table: fluid-milk heat processes at a glance",
+      "style": "Heading 2"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Feature",
+          "LTLT",
+          "HTST",
+          "UHT"
+        ],
+        [
+          "Temperature and time",
+          "63 °C, 30 min",
+          "72 °C, 15 s",
+          "135–150 °C, 1–4 s"
+        ],
+        [
+          "Microbial target",
+          "Vegetative pathogens",
+          "Vegetative pathogens",
+          "Spores; commercial sterility"
+        ],
+        [
+          "Marker enzyme",
+          "ALP negative",
+          "ALP negative, lactoperoxidase positive",
+          "Turbidity negative; ALP negative (may reactivate)"
+        ],
+        [
+          "Whey protein denaturation",
+          "5–10 percent",
+          "10–15 percent",
+          "70–90 percent (indirect)"
+        ],
+        [
+          "Flavour",
+          "Slight",
+          "Minimal",
+          "Cooked, sulphurous (direct UHT milder)"
+        ],
+        [
+          "Packaging and storage",
+          "Refrigerated",
+          "Refrigerated",
+          "Aseptic, ambient"
+        ],
+        [
+          "Typical plant",
+          "Vat",
+          "Plate heat exchanger",
+          "Steam injection or tubular with aseptic filler"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Part 2: Cereals, Pulses & Grain Technology",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Part 2. Cereal, Pulse and Grain Technology",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.1 Rice (Oryza sativa) processing",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Anatomy of paddy",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Milling is the mechanical separation of the layers of the grain. Every yield figure in rice milling follows from the proportion of each layer.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Layer",
+          "Share of paddy weight (convention)",
+          "Composition and function",
+          "Removed at"
+        ],
+        [
+          "Husk (hull: lemma and palea)",
+          "20–22 percent",
+          "Silica-rich, inedible, abrasive; used as fuel and for furfural",
+          "Dehusking (shelling)"
+        ],
+        [
+          "Bran (pericarp, seed coat, nucellus, aleurone)",
+          "5–10 percent (commonly quoted 8–10)",
+          "Fat 15–20 percent, protein, fibre, B-vitamins, minerals; aleurone carries lipase",
+          "Whitening and polishing"
+        ],
+        [
+          "Germ (embryo)",
+          "2–3 percent",
+          "Fat and protein rich",
+          "Comes off with bran"
+        ],
+        [
+          "Endosperm",
+          "About 70 percent",
+          "Starch (90 percent of endosperm dry matter; amylose 15–30 percent), protein 7–8 percent (glutelin oryzenin)",
+          "This is the milled rice"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Theoretical yields: brown rice 78–80 percent of paddy; milled (white) rice 68–72 percent of paddy. Raw paddy milling in India often yields only 62–65 percent, mainly because of breakage.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Milling flow sheet",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cleaning: sieves, aspirators and destoners remove straw, stones, dust, immature grains.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dehusking (shelling): Rubber roll sheller — two rubber-covered rolls rotating in opposite directions at different speeds (differential about 25 percent; for example 1,100 and 850 rpm) with a gap of about 0.5–0.8 mm; the shear between rolls splits the husk off with minimal breakage; 85–90 percent shelling efficiency per pass. Older Engelberg (huller) and disc (emery) shellers cause heavy breakage and bran loss and are discouraged. Husk is aspirated off; the mixture of brown rice and unshelled paddy goes to a paddy separator (tray or compartment type, using differences in density, size and surface friction) and unshelled paddy is returned.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Whitening (bran removal): (a) abrasive whiteners (Satake vertical cone): a rotating emery cone inside a perforated screen grinds the bran off; low pressure, suitable for hard parboiled rice and the first pass; (b) friction whiteners (horizontal): grains rub against each other and against a ribbed steel rotor at higher pressure; the bran peels off; gives a smoother surface, better for raw rice and the final passes. Modern mills use multi-pass abrasive followed by friction, with bran aspiration to keep the grain cool.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Polishing: a soft leather or cloth-lined cone or water-mist polisher removes adhering bran dust and gives gloss (mist polishing). Over-polishing lowers yield and nutrients.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Grading: indented cylinders or plan-sifters separate head rice, large brokens, small brokens (brewers) and bran.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Key milling indices",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Head rice yield (HRY): weight of whole kernels (length ≥ three-quarters of the intact kernel) as a percentage of paddy; the single most important economic index because brokens sell at half price. Raw rice HRY 50–60 percent; parboiled rice 65–70 percent.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Degree of milling (DOM) / degree of polishing: percentage of bran removed relative to brown rice weight; 8–10 percent is full milling; under-milled 4–6 percent. Measured by weight loss, surface lipid content, or whiteness meter. Higher DOM lowers thiamine (about 80 percent of thiamine is in the bran and germ) and fat.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Milling recovery: total milled rice as a percentage of paddy.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Breakage is caused by fissures (sun-cracks from rapid field drying, moisture re-adsorption), chalky kernels, immature grain and high milling pressure; optimum paddy moisture for milling is 13–14 percent.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Parboiling: hydrothermal processing",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Soaking, steaming and drying paddy before milling gelatinises the starch inside the husk. On drying, the starch re-solidifies as a hard, translucent, fissure-free mass, so the grain resists breakage and the bran is held more tightly, while soluble nutrients migrate inward.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Step",
+          "Conditions (CFTRI hot-soaking method)",
+          "Purpose"
+        ],
+        [
+          "Cleaning and soaking",
+          "Hot water 65–70 °C for 3–4 hours (raises paddy moisture to about 30 percent); traditional cold soaking takes 2–3 days and causes fermentation odour",
+          "Hydrate the endosperm uniformly"
+        ],
+        [
+          "Steaming",
+          "Saturated steam at 100 °C (atmospheric) for 5–10 minutes, or pressure parboiling at 1–2 kg/cm²",
+          "Gelatinise starch (gelatinisation temperature 60–75 °C), kill fungi and insects, inactivate enzymes"
+        ],
+        [
+          "Drying",
+          "Sun or mechanical drying to 12–14 percent moisture, ideally in two stages with tempering to avoid stress cracks",
+          "Re-solidify starch, allow safe storage and milling"
+        ],
+        [
+          "Milling",
+          "As raw rice but with higher whitening pressure (harder grain)",
+          "Bran comes off in larger flakes, preferred for bran-oil extraction"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Biochemical changes: starch gelatinisation and partial retrogradation on drying; amylose-lipid complex formation (lowers glycemic index, reduces cooking loss and stickiness); migration of thiamine, niacin and minerals from the aleurone into the endosperm (thiamine retention 70–80 percent in parboiled milled rice against 20–30 percent in raw milled rice; this is why parboiling protected rice-eating populations from beriberi); protein denaturation and surface protein film, which reduces solids loss in cooking water; inactivation of lipase (preventing hydrolytic rancidity of the bran, so parboiled bran keeps better and gives better oil); sealing of fissures and hardening (HRY rises to 65–70 percent); husk loosening; colour change to amber-yellow from Maillard reactions and diffusion of husk pigments; development of a characteristic parboiled flavour; insect resistance from hardness and lower free sugars.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Advantages",
+          "Disadvantages"
+        ],
+        [
+          "Higher head rice yield (less breakage)",
+          "Colour darkening and off-flavour if soaking is prolonged"
+        ],
+        [
+          "Higher thiamine and mineral retention",
+          "Longer cooking time (more energy)"
+        ],
+        [
+          "Lipase inactivation; better bran oil",
+          "Extra capital, fuel and water; effluent"
+        ],
+        [
+          "Lower cooking loss, non-sticky grains, higher swelling",
+          "Bran is harder to remove; consumes more whitening energy"
+        ],
+        [
+          "Better storage and insect resistance",
+          "Vitamin losses from heat if over-processed"
+        ],
+        [
+          "Easier husk removal",
+          "Mould growth and fermentation in traditional cold soaking"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] Parboiling is done on paddy (with husk), never on brown or milled rice; the husk is what allows the vitamins to be trapped inside. A pair stating that parboiling removes bran is wrong: bran removal is milling. Parboiling increases, not decreases, the B-vitamin content of milled rice.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.2 Wheat milling",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wheat kernel",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bran (pericarp, testa, aleurone) about 14–15 percent; endosperm about 83 percent (starch 70 percent, protein 10–12 percent as gluten-forming gliadin and glutenin); germ 2–3 percent (fat 10 percent, enzymes, vitamin E). Hard wheat (Triticum aestivum hard varieties) has strong adhesion between starch and protein and fractures along cell walls to give gritty flour and strong gluten for bread; soft wheat gives fine, weak-gluten flour for biscuits and cakes.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cleaning",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Magnetic separator (iron), milling separator (sieves and aspiration for straw, dust), destoner (gravity table), disc or cylinder separator (seeds of other crops, by length), scourer (removes beeswing and surface dirt), washer-whizzer (optional). Cleaning is called the screen room.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditioning and tempering",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: The miller wants the bran to come off as large, tough, unbroken flakes and the endosperm to crumble easily. Water does both: it toughens the bran (plasticises the fibrous pericarp so it does not shatter into fine specks that contaminate the flour) and mellows the endosperm (weakens the protein-starch bond).",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Wheat type",
+          "Target moisture",
+          "Resting (tempering) time"
+        ],
+        [
+          "Hard wheat",
+          "15.5–16.5 percent",
+          "18–24 hours (water must diffuse to the centre)"
+        ],
+        [
+          "Soft wheat",
+          "14.0–15.0 percent",
+          "6–12 hours"
+        ],
+        [
+          "Durum for semolina",
+          "16.0–17.0 percent",
+          "12–24 hours (very hard, long diffusion)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Warm conditioning (water at 45 °C) shortens tempering; hot conditioning above 60 °C damages gluten. Over-wetting makes the mill choke and the flour mouldy; under-wetting gives bran powder in the flour and high ash.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Roller milling: the gradual reduction system",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: The mill does not grind wheat in one stroke. It opens the grain, scrapes endosperm from the bran in stages (break system), classifies the stock by size and purity (sifting and purifying), and only then grinds the clean endosperm particles (semolina, middlings) into flour (reduction system). Each pair of rolls is followed by a sifter.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Feature",
+          "Break rolls",
+          "Reduction rolls"
+        ],
+        [
+          "Surface",
+          "Corrugated (fluted), with flutes becoming finer from the first break (about 10–12 flutes per inch) to the fifth break (about 26–28 per inch); flutes set sharp-to-sharp or dull-to-dull",
+          "Smooth (frosted or matt finish)"
+        ],
+        [
+          "Speed differential (fast roll : slow roll)",
+          "About 2.5 : 1 (fast roll 500–600 rpm)",
+          "About 1.25 : 1 (lower differential)"
+        ],
+        [
+          "Mechanical action",
+          "Shearing and cutting: the fast fluted roll shears the kernel open against the slow roll, scraping endosperm chunks away from the bran flake",
+          "Crushing and compression: particles are squeezed between smooth surfaces to flour size with minimal bran fragmentation"
+        ],
+        [
+          "Number of passages",
+          "4–6 breaks (B1 to B5 or B6)",
+          "8–12 reductions (C1 to C12), plus sizings and tailings rolls"
+        ],
+        [
+          "Feed",
+          "B1 receives whole tempered wheat; later breaks receive the overtails (bran with adhering endosperm) from the previous sifter",
+          "Purified semolina and middlings (sizings)"
+        ],
+        [
+          "Products",
+          "Coarse bran flakes, semolina (coarse endosperm), middlings (fine endosperm), a little break flour",
+          "Flour (patent and clear grades), fine bran and shorts tailings, germ (flattened and sifted out because it is oily and plastic)"
+        ],
+        [
+          "Roll gap",
+          "Opens progressively; B1 about 0.5 mm, B5 much tighter",
+          "Very fine, set so that starch damage is controlled (6–9 percent damaged starch is desirable for bread flour water absorption)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sifters (plansifters): stacked sieves of decreasing aperture (wire and nylon cloth) that separate each roll's output into overtails (to the next break), semolina and middlings (to purifiers), and throughs (flour).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Purifiers: an inclined oscillating sieve deck with a controlled upward current of air. Semolina from the break system still carries bran chips of the same size. Air aspiration lifts the lighter bran particles while the denser endosperm passes through the graded sieves; the purified semolina goes to the first reduction rolls. The purifier is the device that makes high-grade white flour (low ash) possible.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Flour streams and extraction rate",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Extraction rate = weight of flour obtained per 100 parts of cleaned wheat.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Product",
+          "Extraction (convention)",
+          "Description and use"
+        ],
+        [
+          "Whole wheat atta (chakki or roller)",
+          "95–100 percent",
+          "All bran and germ retained; ash 1.5–2.0 percent; chapati and roti; chakki (stone) milling damages more starch and gives better chapati texture"
+        ],
+        [
+          "Resultant atta",
+          "About 90 percent",
+          "Wholemeal recombined after removal of some bran"
+        ],
+        [
+          "Maida (refined, straight-grade white flour)",
+          "70–72 percent",
+          "Ash below 0.6–0.7 percent (FSSR ash not more than 1.0 percent on dry basis, gluten not less than 7.5 percent, moisture not more than 14 percent — verify current text); bread, biscuits, cakes"
+        ],
+        [
+          "Patent flour",
+          "40–60 percent (the purest central-endosperm streams)",
+          "Ash 0.35–0.45 percent; premium bread flour"
+        ],
+        [
+          "Clear flour",
+          "Remainder of white flour after patent",
+          "Higher ash, darker; rye-type breads, gluten extraction"
+        ],
+        [
+          "Semolina (suji / rava)",
+          "Coarse endosperm particles 250–500 µm, recovered before reduction",
+          "Upma, halwa, pasta (from durum)"
+        ],
+        [
+          "Bran",
+          "14–15 percent",
+          "Feed, fibre supplement"
+        ],
+        [
+          "Shorts and germ",
+          "2–4 percent",
+          "Feed, wheat-germ oil"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Flour treatments: ageing (natural oxidation of thiol groups improves gluten), bleaching and maturing agents (benzoyl peroxide, ascorbic acid as dough improver; chlorine for cake flour; potassium bromate withdrawn in India), enrichment (iron, folic acid, vitamin B12 for fortified atta and maida), α-amylase supplementation (malt flour or fungal amylase) for gassing power.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durum wheat (Triticum durum)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Attribute",
+          "Durum",
+          "Bread wheat (T. aestivum)"
+        ],
+        [
+          "Ploidy",
+          "Tetraploid, 2n = 28 (AABB genome)",
+          "Hexaploid, 2n = 42 (AABBDD)"
+        ],
+        [
+          "Protein",
+          "12–15 percent, high",
+          "10–13 percent"
+        ],
+        [
+          "Gluten character",
+          "Strong but less elastic, more extensible; the D-genome glutenins that give bread elasticity are absent, so durum makes poor bread but excellent pasta",
+          "Elastic, gas-retaining"
+        ],
+        [
+          "Endosperm",
+          "Very hard, vitreous (translucent); vitreousness above 80 percent is a grade criterion and predicts high semolina yield",
+          "Mealy to vitreous"
+        ],
+        [
+          "Pigment",
+          "High lutein (xanthophyll carotenoid), giving amber-yellow semolina and pasta; low lipoxygenase activity is selected to protect lutein during pasta making",
+          "Low"
+        ],
+        [
+          "Milling objective",
+          "Maximise coarse semolina (65–70 percent extraction), minimise flour; more break passages, coarser flutes, extensive purification, high tempering moisture",
+          "Maximise flour"
+        ],
+        [
+          "Pasta extrusion",
+          "Semolina + water to 30–32 percent moisture, mixed under vacuum (prevents air bubbles and lutein oxidation), extruded at 8–12 MPa and 40–50 °C through bronze or Teflon dies (spaghetti, macaroni), dried in stages at 50–90 °C to 12.5 percent moisture; protein network and starch form a compact glassy matrix; high-temperature drying strengthens cooking quality and reduces stickiness",
+          "Not applicable"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] Break rolls are corrugated with the higher speed differential (2.5:1); reduction rolls are smooth with the lower differential (1.25:1). Items swap one of these four attributes. Also, lutein is a carotenoid pigment, not a protein; vitreousness is a physical endosperm property, not a protein content.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.3 Maize (corn) wet milling",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Wet milling is not milling for flour; it is a fractionation of the kernel into its chemically distinct components (starch, protein, germ oil, fibre) using water, mild chemistry and density differences. Dry milling, by contrast, produces grits, meal and flour for food.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maize kernel: endosperm 82 percent (starch 70 percent of kernel, protein zein and glutelin), germ 11–12 percent (fat 33 percent; source of corn oil), pericarp (bran) 5–6 percent, tip cap 1 percent.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Flow sheet",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cleaning: remove cob pieces, dust, stones, other seeds.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Steeping: kernels soaked in counter-current steep tanks at 48–52 °C for 30–48 hours in water containing 0.1–0.2 percent sulphur dioxide (as sulphurous acid) and lactic acid (produced by Lactobacillus during steeping, about 1–2 percent). Functions of SO2: (a) cleaves disulphide bonds of the protein matrix (zein and glutelin) surrounding starch granules, loosening the granules; (b) suppresses putrefactive and spore-forming bacteria while permitting lactic fermentation; (c) prevents enzymatic browning; (d) softens the kernel to 45 percent moisture. Steepwater is drawn off, concentrated to 50 percent solids as corn steep liquor (CSL) — rich in soluble protein, lactic acid, B-vitamins and minerals; used as a fermentation nutrient (penicillin, citric acid production) and in gluten feed.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "First grinding (degermination): coarse attrition (Bauer) mills tear the softened kernel open without breaking the oil-rich germ.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Germ separation: in hydrocyclones (formerly flotation tanks), the oil-rich germ (specific gravity below 1.0) rises in the starch slurry (specific gravity about 1.08) and is removed overhead. Germ is washed, dried and pressed or solvent-extracted for corn oil (crude, then refined; high in linoleic acid and tocopherols); the germ cake goes to feed.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fine grinding and fibre screening: the degermed slurry is ground finely in impact or attrition mills; fibre (bran) is screened off on fine bend screens (DSM) and washed counter-currently; fibre plus CSL becomes corn gluten feed (21 percent protein).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Starch-gluten separation: the mill starch (starch + gluten protein) is sent to continuous centrifuges (primary separators). Gluten protein (specific gravity about 1.1) is lighter than starch (1.5) and comes off as the overflow; it is thickened, dewatered and dried to corn gluten meal (60 percent protein, rich in xanthophyll; poultry feed pigment).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Starch washing: the starch underflow is washed in 8–14 stages of hydrocyclones to remove residual protein (below 0.3 percent) and solubles.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Starch finishing: dewatered on vacuum filters and flash-dried to 12 percent moisture (native starch), or modified (acid-thinned, cross-linked, oxidised, pre-gelatinised), or converted to sweeteners.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yield per 100 kg maize (dry basis, approximate): starch 66–68 kg, gluten feed 20 kg, gluten meal 5–6 kg, oil 3–4 kg.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "High-fructose corn syrup (HFCS) manufacture",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Step",
+          "Enzyme and conditions",
+          "Product"
+        ],
+        [
+          "Liquefaction",
+          "Thermostable bacterial α-amylase (Bacillus licheniformis), jet cooking at 105–110 °C, pH 6.0–6.5, calcium added; starch slurry 30–35 percent solids",
+          "Dextrins, dextrose equivalent (DE) 10–15"
+        ],
+        [
+          "Saccharification",
+          "Fungal glucoamylase (Aspergillus niger) with pullulanase (debranching), 60 °C, pH 4.0–4.5, 24–72 hours",
+          "Glucose syrup, DE 95–98"
+        ],
+        [
+          "Refining",
+          "Filtration, activated carbon, ion exchange",
+          "Clear, colourless dextrose syrup"
+        ],
+        [
+          "Isomerisation",
+          "Immobilised glucose isomerase (Streptomyces), 55–60 °C, pH 7.5–8.0, Mg2+ activator, continuous column",
+          "HFCS-42 (42 percent fructose, 53 percent glucose) — equilibrium conversion"
+        ],
+        [
+          "Enrichment",
+          "Chromatographic (simulated moving bed) separation on calcium-form resin",
+          "HFCS-90, blended with HFCS-42 to HFCS-55 (sweetness equal to sucrose; soft drinks)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Dextrose equivalent (DE) measures reducing power relative to pure glucose (100); maltodextrin is below 20 DE, glucose syrup above 20 DE. Other starch derivatives: dextrose monohydrate (crystallised), maltodextrin, modified starches, sorbitol (by hydrogenation), dextrins (by dry roasting).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] The germ is separated by density (it floats) in hydrocyclones; starch and gluten are separated by density in centrifuges (gluten is lighter and leaves as overflow). A pair stating that starch is lighter than gluten is wrong. Steeping uses sulphur dioxide, not sodium hydroxide; the alkaline process (nixtamalisation with lime) is a different, food-use treatment of maize for tortillas that improves niacin availability.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.4 Pulse processing and milling",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: A pulse grain is two cotyledons (85–90 percent of grain) wrapped in a seed coat (husk, 10–15 percent) that is attached by a layer of gums and mucilage, strongest in pigeon pea (arhar) and weakest in chickpea and lentil. Dal milling must loosen this gummy bond before the husk can be removed without crushing the cotyledons. Loosening is done by water, oil and heat; removal is done by abrasion; splitting of the cotyledons follows naturally once the husk is gone.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Why dehull?",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Removes the fibrous, tannin-rich seed coat (improves digestibility, cooking time, appearance and reduces polyphenol antinutrients), and splitting shortens cooking. Dehulling does not remove trypsin inhibitors or oligosaccharides (raffinose, stachyose, verbascose: flatulence factors) — these need soaking, cooking or germination.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Methods",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Feature",
+          "Dry (oil) milling — traditional and CFTRI",
+          "Wet milling (water conditioning)"
+        ],
+        [
+          "Pre-treatment",
+          "Cleaning and grading; pitting (scratching the seed coat by passing once through an emery roller) so that oil can penetrate",
+          "Cleaning; soaking in water for 2–12 hours (grain absorbs 8–10 percent moisture)"
+        ],
+        [
+          "Conditioning agent",
+          "Edible oil (linseed or groundnut) applied at 0.1–0.3 percent and mixed; heaped and left overnight (tempering); then sun-dried 2–4 days (or CFTRI hot-air conditioning at 120 °C for 10–15 minutes) to about 10 percent moisture; oil and heat hydrolyse and dehydrate the gum layer and create a gap between husk and cotyledon",
+          "Water swells the cotyledons more than the husk, loosening the bond; grain is then sun-dried, a small amount of oil (0.1–0.2 percent) may be applied, and dried further"
+        ],
+        [
+          "Dehusking",
+          "Emery-coated or carborundum roller (under-runner disc sheller or Chakki); husk aspirated; several passes (gota = dehusked whole, dal = split)",
+          "Same roller or disc; fewer passes because the husk is already loose"
+        ],
+        [
+          "Cotyledon splitting",
+          "Passing the dehusked gota through a gentle roller or by impact; the two cotyledons separate at the natural plane",
+          "Same"
+        ],
+        [
+          "Dal yield",
+          "70–75 percent (theoretical maximum about 85–88 percent); CFTRI improved method 75–80 percent",
+          "72–78 percent; better for hard-to-mill pulses (pigeon pea, black gram)"
+        ],
+        [
+          "Milling loss",
+          "10–15 percent as powder (chuni), brokens and over-abraded cotyledon; higher in traditional multi-pass milling",
+          "Lower powder loss, but higher energy and time; risk of fermentation if soaked too long; colour and cooking quality may suffer"
+        ],
+        [
+          "Polishing",
+          "Water, oil or leather polishing for shine (Tur dal is often polished with water and soapstone powder; avoid non-permitted colours)",
+          "Same"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Parameters and defects",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dehulling efficiency = (whole dehulled grains + splits without husk)/total × 100.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Broken and powder should be below 5–8 percent; excessive moisture or pressure increases brokens.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Theoretical yield = 100 − husk fraction; the gap between theoretical and actual yield is the milling loss and is the main economic index of a dal mill.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mini dal mills (CFTRI, PKV) for village level use single emery rollers with 1–2 percent oil and 8–10 percent moisture conditioning.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antinutritional factors removed or reduced by processing: trypsin inhibitors and lectins (heat labile, destroyed by boiling or autoclaving at 120 °C for 15–30 minutes), tannins and phytates (reduced by dehulling, soaking and germination), oligosaccharides (reduced by soaking, germination, fermentation), lathyrogen β-ODAP in khesari dal (Lathyrus sativus; reduced by soaking in hot water and discarding water; sale regulated under FSSR).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] Oil in dry pulse milling is a conditioning aid at 0.1–0.3 percent, not a frying or flavouring step; and heating is for loosening the husk, not for destroying trypsin inhibitors (which requires moist heat during cooking). Dehulling lowers tannins and fibre but does not remove flatulence oligosaccharides, which are in the cotyledon.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.5 Comparative table: wheat fractions and extraction",
+      "style": "Heading 2"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Fraction",
+          "Approximate share of grain",
+          "Ash",
+          "Protein",
+          "Principal use"
+        ],
+        [
+          "Patent flour",
+          "40–60",
+          "0.35–0.45",
+          "11–12 (hard wheat)",
+          "Premium bread, cake (soft)"
+        ],
+        [
+          "Straight-grade maida",
+          "70–72",
+          "0.5–0.7",
+          "10–12",
+          "General bakery"
+        ],
+        [
+          "Semolina / suji",
+          "Recovered at 10–20 percent of break stock",
+          "0.6–0.8",
+          "11–13 (durum higher)",
+          "Pasta, upma"
+        ],
+        [
+          "Whole atta",
+          "95–100",
+          "1.5–2.0",
+          "11–13",
+          "Chapati"
+        ],
+        [
+          "Bran",
+          "14–15",
+          "5–7",
+          "14–16",
+          "Feed, fibre"
+        ],
+        [
+          "Germ",
+          "2–3",
+          "4–5",
+          "25–30",
+          "Oil, supplements"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Part 3: Meat, Poultry, Fish & Egg",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Part 3. Meat, Poultry, Fish and Egg Processing",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.1 Muscle biology",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Meat is skeletal muscle whose living machinery (contraction, energy supply, oxygen transport) has stopped. Everything that happens after slaughter is the running down of that machinery without a blood supply; tenderness, colour and water-holding capacity are the visible results.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Structural hierarchy",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Muscle → bundles (fasciculi, wrapped in perimysium) → fibres (cells, wrapped in endomysium, 10–100 µm diameter) → myofibrils (1–2 µm) → sarcomeres (repeating units between Z-lines, 2–3 µm in resting muscle) → thick filaments (myosin) and thin filaments (actin with tropomyosin and troponin). The whole muscle is sheathed in epimysium (connective tissue) continuous with tendon.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Muscle proteins",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Class",
+          "Share of muscle protein",
+          "Members",
+          "Solubility",
+          "Significance in meat"
+        ],
+        [
+          "Myofibrillar (contractile)",
+          "55–60 percent",
+          "Myosin (about 45 percent of myofibrillar; ATPase head), actin (20 percent), tropomyosin, troponin, titin, nebulin, actinins",
+          "Salt-soluble (extracted at 0.3–0.6 M NaCl; the basis of phosphate-salt brines and emulsion sausage binding)",
+          "Rigor mortis (actomyosin), water-holding capacity, gel formation in sausages, texture"
+        ],
+        [
+          "Sarcoplasmic",
+          "30–35 percent",
+          "Myoglobin (colour), haemoglobin residue, glycolytic enzymes (glyceraldehyde-3-phosphate dehydrogenase, aldolase, creatine kinase), lysosomal cathepsins, calpains",
+          "Water-soluble (low ionic strength)",
+          "Colour, post-mortem glycolysis, drip loss (denatured sarcoplasmic proteins in PSE), flavour precursors"
+        ],
+        [
+          "Stromal (connective tissue)",
+          "10–15 percent",
+          "Collagen (types I and III; triple helix, hydroxyproline marker, converts to gelatin on moist heating at 60–70 °C), elastin (heat-stable, yellow, in ligaments), reticulin",
+          "Insoluble",
+          "Background toughness; increases with animal age because of heat-stable cross-links (pyridinoline); hydroxyproline assay estimates collagen content in meat products"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Myoglobin colour chemistry: deoxymyoglobin (purple-red, Fe2+), oxymyoglobin (bright cherry red, Fe2+ with O2; the bloom seen on freshly cut meat), metmyoglobin (brown, Fe3+; oxidation at low oxygen tension, favoured by high pH drop, light and bacteria). Cooked meat: denatured globin haemichrome (brown-grey). Cured meat: nitrosomyoglobin (red) → nitrosohaemochrome (pink) on cooking.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.2 Post-mortem physiology",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Glycolysis without oxygen",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "After exsanguination, oxygen delivery stops. The muscle continues to need ATP to maintain ion gradients and to keep the actin-myosin cross-bridges relaxed. Creatine phosphate regenerates ATP for a few minutes; thereafter the only route is anaerobic glycolysis of stored glycogen (0.5–1.3 percent of muscle):",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "$$\\text{Glycogen} \\rightarrow \\text{Glucose-1-phosphate} \\rightarrow \\ldots \\rightarrow \\text{Pyruvate} \\rightarrow \\text{Lactic acid} + \\text{ATP}$$",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because there is no circulation, lactic acid accumulates and pH falls from about 7.0–7.2 in living muscle to an ultimate pH (pHu) of 5.4–5.8 in normal beef, pork and lamb within 18–24 hours (beef) or 6–8 hours (pork), and 2–4 hours in poultry breast. Glycolysis stops when glycogen is exhausted or when the pH inactivates phosphofructokinase, whichever comes first. The lower the pH, the closer proteins are to their isoelectric point (about 5.1–5.3 for myofibrillar proteins), the lower the net charge and the lower the water-holding capacity (WHC). The pH decline is also what makes fresh meat microbiologically more stable than live tissue and what gives cooked meat its typical flavour profile.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rigor mortis mechanics",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Phase",
+          "Biochemical state",
+          "Physical state",
+          "Timing (beef / pork / poultry)"
+        ],
+        [
+          "Delay (pre-rigor)",
+          "ATP maintained above about 1 µmol/g by creatine phosphate and glycolysis; cross-bridges cycle freely",
+          "Muscle soft, extensible; pre-rigor meat has highest WHC and best salt-extractability (hot boning advantage)",
+          "0–6 h / 0–1 h / 0–0.5 h"
+        ],
+        [
+          "Onset",
+          "ATP falls below about 1 µmol/g; calcium leaks from sarcoplasmic reticulum (pump fails); myosin heads bind actin but cannot detach without ATP",
+          "Progressive stiffening, loss of extensibility",
+          "6–12 h / 1–3 h / 0.5–1 h"
+        ],
+        [
+          "Full rigor",
+          "ATP exhausted; permanent actomyosin cross-bridges (rigor complex); sarcomeres may shorten",
+          "Maximum stiffness and toughness; minimum WHC",
+          "12–24 h / 3–6 h / 1–4 h"
+        ],
+        [
+          "Resolution (conditioning, ageing)",
+          "Proteolysis of the cytoskeletal scaffold (titin, nebulin, desmin, troponin-T) by calpains (µ- and m-calpain, calcium-activated neutral proteases, active at pH 6–7 early post-mortem; regulated by calpastatin) and cathepsins (lysosomal acid proteases B, D, H, L released as pH falls); the actin-myosin bonds themselves are not reversed, but the structure around them is weakened",
+          "Gradual tenderisation; WHC partially recovers; flavour develops",
+          "7–21 days at 1–4 °C (beef) / 3–5 days / 1 day"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Rigor shortening is worst when ATP exhaustion occurs at very high or very low temperatures: cold shortening (muscle chilled below 10 °C while pH is still above 6.0 and ATP is present; calcium pump fails in the cold, massive contraction up to 40 percent, severe toughness; beef and lamb) and thaw rigor (pre-rigor frozen muscle contracts violently on thawing). Both are prevented by electrical stimulation of the carcass (accelerates glycolysis so rigor is complete before chilling), conditioning at 15 °C until pH falls below 6, and pelvic (tenderstretch) suspension.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] Resolution of rigor is not the breaking of actomyosin cross-bridges by ATP (ATP never returns); it is enzymatic weakening of the surrounding structure by calpains and cathepsins. Rigor mortis in fish and poultry begins and resolves much faster than in beef. Items that assign calpains to acid conditions and cathepsins to neutral conditions have reversed them.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.3 Muscle defects: PSE and DFD",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Both defects are abnormalities in the rate or extent of post-mortem glycolysis, and both stem from pre-slaughter stress; the difference is whether the stress was acute (minutes to an hour before slaughter) or chronic (hours to days).",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Feature",
+          "PSE (pale, soft, exudative)",
+          "DFD (dark, firm, dry; dark-cutting beef)",
+          "Normal"
+        ],
+        [
+          "Species",
+          "Mainly pork; also turkey and chicken breast",
+          "Mainly beef, lamb; also pork",
+          "—"
+        ],
+        [
+          "Stress type",
+          "Acute: excitement, fighting, rough handling or electrical goading immediately before slaughter; genetic predisposition (halothane-sensitive RYR1 ryanodine-receptor mutation, porcine stress syndrome)",
+          "Chronic: long transport, fasting, cold, fear, mixing of strange animals, exhaustion over 12–48 hours",
+          "Rested"
+        ],
+        [
+          "Muscle glycogen at death",
+          "Normal or high",
+          "Depleted before slaughter",
+          "Normal"
+        ],
+        [
+          "Rate of pH fall",
+          "Very rapid: pH below 5.8–6.0 within 45 minutes while carcass is still warm (above 35 °C)",
+          "Very slow or absent (little glycogen to convert)",
+          "Gradual over 6–24 h"
+        ],
+        [
+          "Ultimate pH",
+          "Normal to low (5.3–5.6)",
+          "High: above 6.0 (6.2 commonly quoted)",
+          "5.4–5.8"
+        ],
+        [
+          "Mechanism of defect",
+          "Low pH at high temperature denatures sarcoplasmic and myofibrillar proteins; denatured proteins precipitate onto myofibrils, scatter light (pale) and lose water-binding (exudative, soft)",
+          "High pH keeps proteins far from isoelectric point: high net charge, maximum water binding (dry surface, firm), closed structure absorbs light and oxygen poorly (dark, little oxymyoglobin bloom)",
+          "—"
+        ],
+        [
+          "Water-holding capacity",
+          "Very low; drip loss 6–10 percent",
+          "Very high; little drip",
+          "Moderate; 2–4 percent"
+        ],
+        [
+          "Colour",
+          "Pale, pinkish-grey",
+          "Dark purple-red",
+          "Bright red / pink"
+        ],
+        [
+          "Microbial shelf life",
+          "Normal (low pH)",
+          "Short: high pH and available glucose exhausted favour proteolytic spoilage bacteria (Pseudomonas), off-odours early",
+          "Normal"
+        ],
+        [
+          "Processing consequences",
+          "Poor cooked ham yield, poor emulsion stability, poor cured colour, high cooking loss",
+          "Unsuitable for fresh retail (rejected by consumers), vacuum-packed meat spoils; useful in cooked and emulsion products because of high WHC, but cured colour is poor",
+          "—"
+        ],
+        [
+          "Detection",
+          "pH at 45 min (pH45) below 6.0; colour (L* value high); drip loss; conductivity (PQM meter); halothane and DNA test for RYR1 in breeding stock",
+          "pHu above 6.0 at 24 h; colour (L* low); glucose oxidase strip for muscle glucose",
+          "—"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mitigation strategies",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Point of control",
+          "PSE",
+          "DFD"
+        ],
+        [
+          "Genetics",
+          "Remove halothane-positive (RYR1) animals; select against stress-susceptible lines",
+          "Select calm temperament"
+        ],
+        [
+          "Transport",
+          "Short, cool, low stocking density; avoid heat; avoid electric goads",
+          "Minimise duration; avoid mixing unfamiliar animals; provide water; avoid cold and wet; keep sexes separate"
+        ],
+        [
+          "Lairage",
+          "Rest 2–4 hours with showers in warm weather to calm and cool; do not over-rest (which depletes glycogen)",
+          "Rest with feed where lairage is prolonged, but the cure is to prevent glycogen depletion before arrival; mixing in lairage worsens DFD"
+        ],
+        [
+          "Stunning and slaughter",
+          "Effective stunning (CO2 or electrical), rapid bleeding; avoid pre-stunning excitement",
+          "Same"
+        ],
+        [
+          "Chilling",
+          "Rapid chilling of pork carcasses (blast chilling, −20 °C air, or spray chilling) to slow glycolysis before pH falls too far at high temperature",
+          "Normal chilling; electrical stimulation does not help because glycogen is absent"
+        ],
+        [
+          "Processing",
+          "Use PSE meat in emulsion products with phosphate, blend with normal meat",
+          "Use DFD meat in cooked, cured, or emulsion products; do not vacuum-pack as fresh"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] PSE = acute stress = rapid pH fall = low ultimate pH; DFD = chronic stress = little glycogen = high ultimate pH. A pair giving PSE a high ultimate pH or DFD a rapid pH fall is wrong. Both have poor cured colour, but only DFD has poor microbial shelf life.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.4 Meat preservation and processing",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Curing chemistry",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Curing is the combined action of salt, nitrite (or nitrate reduced to nitrite) and reductants to produce a product that is microbiologically safer, pink, flavoured and resistant to rancidity.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Ingredient",
+          "Level",
+          "Function",
+          "Mechanism"
+        ],
+        [
+          "Sodium chloride",
+          "2–3 percent in product; brine 10–20 percent",
+          "Water-activity reduction (aw below 0.97 at 3 percent slows many bacteria); flavour; extracts myofibrillar proteins for binding; synergistic with nitrite",
+          "Osmotic dehydration of microbial cells; chloride ion toxicity; increases swelling of myofibrils above pH 5.5 (higher WHC)"
+        ],
+        [
+          "Sodium nitrite",
+          "Ingoing 100–150 ppm (mg/kg) typical; statutory maxima vary (for example 200 ppm in many codes); never exceed limits because nitrite is toxic (lethal dose about 1 g)",
+          "(1) Inhibits Clostridium botulinum spore outgrowth and toxin formation (the anti-botulinal function is the primary safety reason for nitrite in canned cured meats and packaged hams); (2) colour; (3) cured flavour; (4) antioxidant delaying warmed-over flavour",
+          "Nitrite → nitrous acid (pH 5.5–6) → nitric oxide (NO) with reductants; NO binds haem iron of myoglobin to form nitrosomyoglobin (red); heating denatures globin, giving stable pink nitrosohaemochrome. NO and nitrous acid react with iron-sulphur enzymes (ferredoxin) of clostridia, blocking spore germination (Perigo effect: heated nitrite is more inhibitory). Nitrite also chelates iron, limiting lipid oxidation"
+        ],
+        [
+          "Sodium or potassium nitrate",
+          "Dry-cured products (hams, fermented sausages)",
+          "Reservoir of nitrite in long cures",
+          "Reduced to nitrite by nitrate-reducing bacteria (Staphylococcus carnosus, Micrococcus) over days to weeks"
+        ],
+        [
+          "Sodium ascorbate or erythorbate (isoascorbate)",
+          "500–550 ppm",
+          "Cure accelerator; colour stability; blocks N-nitrosamine formation",
+          "Reduces nitrite to NO rapidly and keeps haem iron reduced; scavenges nitrosating species so that secondary amines are not nitrosated during frying (bacon)"
+        ],
+        [
+          "Phosphates (sodium tripolyphosphate)",
+          "0.3–0.5 percent",
+          "Raise pH and ionic strength, chelate calcium and magnesium, dissociate actomyosin",
+          "Increase WHC and yield of hams and emulsion sausages"
+        ],
+        [
+          "Sugar",
+          "1–2 percent",
+          "Flavour, counteracts salt harshness, substrate for fermentation",
+          "Browning"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Curing methods: dry cure (rub, weeks), brine immersion (days), pumping (artery or multi-needle stitch injection with 10–20 percent pickle followed by tumbling or massaging to distribute brine and extract proteins), and direct addition in comminuted products. Nitrosamine concern: nitrite plus secondary amines at high temperature (fried bacon) forms N-nitrosopyrrolidine; controlled by limiting ingoing nitrite, mandatory ascorbate, and avoiding over-cooking.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Smoking",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Smoke is the product of incomplete combustion (pyrolysis) of hardwood (oak, hickory, beech; softwoods with resins are avoided) at 200–400 °C with limited oxygen. The fractions deposited on the meat surface preserve, colour and flavour it.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Smoke constituent",
+          "Source in wood",
+          "Effect on product"
+        ],
+        [
+          "Phenols (guaiacol, 4-methylguaiacol, syringol, eugenol)",
+          "Lignin pyrolysis",
+          "Antimicrobial (surface), antioxidant (delays rancidity), smoky flavour"
+        ],
+        [
+          "Carbonyls (formaldehyde, acetaldehyde, furfural, hydroxyacetaldehyde)",
+          "Cellulose and hemicellulose pyrolysis",
+          "Maillard-type browning with surface amino groups gives the golden-brown smoke colour; formaldehyde cross-links collagen in casings (skin formation); some antimicrobial effect"
+        ],
+        [
+          "Organic acids (acetic, formic, propionic)",
+          "Hemicellulose",
+          "Lower surface pH, inhibit bacteria, aid skin formation and peelability of casings"
+        ],
+        [
+          "Polycyclic aromatic hydrocarbons (benzo[a]pyrene)",
+          "High-temperature pyrolysis above 400 °C, fat dripping into fire",
+          "Carcinogenic contaminant; limited by controlled smoke generation at lower temperature, filtering, and by use of liquid smoke (aqueous condensate with PAH removed); EU limit for benzo[a]pyrene in smoked meat 2 µg/kg"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Smoking regimes: cold smoking (15–30 °C, days; salmon, dry sausages; no cooking, product remains raw), warm smoking (30–50 °C), hot smoking (60–90 °C with cooking to a core of 70–72 °C; frankfurters, hams). Drying before smoking (surface tacky) is essential for uniform deposition. Smoking is a surface treatment and is combined with curing, drying and refrigeration for safety; smoke alone is not a sterilising process.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.5 Seafood technology and freshness indices",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Fish muscle differs from mammalian muscle in three ways that make it spoil faster: small glycogen reserves (so the ultimate pH stays high at 6.2–6.8, which is favourable to bacteria), a higher proportion of easily degraded proteins and very active endogenous enzymes adapted to cold-water temperatures (so autolysis continues on ice), and a surface flora of psychrotrophic Gram-negative bacteria (Pseudomonas, Shewanella) that grow at 0 °C. Fish also carry trimethylamine oxide (TMAO) as an osmolyte, which bacteria convert to the fishy-smelling trimethylamine.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Post-harvest autolysis cascade",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fish rigor begins within minutes to a few hours (faster if struggled on the hook or stored warm) and resolves within 1–3 days on ice. Nucleotide degradation runs in parallel:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "ATP ──► ADP ──► AMP ──► IMP ──► HxR (inosine) ──► Hx (hypoxanthine)\n  (ATPase)   (myokinase)  (AMP deaminase)  (5'-nucleotidase, endogenous)  (nucleoside phosphorylase, mainly bacterial)",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "ATP, ADP and AMP disappear within about 24 hours.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "IMP (inosine monophosphate) is responsible for the pleasant fresh-fish umami flavour; its accumulation is the peak of eating quality (1–3 days on ice).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inosine is flavourless; hypoxanthine is bitter and signals spoilage. The IMP → inosine step is autolytic; the inosine → hypoxanthine step is accelerated by bacteria, so the ratio tracks both autolysis and microbial activity.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Freshness indices",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Index",
+          "Definition / formula",
+          "Interpretation",
+          "Notes"
+        ],
+        [
+          "K-value",
+          "$K\\,(\\%) = \\dfrac{[\\text{HxR}] + [\\text{Hx}]}{[\\text{ATP}] + [\\text{ADP}] + [\\text{AMP}] + [\\text{IMP}] + [\\text{HxR}] + [\\text{Hx}]} \\times 100$",
+          "Below 20 percent: very fresh (sashimi grade); 20–60 percent: moderately fresh, acceptable for cooking; above 60 percent: spoiled. Ki-value (simplified: HxR and Hx over IMP + HxR + Hx) is used after 24 hours",
+          "Species-specific rates; HPLC or enzyme-strip (Fresh Tester) measurement; best index for the early (autolytic) phase because it rises before TVB-N"
+        ],
+        [
+          "Total volatile basic nitrogen (TVB-N)",
+          "Sum of ammonia, dimethylamine and trimethylamine nitrogen, mg N per 100 g, by Conway microdiffusion or steam distillation",
+          "Fresh: 5–20 mg; rejection: above 30–35 mg N/100 g (EU limits 25, 30 or 35 mg depending on species; many Indian references use 30 mg)",
+          "Rises late (bacterial deamination of amino acids), so it is a spoilage index rather than a freshness index; high in elasmobranchs (urea) and in frozen fish (DMA from TMAO breakdown by endogenous TMAOase)"
+        ],
+        [
+          "Trimethylamine nitrogen (TMA-N)",
+          "TMA formed by bacterial reduction of TMAO; measured by picrate method, mg N per 100 g",
+          "Fresh: below 1.5 mg; rejection: above 10–15 mg N/100 g",
+          "Reaction: TMAO + NADH (or lactate) → TMA + H2O, catalysed by TMAO reductase of Shewanella putrefaciens (the specific spoilage organism of iced marine fish), Photobacterium phosphoreum (vacuum-packed fish), Vibrio and Aeromonas; freshwater fish contain little TMAO so TMA is not a useful index for them; TMAO is an anaerobic electron acceptor, so TMA formation continues even in vacuum packs"
+        ],
+        [
+          "Histamine",
+          "Decarboxylation of histidine by Morganella morganii, Klebsiella, Hafnia in scombroid fish (tuna, mackerel, sardine) held above 4 °C",
+          "Limits of 50 mg/kg (US FDA action level), 100–200 mg/kg (EU, Codex); FSSR specifies limits for fish and fish products",
+          "Causes scombroid poisoning; heat-stable, not destroyed by cooking or canning"
+        ],
+        [
+          "Peroxide value and TBA number",
+          "Lipid oxidation in fatty fish",
+          "PV above 10–20 meq O2/kg or TBA above 1–2 mg malonaldehyde/kg indicates rancidity",
+          "Omega-3 PUFA are highly susceptible; glazing and vacuum packing protect"
+        ],
+        [
+          "Sensory (EU or Torry scheme) and Torrymeter",
+          "Eyes, gills, skin, odour, texture; dielectric properties of skin",
+          "Grades E, A, B, unfit",
+          "Rapid, non-destructive"
+        ],
+        [
+          "Microbial",
+          "Total viable count at 20–25 °C",
+          "Above 10^6–10^7 cfu/g: spoilage",
+          "Slow (48 h)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Preservation essentials",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Icing at 1:1 fish to flaked ice (0 °C) gives 10–14 days for lean fish; chilled seawater and slurry ice chill faster; superchilling (−1 to −2 °C); freezing at −30 to −40 °C in plate or blast freezers with glazing (ice coat) to prevent dehydration and oxidation, stored at −18 °C or below; modified atmosphere (CO2 40–60 percent) extends chilled life; canning (tuna, sardine) at 115–121 °C; drying, salting and smoking traditional. Freshness is lost most during the first hours after catch, so onboard chilling matters more than any later treatment.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] K-value is a freshness index that rises from day zero; TVB-N and TMA-N are spoilage indices that rise late. A pair stating that TVB-N is the best indicator of very fresh fish is wrong. TMA comes from TMAO by bacterial reduction, not from protein breakdown, and is irrelevant in freshwater fish. Histamine is not destroyed by cooking.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.6 Egg processing and quality evaluation",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Structure and chemistry",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Component",
+          "Share of egg weight",
+          "Structure and composition",
+          "Functional and safety role"
+        ],
+        [
+          "Shell",
+          "9–12 percent",
+          "94 percent calcium carbonate (calcite), 1 percent magnesium carbonate and phosphate, 4 percent organic matrix; 7,000–17,000 pores (funnel-shaped, more at the broad end); outer cuticle (bloom) of mucin-like protein seals pores; two shell membranes (keratin-like) separate at the broad end to form the air cell",
+          "Gas exchange (CO2 out, O2 in); cuticle and membranes are the first barriers to bacteria; washing removes cuticle (hence oiling after washing); air cell grows as water and CO2 are lost"
+        ],
+        [
+          "Albumen (egg white)",
+          "58–60 percent",
+          "Four layers: outer thin, thick (gel), inner thin, chalaziferous; about 88 percent water, 10–11 percent protein, 0.5 percent carbohydrate, almost no fat; pH 7.6 at lay",
+          "Foaming (meringue), coagulation, antimicrobial defence"
+        ],
+        [
+          "Yolk",
+          "30–33 percent",
+          "Enclosed in vitelline membrane; alternating light and dark layers around the latebra; about 50 percent water, 32–35 percent lipid (triglycerides, phospholipid lecithin, cholesterol), 16 percent protein (lipovitellin, lipovitellenin as low-density lipoprotein, phosvitin, livetins); carotenoid pigments (lutein, zeaxanthin) from feed; pH 6.0",
+          "Emulsification (mayonnaise), colour, richness; main site of Salmonella Enteritidis multiplication when the vitelline membrane weakens"
+        ],
+        [
+          "Chalazae",
+          "—",
+          "Twisted cords of thick albumen (ovomucin) anchoring the yolk to the poles",
+          "Keep yolk centred; prominent chalazae indicate freshness"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Albumen proteins and their functions",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Protein",
+          "Share of albumen protein",
+          "Property"
+        ],
+        [
+          "Ovalbumin",
+          "54 percent",
+          "Phosphoglycoprotein; main structural and foaming protein; denatures on heating (coagulation at 80–84 °C); converts to heat-stable S-ovalbumin on storage"
+        ],
+        [
+          "Ovotransferrin (conalbumin)",
+          "12–13 percent",
+          "Binds iron (and copper, zinc), starving bacteria of iron: bacteriostatic; most heat-sensitive albumen protein (denatures at 57–65 °C), which limits pasteurisation temperature; stabilised by adding aluminium or iron salts in commercial pasteurisation"
+        ],
+        [
+          "Ovomucoid",
+          "11 percent",
+          "Trypsin inhibitor; heat-stable; major allergen"
+        ],
+        [
+          "Ovomucin",
+          "1.5–3.5 percent",
+          "Sulphated glycoprotein fibres forming the gel of thick albumen; its complex with lysozyme maintains thick-white viscosity"
+        ],
+        [
+          "Lysozyme (ovoglobulin G1)",
+          "3.4 percent",
+          "N-acetylmuramidase that lyses Gram-positive cell walls; antimicrobial; used as a food preservative (cheese)"
+        ],
+        [
+          "Ovoglobulins G2, G3",
+          "8 percent",
+          "Foaming"
+        ],
+        [
+          "Avidin",
+          "0.05 percent",
+          "Binds biotin extremely tightly (antinutrient in raw white; destroyed by cooking); antimicrobial by biotin deprivation"
+        ],
+        [
+          "Ovoinhibitor, cystatin, ovoflavoprotein",
+          "Minor",
+          "Protease inhibitors, riboflavin carrier (yellow-green tint of white)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Quality grading",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Candling: the egg is rotated in front of a bright light in a dark room (or on a conveyor with a light bank). It reveals shell cracks and dirt, air-cell depth, yolk shadow visibility and mobility, blood and meat spots, and development. Air-cell depth is measured at the broad end with a gauge.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Grade (USDA, candled)",
+          "Air cell depth",
+          "Albumen",
+          "Yolk",
+          "Shell"
+        ],
+        [
+          "AA",
+          "Not more than 1/8 inch (about 3 mm)",
+          "Clear, firm; yolk outline indistinct",
+          "Practically free of defects, centred, barely visible",
+          "Clean, unbroken, normal shape"
+        ],
+        [
+          "A",
+          "Not more than 3/16 inch (about 5 mm)",
+          "Clear, reasonably firm; outline fairly well defined",
+          "Practically free of defects",
+          "Clean, unbroken"
+        ],
+        [
+          "B",
+          "More than 3/16 inch (some texts: more than 8 mm); may be free or bubbly",
+          "Weak, watery; yolk outline plainly visible",
+          "Enlarged, flattened, slightly mobile; small spots permitted",
+          "Slightly stained; abnormal shape permitted"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Haugh unit (HU) — Raymond Haugh, 1937 — the standard interior quality measure, relating the height of thick albumen (H, in mm, measured with a tripod micrometer beside the yolk after breaking the egg on a flat glass) to egg weight (W, in grams), so that eggs of different sizes can be compared:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "$$HU = 100 \\log_{10}\\left(H - 1.7\\,W^{0.37} + 7.57\\right)$$",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Interpretation: AA 72 and above; A 60–71; B 31–59; below 30 unfit. A freshly laid egg scores 80–90; HU falls by about 1 unit per day at room temperature and much more slowly at 10 °C. Example: for a 60 g egg with albumen height 7.0 mm, $1.7 \\times 60^{0.37} = 1.7 \\times 4.55 = 7.73$; $H - 7.73 + 7.57 = 6.84$; $\\log_{10} 6.84 = 0.835$; HU = 83.5 (Grade AA).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yolk index = yolk height / yolk width (both in mm, measured on the broken-out egg). Fresh: 0.38–0.44 (typical 0.40–0.42); falls as the yolk absorbs water from the white and the vitelline membrane weakens; below 0.25 the yolk flattens and breaks easily on separation (stale). Albumen index = thick-albumen height / average diameter (fresh 0.09–0.12). Yolk colour by Roche (DSM) fan 1–15.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Deterioration chemistry during storage",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Carbon dioxide loss through pores: albumen pH rises from 7.6 at lay to 9.0–9.5 within a few days at room temperature (yolk pH rises from 6.0 to 6.4–6.8). This is the primary trigger of all other changes; it is slowed by cool storage, oiling the shell (mineral oil seals pores), coating, or storage in CO2-enriched atmospheres.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thinning of thick albumen: at high pH the ovomucin-lysozyme electrostatic complex dissociates and the ovomucin gel network breaks (β-ovomucin loses carbohydrate), so thick white becomes thin, watery white; Haugh unit falls; the yolk moves freely and the outline becomes visible on candling.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Water migration: water moves from the white into the yolk by osmosis; the yolk enlarges and flattens; the vitelline membrane stretches and weakens (yolk index falls); the yolk becomes easier to break and more accessible to any bacteria that penetrate the white.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Air-cell enlargement: water loss (0.5–1 percent weight loss per week at ambient) enlarges the air cell; the egg floats in brine when stale (specific gravity below 1.06).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chemical flavour changes: off-flavours from lipid oxidation, absorption of odours through pores, conversion of ovalbumin to S-ovalbumin (poorer foaming and gel strength).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Microbial rots: bacteria enter via pores when the cuticle is damaged or the egg is wet (thermal contraction draws contaminated water in, so eggs must not be washed in water cooler than the egg). The albumen's defences (lysozyme, ovotransferrin, avidin, high pH) are overcome by certain Gram-negative bacteria, and the yolk, once reached, supports rapid growth.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Rot",
+          "Organism",
+          "Appearance and odour"
+        ],
+        [
+          "Green rot",
+          "Pseudomonas fluorescens (and other pseudomonads)",
+          "Green fluorescent pigment in the white, visible under UV light at early stage; later sour, fruity odour; most common rot of chilled eggs"
+        ],
+        [
+          "Black rot",
+          "Proteus vulgaris (also Aeromonas, some Pseudomonas)",
+          "Yolk and white turn muddy brown to black; gas (hydrogen sulphide, putrid odour); eggs may burst"
+        ],
+        [
+          "Red rot",
+          "Serratia marcescens",
+          "Red pigment"
+        ],
+        [
+          "Colourless (clear) rot",
+          "Alcaligenes, Achromobacter, Pseudomonas",
+          "Odourless or mild; detected by candling as watery white"
+        ],
+        [
+          "Pink rot",
+          "Pseudomonas",
+          "Pink white and yolk"
+        ],
+        [
+          "Mould (pin-spot or whisker)",
+          "Penicillium, Cladosporium, Sporotrichum",
+          "Coloured spots on shell or just under it in humid storage"
+        ],
+        [
+          "Sour egg",
+          "Pseudomonas, Alcaligenes",
+          "Sour odour, slight turbidity of white"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Salmonella Enteritidis contaminates eggs trans-ovarially (inside the yolk or albumen before the shell forms) as well as through the shell; it does not cause visible rot, which is why intact-looking eggs can carry the pathogen and why pasteurisation and cooking are required.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Preservation and processing",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cool storage: 10–13 °C and 70–80 percent relative humidity for market eggs (prevents sweating and mould); 0–1 °C with 85–90 percent RH for long storage up to 6–9 months (with oiling).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shell treatments: oiling with odourless mineral oil within 24 hours of lay (seals pores, halves HU loss), thermostabilisation (dipping in hot water or oil at 54–60 °C for 10–15 minutes forms a thin coagulated layer of albumen under the shell and kills surface bacteria), coating with waxes or shellac, immersion in lime water or water glass (sodium silicate; traditional).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pasteurisation of liquid egg: whole egg 60 °C for 3.5 minutes (USDA; 64.4 °C for 2.5 minutes alternative); egg white 56–57 °C for 3.5 minutes (lower because ovotransferrin is heat-labile; stabilised with aluminium sulphate or by adjusting pH to 7.0); yolk 61–63 °C for 3.5 minutes (fat protects bacteria, so a higher temperature is needed); target is a 9-log reduction of Salmonella; α-amylase test confirms whole-egg pasteurisation.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dried egg: spray drying after desugaring (glucose removed by glucose oxidase-catalase or by yeast or bacterial fermentation) to prevent Maillard browning and loss of solubility in storage; egg-white powder is pasteurised in the dry state (hot room at 54 °C for 7 days) to destroy Salmonella.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Frozen egg: yolk gels on freezing below −6 °C (lipoprotein aggregation); prevented by adding 10 percent salt or sugar before freezing.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Egg products: liquid, frozen, dried; used in bakery, mayonnaise, noodles.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] Albumen pH rises on storage (7.6 → 9.5) because carbon dioxide is lost; it does not fall. Haugh unit and yolk index both fall with age. Green rot is Pseudomonas, black rot is Proteus; items swap them. The air-cell thresholds increase from AA to B, and HU thresholds decrease from AA to B.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Part 4: Horticultural Processing",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Part 4. Horticultural Processing (Fruits and Vegetables)",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1 Post-harvest physiology",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: A harvested fruit or vegetable is alive. It continues to respire, transpire, ripen and senesce using its own stored reserves, because it has been cut off from the plant's supply of water, sugars and minerals. Post-harvest technology is the management of this living tissue to slow its metabolism without killing it.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Respiration",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "$$\\text{C}6\\text{H}{12}\\text{O}6 + 6\\,\\text{O}2 \\rightarrow 6\\,\\text{CO}2 + 6\\,\\text{H}2\\text{O} + \\text{energy (about 2,816 kJ, i.e. 673 kcal per mole of glucose)}$$",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "About 40 percent of the energy is captured as ATP; the remainder is released as vital heat (heat of respiration), which must be removed by the cold store refrigeration load. Vital heat is proportional to respiration rate: leafy vegetables, broccoli, asparagus, mushrooms and berries (high respiration, 20–60 mg CO2/kg/h at 5 °C) are highly perishable and generate much heat; apples, citrus, onions, potatoes and nuts (low respiration, 1–10 mg CO2/kg/h) store for months.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Respiratory quotient (RQ) = CO2 evolved / O2 consumed: about 1.0 for carbohydrate substrate, below 1 for lipids (avocado), above 1 when organic acids are oxidised or when fermentation begins (anaerobic conditions, RQ rises sharply with ethanol and acetaldehyde accumulation).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Temperature coefficient Q10 = (rate at T + 10 °C) / (rate at T). For most produce Q10 is 2–3 in the 5–25 °C range (and higher, up to 4–7, between 0 and 10 °C). Consequence: each 10 °C reduction halves to thirds the respiration rate and roughly doubles or triples the storage life. Pre-cooling immediately after harvest (hydrocooling, forced-air cooling, vacuum cooling for leafy crops, package icing) removes field heat and gives the largest single gain in shelf life.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chilling injury: tropical and subtropical produce (banana below 13 °C, mango below 10 °C, tomato below 10–12 °C, cucumber and capsicum below 7 °C) suffers membrane phase change at low but non-freezing temperature, with pitting, uneven ripening, browning and decay. Each commodity therefore has a lowest safe temperature.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transpiration",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Water loss by evaporation from the surface, driven by the vapour pressure deficit between the saturated intercellular air of the tissue and the storage air. Rate is governed by surface-to-volume ratio (leafy vegetables lose fastest), surface structure (cuticle thickness, waxiness, stomata, lenticels, wounds), temperature and relative humidity, and air velocity. A loss of 5–10 percent of fresh weight produces visible wilting, shrivelling and loss of crispness and saleable weight. Control: high RH (85–95 percent; 95–100 percent for leafy crops), low temperature (lowers vapour pressure), reduced air movement once cooled, waxing (carnauba, shellac on citrus, apple, cucumber), film packaging and liners, curing of root crops (healing of wounds).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Climacteric versus non-climacteric fruits",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Feature",
+          "Climacteric",
+          "Non-climacteric"
+        ],
+        [
+          "Respiration pattern",
+          "After a pre-climacteric minimum, respiration rises sharply to a climacteric peak that coincides with ripening, then declines in senescence",
+          "Respiration declines gradually with no peak; ripening changes are slow and continuous"
+        ],
+        [
+          "Ethylene",
+          "Autocatalytic burst (System 2): ethylene induces its own synthesis; internal ethylene rises 100–1,000 fold; exogenous ethylene advances the climacteric and hastens ripening",
+          "Low, non-autocatalytic (System 1) production; exogenous ethylene increases respiration transiently but does not trigger true ripening (it does degreen citrus)"
+        ],
+        [
+          "Harvest stage",
+          "Can be harvested mature-green and ripened off the plant (storage and transport advantage)",
+          "Must be harvested when ripe or nearly ripe because they do not improve after harvest"
+        ],
+        [
+          "Starch reserves",
+          "Often high; starch converts to sugar during ripening (banana 20 percent starch to 1 percent)",
+          "Low; sugars accumulate only on the plant"
+        ],
+        [
+          "Examples",
+          "Banana, mango, apple, pear, tomato, papaya, guava, sapota (chiku), avocado, kiwifruit, apricot, peach, plum, fig, passion fruit, custard apple, jackfruit, muskmelon (cantaloupe)",
+          "Citrus (orange, lemon, lime, grapefruit), grape, strawberry, pineapple, cherry, litchi, pomegranate, cucumber, watermelon, cashew apple, capsicum, olive, most vegetables"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] Ripening and the climacteric peak are not the same as senescence; respiration rises during the climacteric and then falls. Exogenous ethylene makes non-climacteric fruit respire more but does not make it climacteric. Items that place pineapple, grape or citrus in the climacteric list are wrong; items that place avocado or banana in the non-climacteric list are wrong. Watermelon and cucumber are non-climacteric; muskmelon is climacteric.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ethylene biosynthesis and management",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Methionine ──(SAM synthetase)──► S-adenosyl methionine (SAM) ──(ACC synthase; rate-limiting, induced by ripening, wounding, stress)──► 1-aminocyclopropane-1-carboxylic acid (ACC) ──(ACC oxidase; needs O2)──► Ethylene (C2H4)",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ethylene is a gaseous hormone active at 0.1–1 µL/L (ppm). It binds copper-containing ETR receptors; binding relieves repression and ripening genes (polygalacturonase, pectin methylesterase, cellulase, chlorophyllase, ACC synthase, carotenoid and volatile synthesis enzymes) are expressed. Ethylene is also produced by wounds, decay, engines (exhaust) and by all ripening fruit; hence mixed storage of apples with leafy vegetables causes yellowing, and of bananas with other fruit causes premature ripening.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Strategy",
+          "Mechanism",
+          "Practical use"
+        ],
+        [
+          "1-Methylcyclopropene (1-MCP, SmartFresh)",
+          "A cyclic olefin that binds the ethylene receptor irreversibly (about 10 times higher affinity than ethylene) so that ethylene present cannot act; cells must synthesise new receptors before responsiveness returns (days to weeks)",
+          "Applied as gas at 0.5–1 µL/L for 12–24 hours in a sealed room at 20 °C before storage; apples (keeps crispness 3–6 months), bananas, avocados, cut flowers; GRAS, no residue; effect depends on maturity at treatment"
+        ],
+        [
+          "Potassium permanganate (KMnO4) scrubbers",
+          "Strong oxidant on an inert porous carrier (alumina, zeolite, vermiculite; Purafil) oxidises ethylene to CO2 and water; the purple carrier turns brown when exhausted",
+          "Sachets in cartons of bananas and mangoes; filter beds in cold rooms; cheap, but must not contact food directly (KMnO4 is toxic)"
+        ],
+        [
+          "Ventilation and low temperature",
+          "Dilutes ethylene; cold slows both ethylene synthesis and action",
+          "Basic cold-chain practice; one air change per hour in storage"
+        ],
+        [
+          "Controlled and modified atmosphere",
+          "Low O2 limits ACC oxidase (needs oxygen); high CO2 competitively inhibits ethylene action",
+          "See below"
+        ],
+        [
+          "Catalytic, UV or ozone scrubbers",
+          "Oxidise ethylene",
+          "Commercial cold stores"
+        ],
+        [
+          "Genetic (antisense ACC synthase, ACC oxidase)",
+          "Reduce ethylene production",
+          "Flavr Savr type tomatoes (historical)"
+        ],
+        [
+          "Controlled ripening with ethylene or ethephon",
+          "Ethylene gas at 10–100 µL/L for 24–48 h at 18–20 °C and 90 percent RH in ripening rooms; ethephon (2-chloroethylphosphonic acid) releases ethylene at pH above 4 in spray or dip; calcium carbide (acetylene, industrial grade contaminated with arsenic and phosphorus) is prohibited under FSSR",
+          "Banana, mango, citrus degreening (2–5 µL/L)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "4.2 Controlled atmosphere (CA) and modified atmosphere packaging (MAP)",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Lowering oxygen and raising carbon dioxide around the produce slows respiration (the oxidase enzymes are substrate-limited), suppresses ethylene synthesis and action, slows chlorophyll degradation, softening and decay, and reduces chilling injury of some crops. The atmosphere is a supplement to, never a substitute for, refrigeration.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Feature",
+          "Controlled atmosphere (CA)",
+          "Modified atmosphere packaging (MAP)"
+        ],
+        [
+          "Scale",
+          "Gas-tight storage rooms or sea containers (tonnes)",
+          "Consumer or bulk packs (grams to kilograms)"
+        ],
+        [
+          "Control",
+          "Atmosphere is continuously measured and actively regulated: nitrogen flushing or generators lower O2, CO2 scrubbers (lime, activated carbon, molecular sieves) remove excess CO2, ethylene scrubbers; dynamic CA adjusts O2 to the fermentation threshold using chlorophyll fluorescence or RQ",
+          "Atmosphere is set once (active MAP: gas flush; passive MAP: created by the produce's own respiration and the film's permeability) and then drifts to an equilibrium determined by the balance of respiration and film gas transmission; no further control"
+        ],
+        [
+          "Typical gases",
+          "O2 2–5 percent (as low as 1–1.5 percent for apples in ultra-low oxygen CA), CO2 3–10 percent (1–3 percent for apples, up to 10–20 percent for strawberries short term), balance N2, at 0–3 °C and 90–95 percent RH",
+          "O2 3–10 percent, CO2 5–15 percent in equilibrium; films: LDPE, LLDPE, PP, microperforated films chosen so that O2 permeability matches respiration rate; CO2 permeability of polymer films is 3–5 times that of O2"
+        ],
+        [
+          "Commodities",
+          "Apples (6–12 months), pears, kiwifruit, cabbage, bananas in transit, avocados, pomegranate",
+          "Fresh-cut salads, broccoli, mushrooms, strawberries, bananas in transit, fresh-cut fruit; shelf life gains of 50–100 percent at chill temperature"
+        ],
+        [
+          "Risks",
+          "Low O2 below the commodity's tolerance (about 1 percent) → anaerobic fermentation, ethanol and acetaldehyde, off-flavour; high CO2 → brown heart (apple), internal browning (pear), surface pitting; both worsened by poor temperature control",
+          "Temperature abuse raises respiration faster than film permeability, so O2 collapses and CO2 rises → fermentation, off-odour, and the possibility of anaerobic pathogens (Clostridium botulinum in low-acid vegetables); condensation; leakage"
+        ],
+        [
+          "Cost",
+          "High capital, suited to long storage",
+          "Low cost per pack, suited to retail distribution"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypobaric (low-pressure) storage reduces O2 partial pressure and removes ethylene continuously but is costly. Edible coatings and shrink-wrapping are individual modified atmospheres.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.3 Thermal canning (appertisation)",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Canning destroys spoilage and pathogenic microorganisms by heat inside a hermetically sealed container so that re-contamination cannot occur. The severity of the heat process is set by the most heat-resistant pathogen capable of growing in the product, and that depends on pH: Clostridium botulinum cannot grow at pH 4.6 or below, so acid foods need only 100 °C, while low-acid foods (pH above 4.6, aw above 0.85) must receive a botulinum cook at 121 °C.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unit-operation sequence",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Selection and preparation: sound, uniform maturity (peas at tenderometer reading, mango firm-ripe); washing (chlorinated water 25–50 ppm); sorting, grading; peeling (hand, steam, lye at 1–2 percent NaOH at 95–100 °C for 1–3 minutes for peaches and tomatoes, abrasive for root crops); cutting, coring, pitting.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Blanching: short heat treatment in hot water (85–100 °C, 1–5 minutes) or steam, followed by cooling (except before hot filling). Purposes: inactivate enzymes that would otherwise cause off-flavour and colour changes during the come-up time and in any under-processed cold spot (lipoxygenase, polyphenol oxidase, pectin methylesterase, catalase, peroxidase); expel intercellular gases (reduces can corrosion, improves vacuum and prevents floating); wilt and soften tissue for filling; fix colour (chlorophyll) and remove raw flavour; reduce microbial load; aid skin removal. Peroxidase test: peroxidase is the most heat-resistant of the quality-related plant enzymes and is easily measured (guaiacol plus hydrogen peroxide turns brown within 1–3 minutes if peroxidase survives), so its absence proves that all other relevant enzymes are also inactivated; catalase is used as an alternative, less stringent indicator. Over-blanching leaches sugars, vitamins (ascorbic acid losses 10–40 percent) and minerals and softens texture; calcium chloride (0.1–0.5 percent) is added to blanch water for firmness of tomatoes and beans.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Filling: hand or machine; syrup (20–40 °Brix for fruits; grades light, medium, heavy) or brine (1–2 percent salt for vegetables); fill weight and headspace (6–9 mm) controlled; drained weight is a standard.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Exhausting: heating the filled, open can in a hot-water or steam exhaust box so that the centre reaches 80–85 °C (some references 82–90 °C for 5–10 minutes), or hot filling at above 80 °C, or mechanical vacuum closing. Purposes: expel air from the headspace and tissue so that, after sealing and cooling, a partial vacuum (250–400 mm Hg) forms inside the can; the vacuum prevents bulging during processing and at altitude, minimises oxidation (discolouration, vitamin C loss), reduces internal corrosion and strain on seams, and lets the ends stay concave as a visible indicator of soundness. Vacuum is a consequence of exhausting, not of the retort.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sealing (double seaming): the can lid (end) is mechanically interlocked with the body flange in two operations: the first-operation roll curls the end hook under the body hook; the second-operation roll flattens and tightens the hooks together with the sealing compound (rubber-based) in the end curl, giving a hermetic seam of five thicknesses of metal (three from the end, two from the body). Seam quality is checked by body hook, cover hook, overlap, tightness and seam thickness; glass jars use lug or vacuum caps.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thermal processing (retorting):",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Food class",
+          "pH",
+          "Target organism and process",
+          "Temperature and typical time"
+        ],
+        [
+          "High-acid and acid foods (fruits, fruit juices, tomato products below 4.6 after acidification, pickles)",
+          "4.6 or below (high-acid below 3.7)",
+          "Yeasts, moulds, lactic and butyric bacteria, Bacillus coagulans (flat-sour in tomato juice); botulinum spores cannot outgrow",
+          "100 °C (boiling water bath or atmospheric steam) for 10–45 minutes; hot-fill-hold at 90 °C for juices"
+        ],
+        [
+          "Low-acid foods (peas, beans, corn, carrots, mushrooms, meat, fish, milk)",
+          "Above 4.6",
+          "Clostridium botulinum spores: minimum botulinum cook of F0 = 3 minutes (12-D reduction, D121 of 0.21 min); commercial sterility usually needs F0 of 5–15 minutes to also control thermophilic spoilers (Geobacillus stearothermophilus D121 about 4 min, Clostridium thermosaccharolyticum, Desulfotomaculum nigrificans)",
+          "115–121 °C (10–15 psi steam) for 20–90 minutes depending on can size, product consistency (conduction versus convection heating) and initial temperature; process established by heat-penetration tests (cold spot thermocouple) and calculated by the General or Ball formula methods"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Retort types: vertical and horizontal batch still retorts (steam, with air venting), rotary (agitating, convection heating, shorter time), continuous hydrostatic and reel-and-spiral cookers, water-immersion and steam-air overpressure retorts for pouches and glass.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cooling: immediately after the process, cans are cooled under water (with overpressure for large cans to prevent seam strain) to an average of 38–40 °C. Reasons: stop cooking (texture, colour, nutrient losses, stack burning); prevent germination and growth of surviving thermophilic spores (which grow at 45–65 °C: flat-sour and swells in warm warehouses); but not below 38 °C, so that the residual heat dries the can surface and prevents rusting. Cooling water must be chlorinated (2–5 ppm residual) because the seam compound is momentarily soft and microscopic leakage can draw water in (post-process leaker spoilage, the most common cause of canned-food contamination).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Labelling, incubation and storage: representative cans incubated at 37 °C for 10 days (and 55 °C for thermophiles) to check for swells; storage below 35 °C, dry.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can enamels (lacquers)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Enamel",
+          "Chemistry",
+          "Problem prevented",
+          "Products"
+        ],
+        [
+          "Plain (unlacquered) tinplate",
+          "Tin coating over steel; tin dissolves slowly (a sacrificial, non-toxic reaction) and keeps the product light coloured",
+          "Tin acts as a reducing agent, preserving colour of light fruits",
+          "Peaches, pears, pineapple, citrus segments, apricots (light fruits that discolour in lacquered cans)"
+        ],
+        [
+          "C-enamel (sulphur-resistant)",
+          "Oleoresinous or epoxy enamel pigmented with zinc oxide (and sometimes zinc carbonate)",
+          "Sulphur compounds released from proteins during heating react with iron and tin to form black iron sulphide and purple tin sulphide stains; zinc oxide traps sulphide as white zinc sulphide",
+          "Corn, peas, beans, meat, fish, mushrooms, asparagus, cabbage"
+        ],
+        [
+          "R-enamel (acid-resistant, fruit enamel)",
+          "Oleoresinous enamel, no zinc oxide (zinc would dissolve in acid)",
+          "Prevents acid from dissolving tin and iron (which bleaches anthocyanins and causes hydrogen swells) and protects colour of red fruits",
+          "Berries, cherries, plums, red grapes, beetroot and other strongly coloured acid products"
+        ],
+        [
+          "Epoxy-phenolic, vinyl, organosol, aluminium-pigmented",
+          "Modern synthetic lacquers with high chemical resistance",
+          "Universal; some two-coat systems",
+          "Tomato products, beverages, aerosol foods; lead-free, BPA-free specifications increasing"
+        ],
+        [
+          "Tin-free steel (TFS), aluminium",
+          "Chromium-coated steel; aluminium with lacquer",
+          "Corrosion of acidic products",
+          "Beverages, fish"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Canned-food spoilage diagnostics",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Type",
+          "Cause",
+          "Can appearance",
+          "Product"
+        ],
+        [
+          "Flat sour",
+          "Bacillus coagulans (acid foods), Geobacillus stearothermophilus (low-acid); under-processing or slow cooling, warm storage",
+          "Flat (no swell)",
+          "Sour, cloudy, no gas"
+        ],
+        [
+          "Thermophilic anaerobe (TA) spoilage",
+          "Clostridium thermosaccharolyticum",
+          "Hard swell, may burst",
+          "Sour, cheesy odour, gas (CO2, H2)"
+        ],
+        [
+          "Sulphide stinker",
+          "Desulfotomaculum (Clostridium) nigrificans",
+          "Flat (H2S dissolves)",
+          "Blackened, rotten-egg odour"
+        ],
+        [
+          "Putrefactive anaerobe",
+          "Clostridium sporogenes (PA 3679, the non-toxic surrogate for botulinum in process design), C. botulinum",
+          "Swell",
+          "Putrid; botulinum may show no change"
+        ],
+        [
+          "Hydrogen swell",
+          "Acid attack on tin and iron, long storage, high nitrate, poor lacquer",
+          "Swell, pinholes",
+          "Metallic flavour, high tin"
+        ],
+        [
+          "Leaker spoilage",
+          "Post-process contamination through seam",
+          "Any; mixed flora",
+          "Variable"
+        ],
+        [
+          "Springer, flipper, soft swell, hard swell",
+          "Degrees of end bulging",
+          "Progressive",
+          "Diagnostic of gas pressure"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] Exhausting produces the vacuum; retorting produces sterility. The pH dividing line is 4.6: items that quote 4.5 or 5.0, or that assign a 121 °C process to fruit in syrup, are wrong. C-enamel is for sulphur-rich foods (corn, peas, fish) and R-enamel is for acid, coloured fruits; light fruits are canned in plain tin. Cooling is to 38–40 °C, not to room temperature, so that the can dries.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.4 Freezing",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Freezing preserves by converting water to ice (removing it as a solvent and lowering water activity) and by low temperature slowing all reactions. It does not sterilise: most bacteria survive, some are killed, and enzymes remain partly active, which is why vegetables are blanched before freezing and why frozen fruits are packed with sugar or ascorbic acid.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ice crystal size and quality: slow freezing (hours; home freezer) forms large extracellular crystals that rupture cell walls, draw water out of cells, and cause heavy drip loss, mushiness and nutrient leaching on thawing. Fast freezing (minutes; passing the critical zone of −1 to −5 °C, where 70–80 percent of water freezes, in under 30 minutes) forms many small intracellular crystals that preserve structure. Recrystallisation (growth of large crystals at the expense of small ones) occurs during temperature fluctuation in storage, so a constant −18 °C or lower is needed.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Individual quick freezing (IQF): each piece (pea, corn kernel, berry, shrimp, diced carrot, mango cube) is frozen separately, so the pack is free-flowing and the consumer can take out a portion. Achieved in fluidised-bed freezers (cold air at −30 to −40 °C blown upward through a perforated belt at a velocity that suspends the pieces; freezing time 3–10 minutes), belt tunnel freezers, impingement freezers, or cryogenic freezers (liquid nitrogen at −196 °C, or solid CO2 at −78 °C; freezing in seconds to a few minutes; least drip loss, highest cost; used for shrimp, berries, cut fruit). IQF requires blanched vegetables and firm fruit; glazing (spraying water to form an ice coat) protects IQF shrimp and fish from freezer burn.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other freezers: air-blast (batch rooms and tunnels, −30 to −40 °C, 3–5 m/s), plate (contact, for rectangular blocks of spinach or fish), immersion (brine or glycol for packaged products), scraped-surface (for juices).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Freezer burn: sublimation of ice from the surface of unprotected product in dry freezer air, leaving a dry, white, spongy, toughened surface; prevented by vapour-tight packaging, glazing and full packs.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thawing should be slow at refrigeration temperature or in the cooking step (vegetables cooked from frozen) to limit drip and microbial growth.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.5 Dehydration",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle: Drying removes water until water activity falls below about 0.6 (microbial growth stops below 0.6; enzymes and non-enzymatic browning are minimal around 0.2–0.4). The engineering problem is to remove water fast enough to prevent spoilage and slow enough to avoid damaging the product.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Drying kinetics",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Constant-rate period: the surface is wet; water evaporates at the wet-bulb temperature as fast as the air can carry it away; rate depends on air temperature, humidity and velocity, not on the product.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Critical moisture content: the point at which the surface is no longer saturated.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Falling-rate period(s): water must diffuse from the interior to the surface; the rate depends on product thickness, structure and temperature; the product temperature rises toward the air temperature, so heat damage is most likely late in drying. Most of the drying time is spent here.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Equilibrium moisture content: the moisture at which the product is in equilibrium with the drying air; the lowest achievable at that temperature and humidity (reason for finishing in a lower-humidity bin).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Case hardening",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the initial drying is too fast (very hot, very dry air on a sugar- or starch-rich product such as fruit slices or potato), the surface dries and shrinks into a hard, dense, impermeable skin while the interior is still wet. Sugars and dissolved solids carried to the surface by capillary flow crystallise or form a glassy film; proteins and pectins denature and gel at the surface. The skin seals in moisture: internal water can no longer diffuse out, the drying rate collapses, the centre remains moist and later spoils (mould) or the product cracks and splits as the interior finally shrinks. Prevention: moderate initial air temperature and higher initial humidity (or a two-stage schedule: humid-warm then dry-hot), thinner and uniform slices, adequate pretreatment (sulphuring, blanching) and dipping in alkaline emulsions (dipping grapes in ethyl oleate-potassium carbonate removes the waxy cuticle to speed drying uniformly).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Methods and pretreatments",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Method",
+          "Conditions",
+          "Products",
+          "Remarks"
+        ],
+        [
+          "Sun drying and solar drying",
+          "Ambient, 10–30 percent moisture end point difficult",
+          "Raisins, apricots, dates, chillies, fish",
+          "Cheap; contamination, slow, weather-dependent; solar cabinets improve hygiene"
+        ],
+        [
+          "Cabinet (tray) and tunnel dryers",
+          "50–70 °C, 1–3 m/s air; counter-current or concurrent flow",
+          "Vegetables (onion, garlic, cabbage), fruit slices",
+          "Most common commercial method for horticultural products"
+        ],
+        [
+          "Fluidised-bed and belt dryers",
+          "60–90 °C",
+          "Peas, diced vegetables, granules",
+          "Uniform"
+        ],
+        [
+          "Drum (roller) dryer",
+          "Thin film on steam-heated drum at 120–150 °C, seconds",
+          "Mashed potato flakes, tomato flakes, baby food",
+          "Some heat damage, cheap"
+        ],
+        [
+          "Spray dryer",
+          "150–200 °C inlet",
+          "Fruit and vegetable powders (tomato, mango) with carriers (maltodextrin)",
+          "Stickiness of sugar-rich juices requires carriers and cool walls"
+        ],
+        [
+          "Foam-mat drying",
+          "Juice foamed with stabilisers, dried in thin layer",
+          "Juice powders",
+          "Short time, good quality"
+        ],
+        [
+          "Osmotic dehydration",
+          "Immersion in 50–70 °Brix syrup, removes 30–50 percent water without heat",
+          "Pre-step for fruit candying, freeze-dried or air-dried fruit",
+          "Improves colour and flavour retention"
+        ],
+        [
+          "Freeze drying (lyophilisation)",
+          "Product frozen, then ice sublimed under vacuum (below 611 Pa, the triple-point pressure) with gentle heat; primary and secondary drying to 2 percent moisture",
+          "Strawberries, mushrooms, herbs, instant soups, coffee",
+          "Best quality and rehydration, porous structure, most expensive; product must be packed in inert gas because it is highly oxidisable"
+        ],
+        [
+          "Sulphuring and sulphiting",
+          "Burning sulphur (1–3 kg per tonne, 2–4 hours in a sulphur box) or dipping in 0.2–0.5 percent potassium metabisulphite to give 1,000–2,000 ppm SO2 in apricots, 500–1,000 ppm in raisins and apple rings",
+          "Light-coloured fruits",
+          "Inhibits polyphenol oxidase and non-enzymatic browning, preserves ascorbic acid and carotene, insect protection; residual SO2 limits under FSSR; destroys thiamine"
+        ],
+        [
+          "Blanching before drying",
+          "As for canning",
+          "Vegetables",
+          "Inactivates enzymes; dried vegetables not blanched develop hay-like flavour"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Quality indices of dried products",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dehydration ratio = fresh weight / dried weight (for example 8–12 for leafy vegetables, 4–6 for onion).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rehydration ratio = weight of rehydrated product / weight of dried product (good products 4–8); coefficient of rehydration compares with the original fresh weight; low values indicate case hardening, over-drying or heat damage.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Colour (browning index), sulphur dioxide content, moisture (vegetables 4–8 percent, fruits 15–25 percent), bulk density, and absence of mould.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP] Case hardening is caused by rapid initial drying at high temperature and low humidity, and it slows drying; it is not caused by slow drying and it is not the same as over-drying or freezer burn. Freeze drying is sublimation (solid to vapour) below the triple point, never melting. Blanching is required before freezing and drying of vegetables, but fruits are usually not blanched (they are sulphured or sugared instead).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.6 Comparative table: preservation technologies for horticultural produce",
+      "style": "Heading 2"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Technology",
+          "Principle",
+          "Typical conditions",
+          "Microbial effect",
+          "Main quality risk"
+        ],
+        [
+          "Refrigerated storage",
+          "Lower temperature slows respiration (Q10) and microbes",
+          "0–13 °C depending on chilling sensitivity, 85–95 percent RH",
+          "Slows, does not kill",
+          "Chilling injury, moisture loss"
+        ],
+        [
+          "CA / MAP",
+          "Low O2 and high CO2 slow respiration and ethylene",
+          "2–5 percent O2, 3–10 percent CO2 (CA); film-equilibrium (MAP)",
+          "Slows aerobes; risk of anaerobes if abused",
+          "Fermentation, CO2 injury"
+        ],
+        [
+          "Canning",
+          "Heat in hermetic container",
+          "100 °C (acid) or 121 °C (low-acid)",
+          "Commercial sterility",
+          "Over-cooking, enamel and seam failures"
+        ],
+        [
+          "Freezing",
+          "Water to ice, low temperature",
+          "−18 °C or lower; IQF at −30 to −40 °C",
+          "Stops growth; survival",
+          "Ice-crystal damage, freezer burn, enzyme activity without blanching"
+        ],
+        [
+          "Dehydration",
+          "Water activity below 0.6",
+          "50–70 °C air; sulphuring",
+          "Stops growth; survival of spores",
+          "Case hardening, browning, vitamin loss"
+        ],
+        [
+          "Chemical and minimal processing (fresh-cut, waxing, coatings, SO2, sorbate in juices)",
+          "Barrier or inhibitor",
+          "Varies",
+          "Partial inhibition",
+          "Residues, limited shelf life"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Revision Bank & Model Answers",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stage 1 Revision Bank and Stage 2 Model Answers",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "A. Stage 1 count-based pair bank (exactly four items)",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Protocol: score each pair $c_i \\in \\{0, 1\\}$, compute $N = c_1 + c_2 + c_3$, map $N$ to None / Only 1 / Only 2 / All 3.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Item 1 — Thermal processing of milk",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider the following process–condition pairs:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "HTST pasteurisation — 72 °C for 15 seconds",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "LTLT pasteurisation — 63 °C for 15 seconds",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "UHT processing — 135–150 °C for 1–4 seconds",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "How many pairs are correctly matched?",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Verification:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pair 1: HTST is 72 °C (71.7 °C in Indian practice) for 15 seconds in a plate heat exchanger with holding tube. Correct. $c_1 = 1$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pair 2: LTLT (holder) is 63 °C for 30 minutes, not 15 seconds; the unit has been changed from minutes to seconds. Incorrect. $c_2 = 0$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pair 3: UHT is 135–150 °C for 1–4 seconds followed by aseptic packaging. Correct. $c_3 = 1$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "$N = c_1 + c_2 + c_3 = 1 + 0 + 1 = 2$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2. The trap is the unit substitution in pair 2; the temperature was left correct to lure a careless reader.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Item 2 — Wheat roller milling",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider the following pairs:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Break rolls — corrugated surface with a speed differential of about 2.5 : 1",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reduction rolls — corrugated surface with a speed differential of about 1.25 : 1",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maida (straight-grade refined flour) — extraction rate of 70–72 percent",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "How many pairs are correctly matched?",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Verification:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pair 1: Break rolls are fluted (corrugated) and run at the high differential of about 2.5 : 1 to shear the kernel open. Correct. $c_1 = 1$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pair 2: Reduction rolls have a smooth surface; the differential of 1.25 : 1 is correct but the surface description is wrong, and one wrong attribute makes the pair wrong. Incorrect. $c_2 = 0$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pair 3: Maida extraction is 70–72 percent; atta is 95–100 percent; patent flour 40–60 percent. Correct. $c_3 = 1$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "$N = 1 + 0 + 1 = 2$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2. Note the half-truth design of pair 2: a correct number attached to an incorrect attribute.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Item 3 — Post-mortem muscle biochemistry",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider the following pairs:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "PSE meat — results from chronic pre-slaughter stress that exhausts muscle glycogen",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "DFD meat — ultimate pH above 6.2 and a dark, dry cut surface",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Resolution of rigor mortis — actin–myosin cross-bridges are released because ATP is resynthesised after 24 hours",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "How many pairs are correctly matched?",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Verification:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pair 1: Chronic stress with glycogen exhaustion is the aetiology of DFD, not PSE. PSE results from acute stress (and the halothane RYR1 genotype) causing a rapid pH fall while the carcass is still warm. Incorrect. $c_1 = 0$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pair 2: DFD is defined by high ultimate pH (above 6.0, commonly 6.2), high water-holding capacity (dry surface), closed structure (dark). Correct. $c_2 = 1$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pair 3: ATP is never resynthesised post-mortem; rigor resolves by proteolysis of the cytoskeletal framework by calpains and cathepsins, not by release of the actomyosin bond. Incorrect. $c_3 = 0$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "$N = 0 + 1 + 0 = 1$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 1.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Item 4 — Fish and egg quality indices",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider the following pairs:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "K-value below 20 percent — very fresh fish suitable for raw consumption",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trimethylamine nitrogen — formed by reduction of trimethylamine oxide by Shewanella putrefaciens",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Haugh unit of 72 or above — Grade AA egg",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "How many pairs are correctly matched?",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Verification:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pair 1: K-value = (inosine + hypoxanthine)/(total ATP-breakdown products) × 100; below 20 percent is sashimi grade. Correct. $c_1 = 1$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pair 2: TMAO is reduced to TMA by TMAO reductase of Shewanella putrefaciens (and Photobacterium phosphoreum in vacuum packs); the fishy odour is TMA. Correct. $c_2 = 1$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pair 3: USDA interior grades by Haugh unit: AA 72 and above, A 60–71, B 31–59. Correct. $c_3 = 1$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "$N = 1 + 1 + 1 = 3$.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: All 3. Candidates conditioned to expect a trap in every item lose marks here; score each pair independently.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quick-recall absolute-qualifier traps (for the same objective paper)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Statement",
+          "Verdict",
+          "Reason"
+        ],
+        [
+          "Homogenisation always reduces lipolysis",
+          "False",
+          "It increases susceptibility to lipolysis by replacing the native membrane with casein"
+        ],
+        [
+          "ALP-negative milk is always sterile",
+          "False",
+          "ALP negative proves pasteurisation; turbidity negative proves sterilisation"
+        ],
+        [
+          "Parboiling always lowers the nutritive value of rice",
+          "False",
+          "Thiamine and mineral retention rise"
+        ],
+        [
+          "All climacteric fruits can be harvested mature-green",
+          "Broadly true",
+          "They ripen off the plant with ethylene"
+        ],
+        [
+          "Exogenous ethylene never affects non-climacteric fruit",
+          "False",
+          "It degreens citrus and raises respiration transiently without true ripening"
+        ],
+        [
+          "C. botulinum never grows below pH 4.6",
+          "Accepted basis of the acid/low-acid division",
+          "Hence 100 °C versus 121 °C processing"
+        ],
+        [
+          "All egg rots are caused by Pseudomonas",
+          "False",
+          "Black rot is Proteus; red rot Serratia"
+        ],
+        [
+          "Freezing kills all microorganisms",
+          "False",
+          "Growth stops; most survive"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "B. Stage 2 model answer — 10 marks",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Question",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Detail the step-by-step industrial sequence of wheat roller milling. Contrast the mechanical actions and extraction products of break rolls versus reduction rolls.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Model answer (about 11 minutes; 450–550 words plus one table and one flow sheet)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Introduction and principle. Wheat roller milling is a gradual-reduction process whose objective is to separate the starchy endosperm (about 83 percent of the kernel) from the bran (14–15 percent) and germ (2–3 percent) as completely as possible, and then to reduce the endosperm to flour of the required particle size with minimum bran contamination (measured as ash) and controlled starch damage. The process relies on the fact that properly conditioned bran is tough and tears into large flakes, while the endosperm is friable and crumbles.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Step-wise industrial sequence.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Receiving and cleaning (screen room): magnetic separators remove iron; milling separators (sieves plus aspiration) remove straw, dust and chaff; destoners remove stones by specific gravity; disc or cylinder separators remove other seeds by length; scourers remove surface dirt and beeswing.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditioning and tempering: water is added to raise moisture to 14–15 percent for soft wheat and 15.5–16.5 percent for hard wheat, and the grain rests in tempering bins for 12–24 hours (shorter for soft wheat). Water toughens the bran so that it does not shatter into specks and mellows the endosperm so that it separates cleanly from the bran and grinds easily.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Break system (B1–B5): the tempered wheat passes through four to six pairs of corrugated (fluted) rolls running at a speed differential of about 2.5 : 1. The fast roll shears the kernel open against the slow roll and scrapes the endosperm off the bran in progressively finer stages; flutes increase from about 10–12 per inch on B1 to 26–28 per inch on B5, and roll gaps narrow at each stage. After each break the stock is sifted.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sifting (plansifters): stacked sieves separate each break product into overtails (bran with adhering endosperm, sent to the next break), coarse semolina and fine middlings (sent to purifiers), and a small amount of break flour.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Purification: the purifier is an oscillating sieve deck with an upward air current. Light bran chips of the same size as semolina particles are lifted off by aspiration while the denser endosperm particles pass through the graded sieves. This step is what makes low-ash white flour possible.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sizing and reduction system (C1–C12): purified semolina and middlings pass through eight to twelve pairs of smooth rolls at a differential of about 1.25 : 1. The particles are crushed, not sheared, into flour; the germ, being oily and plastic, is flattened into flakes and sifted out; residual fine bran (shorts) is removed as tailings.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Flour collection, treatment and packing: flour streams are blended into patent, straight-grade (maida, 70–72 percent extraction) and clear grades; treated with permitted improvers (ascorbic acid, enzymes, fortification with iron, folic acid and vitamin B12); and packed. Whole-wheat atta (95–100 percent extraction) is produced by recombining bran and germ with the flour or by stone (chakki) milling.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Flow sheet (in words): Wheat → cleaning → conditioning (14–16.5 percent moisture, 12–24 h) → Break 1 → sifter → Break 2 … Break 5 → bran out; semolina and middlings → purifiers → sizing rolls → reduction rolls C1 … C12 with sifters → flour streams → blending and treatment → maida, patent flour, suji, bran, shorts, germ.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contrast of break and reduction rolls.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Attribute",
+          "Break rolls",
+          "Reduction rolls"
+        ],
+        [
+          "Roll surface",
+          "Corrugated, flutes 10–28 per inch",
+          "Smooth (matt)"
+        ],
+        [
+          "Speed differential",
+          "About 2.5 : 1",
+          "About 1.25 : 1"
+        ],
+        [
+          "Mechanical action",
+          "Shearing and cutting; opens the kernel and scrapes endosperm from bran",
+          "Crushing and compression; grinds clean endosperm to flour"
+        ],
+        [
+          "Number of passages",
+          "4–6",
+          "8–12 (plus sizings)"
+        ],
+        [
+          "Feed",
+          "Whole wheat, then bran overtails",
+          "Purified semolina and middlings"
+        ],
+        [
+          "Principal products",
+          "Bran flakes, semolina (suji/rava), middlings, little flour",
+          "Flour (patent, straight, clear), fine bran/shorts, germ"
+        ],
+        [
+          "Quality objective",
+          "Maximum large bran flakes, minimum bran powder",
+          "Fine flour with controlled starch damage (6–9 percent) and minimum ash"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Extraction products. Maida 70–72 percent; patent flour 40–60 percent; semolina recovered from break stock; bran 14–15 percent; shorts and germ 2–4 percent; whole atta 95–100 percent. Higher extraction raises ash, fibre, fat and B-vitamins but darkens the flour and shortens shelf life because of germ oil.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conclusion. Roller milling succeeds by separating before reducing: the break system and purifiers isolate clean endosperm, and the reduction system then produces flour of the ash and granulation demanded by the end use, with the extraction rate as the key economic and nutritional control variable.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suggested marks distribution: sequence and parameters 5; break versus reduction contrast 3; extraction products and conclusion 2.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "C. Stage 2 model answer — 15 marks",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Question",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Examine the post-mortem biochemical changes occurring in muscle tissue from slaughter to the resolution of rigor mortis. Explain the aetiology of PSE and DFD meat defects and evaluate strategies to mitigate them.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Model answer (about 16–17 minutes; 750–900 words with two tables)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Introduction and principle. Conversion of muscle to meat is the running-down of living muscle metabolism after the blood supply stops. Three linked processes determine meat quality: anaerobic glycolysis and pH decline, ATP depletion leading to rigor mortis, and proteolytic resolution of rigor during conditioning. Abnormalities in the rate or extent of the first process produce the PSE and DFD defects.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Immediate post-slaughter phase (0–30 minutes). Exsanguination removes oxygen delivery. Muscle keeps consuming ATP to maintain ion gradients and relaxation. Creatine phosphate regenerates ATP briefly; thereafter the only ATP source is anaerobic glycolysis of muscle glycogen (0.5–1.3 percent).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Post-mortem glycolysis and pH decline (30 minutes to 24 hours). Glycogen is converted via glucose-1-phosphate and the Embden–Meyerhof pathway to pyruvate and then to lactic acid, yielding two or three ATP per glucose unit. Without circulation, lactic acid accumulates and pH falls from about 7.0–7.2 to an ultimate pH of 5.4–5.8 within 6–8 hours in pork, 2–4 hours in poultry breast and 18–24 hours in beef. Glycolysis stops when glycogen is exhausted or when low pH inactivates phosphofructokinase. Consequences of the pH fall: proteins approach their isoelectric point (about 5.1–5.3), net charge and water-holding capacity (WHC) fall, the muscle structure opens and scatters more light (paler colour), oxymyoglobin bloom develops on cutting, flavour precursors form, and the meat becomes microbiologically more stable than living tissue.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Rigor mortis (onset 1–12 hours; full rigor 3–24 hours). When ATP falls below about 1 µmol/g, the sarcoplasmic reticulum can no longer pump calcium; calcium leaks into the sarcoplasm, myosin heads bind actin, and because detachment requires ATP the cross-bridges lock permanently as actomyosin. The muscle loses extensibility and becomes stiff; WHC reaches its minimum. The degree of sarcomere shortening depends on temperature at ATP exhaustion: cold shortening occurs if pre-rigor muscle is chilled below 10 °C (calcium pump failure in the cold, contraction up to 40 percent, severe toughness), and heat shortening at above 35 °C; thaw rigor follows thawing of pre-rigor frozen muscle.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Resolution of rigor: conditioning or ageing (1–21 days). The actomyosin bonds are not reversed. Instead, endogenous proteases weaken the structural scaffold around them. Calpains (µ- and m-calpain, calcium-activated neutral proteases most active early post-mortem at pH 6–7 and regulated by calpastatin) degrade titin, nebulin, desmin and troponin-T, loosening the Z-line and the myofibril–membrane linkages. Cathepsins (lysosomal acid proteases B, D, H and L) are released as pH falls and contribute during longer ageing. The result is progressive tenderisation, partial recovery of WHC and development of aged flavour over 7–21 days at 1–4 °C for beef, 3–5 days for pork and about one day for poultry. Electrical stimulation of carcasses accelerates glycolysis so that rigor is complete before chilling, preventing cold shortening and speeding ageing.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Aetiology of PSE and DFD.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Feature",
+          "PSE (pale, soft, exudative)",
+          "DFD (dark, firm, dry)"
+        ],
+        [
+          "Species",
+          "Mainly pork; turkey and chicken breast",
+          "Mainly beef and lamb (dark-cutting beef); pork"
+        ],
+        [
+          "Stress type",
+          "Acute, immediately before slaughter (fighting, rough handling, goads, heat); genetic predisposition through the halothane-sensitive RYR1 ryanodine-receptor mutation (porcine stress syndrome)",
+          "Chronic, over 12–48 hours (long transport, mixing strange animals, fasting, cold, exhaustion)"
+        ],
+        [
+          "Glycogen at death",
+          "Normal or high",
+          "Depleted before slaughter"
+        ],
+        [
+          "pH course",
+          "Very rapid fall: pH 5.8–6.0 or lower within 45 minutes while the carcass is still above 35 °C",
+          "Little or no fall; ultimate pH remains above 6.0 (6.2 commonly cited)"
+        ],
+        [
+          "Mechanism",
+          "Low pH at high temperature denatures sarcoplasmic and myofibrillar proteins; denatured sarcoplasmic proteins precipitate onto the myofibrils, scatter light (pale) and lose water binding (soft, exudative; drip loss 6–10 percent)",
+          "High pH keeps proteins far from the isoelectric point: high net charge binds water tightly (dry surface, firm), the closed structure absorbs light and limits oxygen penetration so little bright oxymyoglobin forms (dark)"
+        ],
+        [
+          "Consequences",
+          "Poor cooked yield, emulsion stability and cured colour",
+          "Short shelf life (high pH and no residual glucose favour proteolytic Pseudomonas spoilage), consumer rejection of fresh cuts, poor cured colour, unsuitable for vacuum packing"
+        ],
+        [
+          "Detection",
+          "pH at 45 minutes, colour (L*), drip loss, conductivity, halothane or DNA test",
+          "pH at 24 hours, colour, muscle glucose strip"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Evaluation of mitigation strategies.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Control point",
+          "Measure",
+          "Evaluation"
+        ],
+        [
+          "Genetics",
+          "Eliminate RYR1 halothane carriers from pig breeding; select calm temperament in cattle",
+          "Highly effective and permanent for PSE; DNA testing is cheap; does not address environmental stress"
+        ],
+        [
+          "On-farm handling and transport",
+          "Low stocking density, trained handlers, no electric goads, short cool journeys, avoid mixing unfamiliar animals, provide water",
+          "Reduces both defects; the most cost-effective measure for DFD; requires enforcement across the supply chain"
+        ],
+        [
+          "Lairage",
+          "2–4 hours rest with showers in warm weather",
+          "Calms acutely excited pigs (reduces PSE); prolonged lairage with fighting worsens DFD; feeding sugar before slaughter is sometimes used to restore glycogen"
+        ],
+        [
+          "Stunning and bleeding",
+          "Effective CO2 or electrical stunning, rapid bleeding, no pre-stun excitement",
+          "Reduces acute stress; welfare and quality aligned"
+        ],
+        [
+          "Chilling",
+          "Rapid or spray chilling of pork carcasses to slow glycolysis before pH falls at high temperature",
+          "Reduces PSE severity; must be balanced against cold shortening in beef and lamb, where electrical stimulation and conditioning at 15 °C until pH falls below 6 are preferred"
+        ],
+        [
+          "Processing use",
+          "Blend PSE meat with normal meat in phosphate-containing emulsions; direct DFD meat to cooked, cured and emulsion products where its high WHC is an asset",
+          "Salvage, not prevention; cured colour remains inferior in both"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Conclusion. Post-mortem quality is governed by how fast and how far the pH falls relative to carcass temperature and by subsequent proteolysis. PSE is the product of too fast a fall while the muscle is warm; DFD is the product of too little fall because glycogen was consumed by chronic stress. Because both defects originate before the knife, the most effective mitigation is genetic selection combined with humane, low-stress handling, supported by correct chilling and electrical stimulation at the plant.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suggested marks distribution: glycolysis and rigor onset 4; resolution and proteolysis 3; PSE and DFD aetiology 5; mitigation evaluation 2; conclusion 1.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "D. Rapid-fire numeric recall sheet",
+      "style": "Heading 2"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Fact",
+          "Value"
+        ],
+        [
+          "Milk specific gravity",
+          "1.028–1.032"
+        ],
+        [
+          "Milk titratable acidity",
+          "0.12–0.16 percent lactic acid"
+        ],
+        [
+          "Milk freezing point",
+          ""
+        ]
+      ]
+    }
+  ]
+}

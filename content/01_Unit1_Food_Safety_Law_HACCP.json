@@ -1,0 +1,2982 @@
+{
+  "source_file": "01_Unit1_Food_Safety_Law_HACCP.docx",
+  "title": "01 Unit1 Food Safety Law HACCP",
+  "paragraph_count": 409,
+  "table_count": 30,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "HPSC Food Safety Officer — Master Study Manual (FSN 421 High-Yield Modules)",
+      "style": "Title"
+    },
+    {
+      "type": "paragraph",
+      "text": "Module 1: Hazards & Foodborne Illness",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "MODULE 1: FOOD HAZARDS & FOODBORNE ILLNESSES",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.1 First-Principles: Why does this module exist?",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before memorising definitions, build the mental model. Every food safety question ultimately reduces to one chain:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "SOURCE (raw material / environment / handler)\n      ↓\nHAZARD enters food (biological / chemical / physical)\n      ↓\nHAZARD survives processing / storage\n      ↓\nHAZARD reaches consumer in a dose sufficient to harm\n      ↓\nADVERSE HEALTH EFFECT (illness, injury, chronic disease)",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "Food safety science is simply the discipline of breaking this chain at the earliest possible point. Everything in this module — definitions, hazard classes, infection vs intoxication, the WHO Five Keys — is organised around where in this chain you intervene.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.2 Codified Definitions (verbatim-grade, exam-ready)",
+      "style": "Heading 2"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Term",
+          "Definition (exam-ready)",
+          "Conceptual Anchor"
+        ],
+        [
+          "Food Safety",
+          "Assurance that food will not cause harm to the consumer when prepared and/or eaten according to its intended use.",
+          "Outcome-based guarantee"
+        ],
+        [
+          "Toxicity",
+          "The capacity of a substance to produce harm or injury of any kind, under any condition of exposure.",
+          "Intrinsic property of the substance"
+        ],
+        [
+          "Hazard (Codex Alimentarius)",
+          "\"A biological, chemical or physical agent in, or condition of, food with the potential to cause an adverse health effect.\"",
+          "Potential, not certainty"
+        ],
+        [
+          "Contamination",
+          "Presence of harmful or objectionable foreign substances (chemicals, micro-organisms, dilutants) in food, before/during/after processing or storage.",
+          "Unintended presence"
+        ],
+        [
+          "Adulteration",
+          "Intentional or accidental addition of impure, cheap, or unnecessary ingredients to cheat, cheapen, or falsify a preparation, altering composition/quality.",
+          "Deliberate or negligent degradation"
+        ],
+        [
+          "Food Quality",
+          "Attributes that influence a product's value to the consumer — negative (spoilage, contamination, adulteration, safety hazards) AND positive (colour, flavour, texture).",
+          "Quality ⊃ Safety (quality is the wider umbrella)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Toxicity vs Hazard — the single most tested distinction. Toxicity is a fixed intrinsic property (e.g., cyanide is always toxic). Hazard is a contextual probability — it depends on dose, exposure route, and whether the substance is \"not used in the prescribed manner and quantity.\" A substance can be toxic but pose negligible hazard if controlled (e.g., nitrite at legal ppm levels).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nAbsolute qualifier alert: A question may state \"Toxicity and Hazard are synonymous terms under Codex.\" This is FALSE. Toxicity = capacity to cause harm (static). Hazard = probability of harm occurring given actual use conditions (dynamic/contextual). Never conflate the two on MCQ elimination logic.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.3 Tripartite Classification of Hazards",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "                    FOOD SAFETY HAZARDS\n                           |\n       ┌───────────────────┼───────────────────┐\n       ▼                   ▼                    ▼\n  BIOLOGICAL           CHEMICAL              PHYSICAL\n       |                   |                    |\n  ┌────┴────┐      ┌───────┼────────┐      extraneous matter /\n  Macro-     Micro-  Agri-   Pollution  Food   foreign bodies\n  biological biological chemicals (heavy  chemicals/\n  (visible)  (invisible: (pesticides, metals:  naturally\n             bacteria,   hormones,   Pb,Hg,As, occurring\n             yeast,mold, antibiotics) Cd)       toxicants\n             protozoa,\n             viruses)",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "(A) Biological Hazards",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Intuition: Micro-organisms are everywhere; they only become a \"hazard\" the moment they are (i) pathogenic to humans AND (ii) present in food in numbers/toxin-load sufficient to cause illness. Spoilage organisms ≠ pathogenic organisms — a food can look/smell fine and still carry a biological hazard (classic trap).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Macro-biological hazards: visible pests and insects — larvae, adult insects, rodent droppings/hair — detectable by the naked eye.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Micro-biological hazards (invisible without magnification):",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bacteria (e.g., Salmonella, Clostridium botulinum, Staphylococcus aureus)",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yeasts and moulds (spoilage + some mycotoxin producers)",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Protozoa (parasitic)",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Viruses (do not multiply in food, but survive and transmit via faecal-oral route)",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(B) Chemical Hazards",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Sub-category",
+          "Examples",
+          "Entry Point"
+        ],
+        [
+          "Agricultural chemicals",
+          "Pesticides, fungicides, fertilizers, growth hormones, antibiotics",
+          "Primary production (crop/livestock)"
+        ],
+        [
+          "Environmental pollutants",
+          "Heavy metals — Lead (Pb), Mercury (Hg), Arsenic (As), Cadmium (Cd)",
+          "Industrial discharge → bioaccumulation along food chain, especially marine life"
+        ],
+        [
+          "Plant/equipment chemicals",
+          "Cleaning agents, lubricants, sanitizer residues",
+          "Improper cleaning of food-contact surfaces"
+        ],
+        [
+          "Naturally occurring toxicants",
+          "Mycotoxins (aflatoxins), glycoalkaloids, cyanogenic glycosides",
+          "Intrinsic to the food/crop (covered fully in Module 2)"
+        ],
+        [
+          "Food chemicals (additives)",
+          "~2,500+ chemicals used for preservation/flavour/appearance",
+          "Deliberately added, but hazard arises if controls fail"
+        ],
+        [
+          "Food allergens",
+          "Protein-based — see Big 8 below",
+          "Natural constituents mislabelled/cross-contaminated"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bioaccumulation mnemonic for heavy metals: \"PHAC\" → Pb (Lead), Hg (Mercury), As (Arsenic), Cd (Cadmium). These concentrate progressively up the food chain (biomagnification) — mercury in large predatory fish is the textbook case.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(C) Physical Hazards",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Defined as any physical material not normally found in food, with potential to cause illness or injury.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Material",
+          "Typical Source",
+          "Injury Potential"
+        ],
+        [
+          "Glass",
+          "Bottles, jars, light fixtures, gauge covers",
+          "Cuts, bleeding, may need surgical removal"
+        ],
+        [
+          "Wood",
+          "Fields, pallets, boxes, buildings",
+          "Cuts, infection, choking, may need surgery"
+        ],
+        [
+          "Stones",
+          "Fields, buildings",
+          "Choking, broken teeth"
+        ],
+        [
+          "Metal",
+          "Machinery, fields, wire, employees",
+          "Cuts, infection, may need surgery"
+        ],
+        [
+          "Insects",
+          "Fields, plant, post-process entry",
+          "Illness, trauma, choking"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nA question may ask: \"Which of the following is NEVER a HACCP-relevant physical hazard: insects / glass / hair / metal fragments?\" Remember from Module 6: hair, filth, and simple insect presence without injury potential are classified as \"undesirable defects,\" NOT HACCP hazards, unless they carry a direct injury/illness mechanism. Do not confuse general physical hazard taxonomy (this module) with the narrower HACCP hazard definition (Module 6).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(D) Food Allergens — The \"Big 8\"",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Statutory allergen list (protein-derived):",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Milk",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Egg",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fish",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Crustacean shellfish",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tree nuts",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wheat",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Peanuts",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Soybeans",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "These are protein-derived hazards — the allergenic potential resides in specific proteins, not the whole food matrix. This is why highly refined oils (e.g., refined soybean/peanut oil, protein largely removed) carry much lower allergenic risk than the whole legume, though labelling precaution still applies.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.4 Food Infection vs Food Intoxication — THE definitive distinction",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "First-Principles Intuition",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask: \"Is the live organism itself the problem, or is a pre-formed poison the problem?\"",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Infection = you swallow a living army (pathogen) that invades and multiplies inside you. Damage accrues over hours–days as the population builds up. Think: slow siege.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Intoxication = you swallow a poison that is already made (toxin), whether or not the organism that made it is still alive. Damage can begin almost immediately. Think: instant poisoning.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Master Comparison Table",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Parameter",
+          "Food Infection",
+          "Food Intoxication"
+        ],
+        [
+          "Cause",
+          "Live pathogenic bacteria / viruses / parasites",
+          "Pre-formed toxin (bacterial, chemical, or natural)"
+        ],
+        [
+          "Mechanism",
+          "Invasion and/or multiplication within intestinal lining or tissues (may also release toxin after invasion)",
+          "NO invasion or multiplication required; toxin acts directly"
+        ],
+        [
+          "Incubation period",
+          "Hours to days (time needed for organism to multiply to infective dose)",
+          "Minutes to hours (toxin already present, acts fast)"
+        ],
+        [
+          "Classic symptoms",
+          "Diarrhoea, nausea, vomiting, abdominal cramps, fever (sign of active infection/immune response)",
+          "Diarrhoea, nausea, vomiting, double vision, weakness, respiratory failure, numbness, sensory/motor dysfunction (neurotoxic patterns), fever typically absent"
+        ],
+        [
+          "Transmissibility",
+          "CAN spread person-to-person via faecal-oral route",
+          "NOT communicable (you cannot \"catch\" someone else's pre-formed toxin exposure)"
+        ],
+        [
+          "Key contributing factors",
+          "Inadequate cooking, cross-contamination, poor personal hygiene, bare-hand contact",
+          "Inadequate cooking/time-temperature abuse allowing toxin formation, improper holding temperatures"
+        ],
+        [
+          "Classic examples",
+          "Salmonella spp. (textbook food infection)",
+          "Staphylococcus aureus enterotoxin, Clostridium botulinum toxin, Bacillus cereus toxin"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\n\"Fever\" is a high-yield discriminator. Infections more typically present WITH fever (active immune battle against live organisms); intoxications more typically present WITHOUT fever (no active infection, pure toxin effect) but WITH neurological signs. If an MCQ gives a symptom set with double vision + respiratory failure + NO fever → answer is intoxication (think botulism). If it gives fever + cramps + multi-day onset → answer is infection (think Salmonella).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nAbsolute qualifier: \"Food intoxication is ALWAYS communicable.\" — FALSE. By definition, intoxication is not communicable person-to-person; only infections carry the faecal-oral transmission risk.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.5 Food-Borne Disease: Classification & Transmission Routes",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Food-borne disease outbreak (definition): occurrence of 2 or more cases of similar illness from a common food source, OR observed cases exceeding the expected baseline number for that illness.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transmission Pathways (chain-of-custody view)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Infected food handler ──faecal-oral / nasal flora──► ready-to-eat food\n        │\nCross-contamination ──shared utensils/surfaces──► uninfected food\n        │\nInadequate cooking ──survives heat-stable toxins──► consumer\n        │\nImproper storage (10–50°C \"danger zone\") ──pathogen multiplication──► consumer",
+      "style": "Code"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Route",
+          "Mechanism",
+          "Prevention Point"
+        ],
+        [
+          "Infected individuals",
+          "Pathogens shed in faeces; transferred via faecal-oral route; infected skin lesions/nasal flora transferred to ready-to-eat food",
+          "Personnel health screening, hygiene"
+        ],
+        [
+          "Cross-contamination",
+          "Same equipment/utensils used across raw and ready-to-eat food without washing/disinfecting",
+          "Separate equipment, cleaning SOPs"
+        ],
+        [
+          "Inadequate cooking",
+          "Insufficient heat allows multiplication; many bacterial toxins are heat-stable and survive cooking",
+          "Validated cook temperatures"
+        ],
+        [
+          "Improper storage",
+          "Holding food at 10–50°C (danger zone) permits pathogen multiplication",
+          "Time-temperature control"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "1.6 WHO Five Keys to Safer Food (complete operational framework)",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "   KEY 1          KEY 2           KEY 3            KEY 4             KEY 5\n Keep Clean   Separate Raw   Cook Thoroughly   Keep at Safe     Use Safe Water\n              & Cooked                         Temperatures      & Raw Materials",
+      "style": "Code"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Key",
+          "Operational Guidance"
+        ],
+        [
+          "1. Keep clean",
+          "Wash hands before handling food and often during preparation; wash/sanitize all surfaces and equipment used for food preparation; protect kitchen areas and food from insects, pests, and other animals."
+        ],
+        [
+          "2. Separate raw and cooked",
+          "Separate raw meat, poultry, and seafood from other foods; use separate equipment and utensils (cutting boards, knives) for handling raw foods; store food in containers to avoid contact between raw and prepared foods."
+        ],
+        [
+          "3. Cook thoroughly",
+          "Cook food thoroughly, especially meat, poultry, eggs, and seafood; bring foods like soups and stews to boiling to ensure pathogen destruction; reheat cooked food thoroughly."
+        ],
+        [
+          "4. Keep food at safe temperatures",
+          "Do not leave cooked food at room temperature for more than 2 hours; refrigerate promptly (preferably below 5°C); keep cooked food hot (above 60°C) prior to serving; do not store food too long even in the refrigerator; do not thaw frozen food at room temperature."
+        ],
+        [
+          "5. Use safe water and raw materials",
+          "Use safe water or treat it to make it safe; select fresh and wholesome foods; choose foods processed for safety (e.g., pasteurized milk); wash fruits and vegetables, especially if eaten raw; do not use food beyond its expiry date."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mnemonic: C-S-C-T-W → Clean, Separate, Cook, Temperature, Water.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.7 Stage 2 Model Answer Framework (10 Marks)",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: \"Differentiate between Food Infection and Food Intoxication with appropriate examples. Outline the WHO Five Keys to Safer Food.\"",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suggested answer architecture (for 3-hour descriptive paper, ~10 marks ≈ 2 pages):",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opening definitions (1 mark): Define food-borne illness broadly, then bifurcate into infection and intoxication using the Codex/standard definitions.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparison table (4 marks): Reproduce the master table above — cause, mechanism, incubation, symptoms, transmissibility, examples. Examiners award marks per correctly matched parameter.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Worked examples (2 marks): Salmonella typhimurium infection (incubation 12–72 hrs, fever + diarrhoea) vs Staphylococcus aureus intoxication (incubation 1–6 hrs, vomiting without fever, heat-stable enterotoxin survives cooking).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "WHO Five Keys (3 marks): List and briefly explain each of the five keys with one operational example per key.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.8 Stage 1 Revision Bank: Count-Based Pair Bank",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Format: Each item below gives a set of 2–3 statements/pairs. Determine how many are CORRECT: Only 1 / Only 2 / All 3 / None.",
+      "style": "Quote"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q1. Consider the following statements about hazard classification:\n(i) Heavy metals like Pb, Hg, As, Cd are classified as chemical hazards arising from environmental pollution.\n(ii) Hair and filth found in food are always classified as HACCP biological hazards.\n(iii) Food allergens are protein-derived chemical hazards under the Codex classification used in this syllabus.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 1 is correct (statement i).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(i) TRUE — heavy metals are textbook chemical/environmental pollutant hazards.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ii) FALSE — hair/filth are \"undesirable defects,\" not HACCP hazards (Module 6 principle), and are NOT biological hazards by nature (hair is not a pathogen).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE as phrased for this trap — in the hazard classification used, allergens are grouped as a distinct category alongside, not strictly \"chemical hazards\" in the narrow pesticide/pollutant sense (though some classifications do nest it there, this syllabus treats allergens as a 4th explicit category: Biological, Chemical, Physical, Allergens).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q2. Regarding Food Infection vs Intoxication:\n(i) Both are always accompanied by fever.\n(ii) Intoxication is not communicable from person to person.\n(iii) Infection incubation period is typically shorter than intoxication's incubation period.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 1 is correct (statement ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(i) FALSE — fever is a more typical marker of infection, not necessarily intoxication.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ii) TRUE.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — it is the REVERSE: infection has a longer incubation (hours-days) vs intoxication's shorter one (minutes-hours).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q3. On WHO Five Keys to Safer Food:\n(i) The five keys include \"Keep Clean,\" \"Separate Raw and Cooked,\" and \"Cook Thoroughly.\"\n(ii) \"Use Safe Water and Raw Materials\" is one of the five keys.\n(iii) The WHO Five Keys mandate refrigeration below 0°C for all cooked food.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (statements i and ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(i) TRUE.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ii) TRUE.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — the guidance is to refrigerate promptly, preferably below 5°C, not 0°C; the \"always/mandate\" framing with an incorrect numeric threshold is a classic absolute-qualifier trap.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q4. On physical hazards:\n(i) Glass, wood, stones, and metal are all listed as physical hazard source materials.\n(ii) Insects can constitute both a macro-biological hazard AND a physical hazard depending on context.\n(iii) Physical hazards are defined as materials normally found in food in small amounts.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (statements i and ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(i) TRUE — all four appear in the standard physical hazard table.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ii) TRUE — insects are listed under both macro-biological hazards and as a physical hazard source (contamination/extraneous matter), a nuance often tested.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — physical hazards are explicitly defined as materials NOT normally found in food.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Module 2: Additives & Plant Toxicants",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "MODULE 2: FOOD ADDITIVES & PLANT-ORIGIN TOXICANTS",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.1 First-Principles: Why classify additives at all?",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Regulators do not ban \"chemicals\" per se — they distinguish between substances whose safety is self-evident from long traditional use and low toxicity even unrestricted (Class I) versus substances that are effective but carry a dose-dependent risk profile requiring a legal ceiling (Class II). This single idea — unrestricted vs quantity-capped — is the organizing logic behind nearly every additive question HPSC asks.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "                    FOOD PRESERVATIVES\n                           |\n          ┌────────────────┴────────────────┐\n          ▼                                   ▼\n     CLASS I                              CLASS II\n  (natural, NOT restricted              (chemical, RESTRICTED to\n   in any food unless Rules              specified foods, concentration\n   say otherwise)                        capped per Rules)\n          |                                   |\n  Common salt, sugar,                 Benzoic acid & salts,\n  dextrose/glucose syrup,             Sulphurous acid & sulphites,\n  wood smoke, spices,                 Nitrites & nitrates,\n  vinegar/acetic acid, honey          Sorbic acid & salts",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nAbsolute qualifier: \"Class I preservatives are permitted in UNLIMITED quantity in ALL foods.\" — Partially FALSE. Class I is \"not restricted unless otherwise provided in the Rules\" — a conditional, not an absolute, exemption. Always flag \"unlimited/unrestricted/all\" wording against the actual legal phrasing.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.2 Additive Categories — Mechanism-First Walkthrough",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "(a) Antioxidants",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Intuition: Fats and oils undergo autoxidation — a free-radical chain reaction with atmospheric oxygen that converts unsaturated fatty acids into aldehydes/ketones, producing rancid off-flavours, loss of colour, and destruction of fat-soluble vitamins (A, D, E) and essential fatty acids (e.g., linoleic acid).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unsaturated fatty acid + O2 (catalyzed by light, heat, metal, pigment)\n        ↓\n   Lipid free radical (R•)\n        ↓ (chain propagation)\n   Peroxide → Aldehydes + Ketones → RANCID OFF-FLAVOUR",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "An antioxidant works by donating a hydrogen atom to the lipid free radical, terminating the chain reaction before it propagates (free radical scavenging).",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Type",
+          "Examples",
+          "Notes"
+        ],
+        [
+          "Natural",
+          "Tocopherols (Vitamin E family)",
+          "Found in plant tissues; heat-labile — lost during refining, deodorizing, processing"
+        ],
+        [
+          "Synthetic",
+          "BHA, BHT",
+          "BHA is more effective in animal fats than vegetable oils; very effective for short-chain fatty acids (coconut, palm kernel oil) used in cereals/confectionery"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "(b) Emulsifiers & Stabilizers",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Intuition: Oil and water naturally separate because they are chemically incompatible (one polar, one non-polar). An emulsifier is amphiphilic — it has both a hydrophilic (water-loving) head and a lipophilic (fat-loving) tail — allowing it to sit at the oil-water interface and stabilize what is naturally an unstable two-phase system.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "HLB (Hydrophilic-Lipophilic Balance): a numeric scale describing the relative strength of hydrophilic vs lipophilic portions of an emulsifier molecule; determines whether the emulsifier favours oil-in-water or water-in-oil emulsions.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most widely used emulsifier: monoglycerides; lecithin is another key natural emulsifier.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(c) Clarifying Agents",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Used to remove chill haze (from tannins/proanthocyanidins/polyphenols) in beverages like beer, wine, fruit juices.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gelatin — commonly used to clarify beverages.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "PVP (polyvinylpyrrolidone) — synthetic resin with selective affinity for polyphenols.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(d) Colorants",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "                         FOOD COLORANTS\n        ┌───────────┬───────────────┬────────────────┐\n        ▼            ▼                ▼                 ▼\n    NATURAL      NATURE-IDENTICAL   ARTIFICIAL        INORGANIC\n (carotenoid,    SYNTHETIC          (coal-tar dyes,   (PROHIBITED except\n  annatto,       (lab-synthesized   e.g. Indigocarmine) Titanium Dioxide,\n  paprika,       replicas of                            capped at 1% in\n  saffron,       natural colors)                        CHEWING GUM only)\n  anthocyanin,\n  caramel,\n  chlorophyll,\n  turmeric/curcumin)",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nTitanium dioxide — 1% — chewing gum ONLY. This is a frequently tested exact numeric + exact food-category pair. Any MCQ substituting a different percentage (e.g., 2%) or a different food (e.g., \"permitted in all confectionery\") is a trap. The rule is narrowly scoped: PFA prohibits inorganic colors except titanium dioxide, and only in chewing gum, maximum 1%.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(e) Flavour Enhancers & Sweeteners",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "MSG (Monosodium Glutamate): sodium salt of glutamic acid; does not itself possess a primary flavour but intensifies/synergizes flavours of other foods.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "5′-ribonucleotides (from yeast): possess roughly 10× the flavour-enhancing property of MSG, and act synergistically with it (umami synergy).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Non-nutritive sweeteners: Saccharin (~300× sweeter than sucrose), cyclamate, aspartame, acesulfame-K — none perfectly replicates full sucrose taste profile.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(f) Anticaking Agents",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Function: absorb excess moisture, coat particles for water repellency, or act as an insoluble particulate diluent to maintain free-flow of hygroscopic powders.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Calcium silicate: used in baking powder and table salt, up to 2%.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Microcrystalline cellulose: prevents grated/shredded cheese from clumping.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other agents: sodium silicon aluminate, tri-calcium phosphate, magnesium silicate, magnesium carbonate.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(g) Antibiotics in Food — Nisin",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nisin: a polypeptide antibiotic produced by streptococci.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Permitted use: prevents outgrowth of Clostridium botulinum in high-moisture processed cheese.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spectrum: active against Gram-positive organisms (spore-formers in particular).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also used to prevent spoilage of condensed milk.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nisin's narrow Gram-positive spectrum is the key testable nuance — it does NOT control Gram-negative spoilage/pathogenic organisms.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(h) Nitrites & Nitrates",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Function: stabilize colour of cured meat after cooking (prevent green-brown discoloration of lean meat), impart flavour, and critically act as inhibitors of Clostridium botulinum (anti-botulism preservative function).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lethal dose for humans is of the order of 1 gram.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "US Code of Federal Regulations cap: nitrites permitted as preservatives in cured meat/poultry not exceeding 2000 ppm.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.3 Class I vs Class II Preservatives — Master Table",
+      "style": "Heading 2"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Class I (Natural, unrestricted*)",
+          "Class II (Chemical, legally capped)"
+        ],
+        [
+          "Common salt",
+          "Benzoic acid & its salts"
+        ],
+        [
+          "Sugar, dextrose/glucose syrup",
+          "Sulphurous acid & its sulphites"
+        ],
+        [
+          "Wood smoke",
+          "Nitrites & nitrates"
+        ],
+        [
+          "Spices",
+          "Sorbic acid & its salts"
+        ],
+        [
+          "Vinegar / acetic acid",
+          ""
+        ],
+        [
+          "Honey",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "*unless otherwise provided in the Rules",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.4 Endogenous Plant Toxicants & Anti-Nutrients — Deep Mechanistic Treatment",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "(a) Glycoalkaloids — α-Chaconine & α-Solanine",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "First principles: These are steroidal glycoalkaloids produced by Solanaceae plants (potato, tomato, nightshade) as a natural chemical defence against pests. They act on humans via cholinesterase inhibition and cell membrane disruption (saponin-like action).",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Parameter",
+          "Detail"
+        ],
+        [
+          "Source",
+          "All Solanaceous plants — potatoes most significant staple exposure"
+        ],
+        [
+          "Key compounds",
+          "α-chaconine + α-solanine (summed)"
+        ],
+        [
+          "Maximum safety limit",
+          "200 mg/kg (potatoes), based on an estimated 300 g/day intake"
+        ],
+        [
+          "Variability factors",
+          "Variety, light exposure, irradiation, mechanical injury, storage conditions"
+        ],
+        [
+          "Thermal stability",
+          "Largely unaffected by common processing — baking, cooking, frying do NOT significantly reduce glycoalkaloid content"
+        ],
+        [
+          "Detoxification",
+          "Peeling is the most efficient method — outer layers are richest in toxin; manual peeling can remove up to 60% of total content (varies with tuber size/variety)"
+        ],
+        [
+          "Tomato-specific note",
+          "Tomatine (α-tomatine + dehydrotomatine mixture) is largely degraded as the fruit ripens — tomatoes are therefore much safer than potatoes regarding glycoalkaloid exposure"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nAbsolute qualifier: \"Cooking/boiling/frying completely detoxifies glycoalkaloids.\" — FALSE. Glycoalkaloids are thermally stable; peeling (not heat) is the primary mitigation, and even peeling removes only up to ~60%, not 100%.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(b) Cyanogenic Glycosides",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mechanism — enzymatic HCN release:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cyanogenic glycoside (intact, non-toxic while compartmentalized)\n        │  tissue damage (chopping/chewing/grinding) brings\n        │  substrate and enzyme into contact\n        ▼\nβ-glycosidase (endogenous plant enzyme)\n        ▼\nHydrolysis releases cyanohydrin → spontaneously decomposes\n        ▼\nHydrogen Cyanide (HCN) — the toxic agent",
+      "style": "Code"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Source Crop",
+          "Cyanogenic Glycoside"
+        ],
+        [
+          "Cassava",
+          "Linamarin (main cyanogen)"
+        ],
+        [
+          "Stone fruit pits (e.g., apricot, peach, almond kernels)",
+          "Amygdalin"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Traditional detoxification practices (cassava, Africa/South America): chopping, grinding, soaking in running water, fermentation, cooking — these physically disrupt plant tissue, allow HCN to volatilize/leach out, and denature enzymes.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Amygdalin risk specifically arises when heat-processed products made from stone fruits retain the seeds/pits — consumers may be unknowingly exposed to HCN from unremoved seeds.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(c) Lectins (Haemagglutinins)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chemical nature: carbohydrate-binding glycoproteins, ubiquitous in nature.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dietary relevance: present in most commonly eaten plant foods, especially legumes — consumed daily in appreciable quantities.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Key toxicological feature: high stability — survive gastrointestinal digestion, binding to gut mucosal carbohydrate receptors and causing gastric upset / mucosal damage via disruption of nutrient absorption and gut lining integrity.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(d) Pyrrolizidine Alkaloids",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Large group — ~350 distinct chemicals.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Toxicological classification: shown carcinogenic in animals; classified as potential human carcinogens (hepatotoxic mechanism — liver injury).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Exposure routes: (i) contamination of food supply by seeds containing these alkaloids, (ii) presence in traditional remedies/dietary supplements.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(e) Anti-Nutrient Overview Table",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Toxicant",
+          "Plant Family"
+        ],
+        [
+          "Glucosinolates",
+          "Cruciferae (cabbage family)"
+        ],
+        [
+          "Cucurbitacins",
+          "Cucurbitaceae (gourd family)"
+        ],
+        [
+          "Proteinase inhibitors",
+          "Leguminosae"
+        ],
+        [
+          "Coumarins",
+          "Leguminosae, Rubiaceae, Umbelliferae"
+        ],
+        [
+          "Cyanogenic glycosides",
+          "Leguminosae, Gramineae, Rosaceae"
+        ],
+        [
+          "Glycoalkaloids",
+          "Solanaceae"
+        ],
+        [
+          "Lectins",
+          "Leguminosae"
+        ],
+        [
+          "Furocoumarins",
+          "Umbelliferae, Rutaceae"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Family-mnemonic: Solanaceae → Glyco-ALKALoids (potato/tomato); Cruciferae → GlucoSINOlates (cabbage/mustard); Cucurbitaceae → CucurbitaCINS (gourds); Leguminosae → Lectins + Proteinase inhibitors + Coumarins (legumes carry the heaviest anti-nutrient burden).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.5 Stage 2 Model Answer Framework (15 Marks)",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: \"Classify food preservatives into Class I and Class II categories under statutory regulations. Detail the naturally occurring toxicants found in plant horticultural foods, their toxic mechanisms, and processing methods for detoxification.\"",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer architecture (~15 marks, 3–4 pages):",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Introduction (1 mark): Define food additive and preservative; justify classification logic (unrestricted traditional vs restricted chemical).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Class I / Class II table (3 marks): Reproduce exact lists.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Plant toxicants — systematic treatment (8 marks, ~2 marks each):",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Glycoalkaloids: source, 200 mg/kg limit, thermal stability, peeling (60%), tomatine ripening degradation.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cyanogenic glycosides: linamarin (cassava)/amygdalin (stone fruits), β-glycosidase mechanism, HCN release, traditional detox (soak/ferment/cook).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lectins: GI stability, mucosal damage.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pyrrolizidine alkaloids: hepatotoxicity, carcinogenicity, 350 compounds.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Anti-nutrient table (2 marks): Glucosinolates, cucurbitacins, proteinase inhibitors, coumarins with plant families.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conclusion (1 mark): Emphasize that most of these toxicants are NOT eliminated by standard cooking and require specific physical/biochemical detoxification (peeling, soaking, fermentation).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.6 Stage 1 Revision Bank: Count-Based Pair Bank",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q1. Regarding preservative classification:\n(i) Sorbic acid and its salts belong to Class II.\n(ii) Honey is classified under Class I.\n(iii) Benzoic acid belongs to Class I because it occurs naturally in some fruits.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(i) TRUE.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ii) TRUE.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — despite natural occurrence trace amounts, benzoic acid & its salts are statutorily classified as Class II (restricted), a classic \"natural origin ≠ unrestricted class\" trap.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q2. On glycoalkaloids:\n(i) The combined maximum safety limit for α-chaconine and α-solanine in potatoes is 200 mg/kg.\n(ii) Peeling can remove up to 60% of glycoalkaloid content.\n(iii) Frying potatoes destroys more than 50% of glycoalkaloid content.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — glycoalkaloids are thermally stable; frying/cooking does not significantly reduce content.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q3. On titanium dioxide regulation:\n(i) Titanium dioxide is the only inorganic color permitted under PFA.\n(ii) The permitted maximum limit for titanium dioxide is 1%.\n(iii) Titanium dioxide is permitted in all bakery products.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — permitted specifically in chewing gum, not \"all bakery products\" — scope-widening trap.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q4. On Nisin:\n(i) Nisin is active primarily against Gram-negative organisms.\n(ii) Nisin is used to control Clostridium botulinum outgrowth in processed cheese.\n(iii) Nisin is a polypeptide antibiotic produced by streptococci.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (ii and iii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(i) FALSE — Nisin acts against Gram-positive organisms, the reverse trap.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q5. On cyanogenic glycosides:\n(i) Linamarin is the principal cyanogen in cassava.\n(ii) Amygdalin is found in stone fruit pits.\n(iii) HCN release from cyanogenic glycosides requires an exogenous (externally added) enzyme.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — HCN release is catalyzed by the plant's own endogenous β-glycosidase enzyme, not an external/added enzyme.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Module 3: Microbiology & Spoilage",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "MODULE 3: MICROBIOLOGICAL PRINCIPLES & SPOILAGE CRITERIA",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.1 First-Principles: The Three-Lever Control Model",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Every microorganism needs three things to grow: suitable temperature, suitable pH, and available water. Food preservation technology is fundamentally the science of pushing one or more of these three levers outside the microbial comfort zone. This module is organized around those three levers, in the exact order the syllabus tests them: Temperature → pH → Water Activity.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "   MICROBIAL GROWTH REQUIRES:\n   ┌─────────────┬─────────────┬──────────────┐\n   │ TEMPERATURE │     pH      │ WATER ACTIVITY│\n   │   (°C)      │ (H+ conc.)  │     (aw)      │\n   └─────────────┴─────────────┴──────────────┘\n        Push any lever outside tolerance → growth slows/stops",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.2 Cardinal Parameter 1: Temperature Domains",
+      "style": "Heading 2"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Microbial Group",
+          "Growth Range",
+          "Optimal Growth Temperature"
+        ],
+        [
+          "Psychrotrophs",
+          "Grow well at ≤7°C",
+          "20–30°C"
+        ],
+        [
+          "Mesophiles",
+          "Grow well between 20–45°C",
+          "30–40°C"
+        ],
+        [
+          "Thermophiles",
+          "Grow well at ≥45°C",
+          "55–65°C"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Key nuance: Psychrotrophs' optimal growth is NOT at refrigeration temperature — it is at 20–30°C. Their defining feature is that they can still grow, albeit slowly, at 7°C or below — this is precisely why refrigeration only extends shelf life (by increasing lag phase) rather than fully halting spoilage. Reducing temperature increases microbial lag time, which is the biochemical basis for chilling as a preservation method.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nAbsolute qualifier: \"Refrigeration completely stops microbial growth.\" — FALSE. It only slows growth (extended lag phase) — psychrotrophs remain active at chill temperatures, hence refrigerated shelf life is finite, not infinite.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.3 Cardinal Parameter 2: pH (Hydrogen-Ion Activity)",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Intuition",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most microorganisms are physiologically \"happiest\" near neutral pH (~7.0). As the environment becomes more acidic, enzymatic machinery inside the cell is disrupted, and most pathogens cannot sustain growth. But not all organisms have the same acid tolerance — this differential tolerance is exploited for both food safety classification and spoilage control.",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Organism / Food Type",
+          "pH Tolerance"
+        ],
+        [
+          "Most microorganisms (general optimum)",
+          "Close to pH 7.0"
+        ],
+        [
+          "A few organisms",
+          "Can grow below pH 4.0"
+        ],
+        [
+          "Lactic acid bacteria (spoilage group)",
+          "Can grow as low as pH 2.0"
+        ],
+        [
+          "Clostridium botulinum",
+          "Cannot grow below pH 4.6"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "THE Critical Public Health Threshold: pH 4.6",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "pH 4.6 is THE single most important numeric threshold in this entire module. Because of Clostridium botulinum's pathogenic potential (producer of the lethal botulinum neurotoxin) and its inability to grow/sporulate-outgrow below pH 4.6, this value is used as the universal legal/technical cutoff differentiating:\n- Low-acid foods: pH > 4.6 (require more stringent thermal processing — e.g., full retort sterilization — because C. botulinum CAN grow)\n- Acid / high-acid foods: pH ≤ 4.6 (safer from C. botulinum outgrowth; can often be processed with milder heat treatments)",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nuance: The minimum pH tolerated by a given organism also depends on which acid is used — citric, hydrochloric, phosphoric, and tartaric acids permit growth of certain lactobacilli at lower pH values than acetic and lactic acids. This means pH value alone is not the complete story — the identity of the acidulant modulates antimicrobial efficacy (undissociated acid molecules of weaker organic acids like acetic/lactic penetrate cell membranes more effectively, giving them superior antimicrobial action at a given pH compared to strong mineral acids).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nAbsolute qualifier: \"All bacteria are more pH-sensitive than filamentous fungi and yeasts.\" — Broadly TRUE as a generalization (bacteria tend to be more pH-sensitive than fungi/yeasts), but the trap variant \"pathogenic bacteria tolerate LOWER pH than spoilage bacteria\" is FALSE — it is the reverse: pathogenic bacteria are MORE pH-sensitive (narrower tolerance) than spoilage organisms like lactic acid bacteria.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.4 Cardinal Parameter 3: Water Activity (aw)",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Intuition",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Total moisture content is not what matters to a microbial cell — what matters is how much of that water is metabolically available (not bound to solutes/structures). Water activity (aw) quantifies this available fraction, scaled 0 (no available water) to 1.0 (pure water).",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Food / Organism Type",
+          "Water Activity Threshold"
+        ],
+        [
+          "Fresh produce",
+          "aw exceeds 0.99"
+        ],
+        [
+          "Spoilage bacteria (most)",
+          "Grow at aw above 0.91"
+        ],
+        [
+          "Filamentous fungi / moulds",
+          "Can grow at aw as low as 0.80"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Gram-positive vs Gram-negative generalization: Bacteria generally need HIGHER water activity than fungi; Gram-negative bacteria need higher aw than Gram-positive bacteria. This ordering (Gram-negative bacteria > Gram-positive bacteria > fungi, in terms of minimum aw required) is a testable hierarchy.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mechanism of control: Lowering aw below the organism's optimum increases lag phase and reduces growth rate — this induced stress is called osmotic stress. This is the biochemical basis for preservation by salting, sugaring, and drying.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nNumeric trap: Do not swap the thresholds. Spoilage bacteria: >0.91. Filamentous fungi: as low as 0.80. Fresh produce: >0.99. If an MCQ states \"most filamentous fungi require aw above 0.91 to grow,\" this is FALSE — fungi are notably MORE tolerant of low water activity than bacteria, growing down to 0.80.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.5 Microbiological Spoilage Patterns",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "(a) Bacterial Spoilage",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Only specific bacterial groups cause spoilage despite many bacteria being capable of growing in food.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Governing factors: storage temperature, oxygen availability, food composition, pH, thermal treatment, competing microbiota.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Classic manifestation in horticultural produce: bacterial soft rot.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(b) Yeast Spoilage",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yeasts are unicellular eukaryotic organisms.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "They gain a competitive advantage over bacteria specifically in foods with: high sugar or salt content, low pH, or other selective conditions.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mechanism: produce extracellular enzymes (proteases, lipases, amylases, pectinases) and volatile/non-volatile metabolites that spoil flavour and texture.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Key genera: Saccharomyces, Candida, Zygosaccharomyces, Debaryomyces, Rhodotorula, Pichia.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Especially important in fruit/vegetable spoilage due to environmental exposure and minimal processing; low pH of these foods also limits competing bacterial growth, giving yeasts a competitive field.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(c) Filamentous Fungi Spoilage",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Grow on a very wide range of foods: grains, meats, milk, fruits, vegetables, seeds, high-fat products.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Manifestations: discoloration, off-flavours, loss of structure/texture, visible mycelium formation, volatile compound production.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fungi are obligate aerobes, capable of growing across a WIDE range of pH, temperature, and water activity — their metabolic flexibility is precisely why they are the dominant spoilage organism at low aw (0.80) where bacteria cannot compete.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spoilage Comparison Summary",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Organism Group",
+          "Cell Type",
+          "Competitive Niche",
+          "Key Genera/Examples"
+        ],
+        [
+          "Bacteria",
+          "Prokaryote",
+          "Neutral pH, moderate-high aw",
+          "Soft rot bacteria"
+        ],
+        [
+          "Yeasts",
+          "Eukaryote (unicellular)",
+          "High sugar/salt, low pH",
+          "Zygosaccharomyces, Candida"
+        ],
+        [
+          "Filamentous fungi",
+          "Eukaryote (multicellular/mycelial)",
+          "Low aw (down to 0.80), wide pH/temp tolerance",
+          "Various moulds"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "3.6 Controlling Microbiological Spoilage — General Strategy",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "   CONTROL STRATEGY\n        |\n  ┌─────┼─────────┬──────────────┐\n  ▼     ▼         ▼              ▼\nPrevent  Remove   Inhibit        Inactivate\naccess   cells/   growth         (thermal /\n(barrier)spores   (manipulate    non-thermal\n         (wash/   T, pH, aw)     methods)\n         filter)",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.7 Stage 2 Model Answer Framework (10 Marks)",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: \"Explain the significance of intrinsic factors (specifically pH and water activity) in controlling foodborne pathogens. Why is pH 4.6 universally designated as a critical food safety threshold?\"",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer architecture (~10 marks, 2 pages):",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Intrinsic vs extrinsic factors (1 mark): Define intrinsic (food-inherent: pH, aw, redox potential, nutrient composition) vs extrinsic (environment-imposed: storage temperature, atmosphere, packaging).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "pH section (3 marks): General microbial optimum near 7.0; differential tolerance (lactic acid bacteria down to pH 2.0 vs C. botulinum blocked below 4.6); acid-identity nuance (citric/HCl/phosphoric/tartaric vs acetic/lactic).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Why pH 4.6 (3 marks): Explicit explanation — Clostridium botulinum cannot grow/produce toxin below this threshold; hence pH 4.6 is used worldwide to classify foods as low-acid (>4.6, requiring full retort sterilization to destroy C. botulinum spores) vs acid/high-acid (≤4.6, safer, can use milder thermal processing). Link to practical canning regulation (e.g., GMP requirement that acid/acidified foods be monitored and maintained at pH 4.6 or below).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Water activity section (2 marks): Define aw; give thresholds for fresh produce (>0.99), spoilage bacteria (>0.91), fungi (0.80); explain osmotic stress mechanism.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Integration/Conclusion (1 mark): Both factors are manipulated together industrially (e.g., pickling = low pH + reduced aw) for synergistic pathogen control — hurdle technology concept.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.8 Stage 1 Revision Bank: Count-Based Pair Bank",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q1. Regarding temperature domains:\n(i) Psychrotrophs have an optimal growth temperature range of 20–30°C.\n(ii) Mesophiles grow well between 20–45°C with optimum at 30–40°C.\n(iii) Thermophiles have optimal growth below 45°C.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — thermophiles grow well AT OR ABOVE 45°C, with optimum 55–65°C; the statement reverses the threshold direction.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q2. On pH and Clostridium botulinum:\n(i) C. botulinum cannot grow below pH 4.6.\n(ii) pH 4.6 is used to differentiate low-acid from high-acid/acid foods.\n(iii) Lactic acid bacteria can tolerate pH as low as 2.0.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: All 3 are correct.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "All three statements are directly supported by the source material.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q3. On water activity thresholds:\n(i) Most spoilage bacteria require aw above 0.91.\n(ii) Filamentous fungi can grow at aw as low as 0.80.\n(iii) Fresh fruits and vegetables typically have aw below 0.80.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — fresh produce has aw exceeding 0.99, not below 0.80; this is a scope-reversal trap.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q4. On spoilage organisms:\n(i) Yeasts gain competitive advantage in high-sugar, low-pH foods.\n(ii) Zygosaccharomyces and Candida are key spoilage yeast genera.\n(iii) Filamentous fungi are strict anaerobes.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — filamentous fungi are obligate aerobes, the exact opposite.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q5. On acid identity and microbial growth:\n(i) Citric, hydrochloric, phosphoric and tartaric acids enable lactobacilli growth at lower pH than acetic/lactic acid.\n(ii) All acids have identical antimicrobial efficacy at the same pH value.\n(iii) Acetic and lactic acids are generally MORE inhibitory per unit pH than mineral acids due to undissociated acid effects.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and iii — note these are consistent, not contradictory; ii is false).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ii) FALSE — different acids have different antimicrobial efficacy at the same measured pH, which is precisely why this nuance is tested.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Module 4: Post-Harvest Adulteration",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "MODULE 4: POST-HARVEST ADULTERATION & CHEMICAL TREATMENTS",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1 First-Principles: Why does post-harvest malpractice exist?",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consumers judge produce primarily by appearance — colour, size, shine, perceived ripeness/sweetness — at the point of purchase, before any taste or safety assessment is possible. This appearance-based buying heuristic creates a profit incentive for unscrupulous traders to manipulate the visible signal without manipulating the underlying quality — i.e., fake the signal (colour, size, apparent ripeness) rather than deliver the substance (genuine nutrient/flavour maturity). Every malpractice in this module follows this exact logic: cheap chemical trick → false visual/sensory signal → consumer deception → health risk.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "True quality driver (slow, costly, requires time) ──X── bypassed by trader\n                                                      │\n                                      Fast/cheap chemical shortcut\n                                                      │\n                                      False visual/sensory signal\n                                                      │\n                                 Consumer deceived + potential health hazard",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.2 Artificial Ripening Agents",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "(a) Calcium Carbide (\"Masala\") — STRICTLY BANNED",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reaction mechanism:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Calcium Carbide (CaC2) + Moisture (H2O)\n            ↓\nAcetylene gas (C2H2)  +  Calcium hydroxide (Ca(OH)2)\n            ↓\nAcetylene is structurally/functionally ANALOGOUS to ethylene (C2H4)\n            ↓\nTriggers surface-level ripening signalling in fruit",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "Why it is banned under FSSA, 2006 — multi-factor reasoning (exam gold):",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Acidic nature of the compound/by-products — contributes to tissue damage; chronic consumption linked to ulcers, kidney and liver damage.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trace contamination with arsenic and phosphorus hydride — industrial-grade calcium carbide (the commonly available/cheap form) is contaminated with arsenic and phosphorus compounds, which are themselves toxic.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Superficial colouration without internal ripening — acetylene changes ONLY the surface colour of the fruit; the interior remains unripened — a cosmetic fraud rather than genuine ripening. This is functionally and texturally inferior to ethylene-based ripening.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Carcinogenic property attributed to calcium carbide with prolonged exposure.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nAbsolute qualifier: \"Calcium carbide ripens fruit exactly like ethylene, just faster.\" — FALSE. It mimics ethylene's effect only at the surface — internal ripening (sugar development, aroma compounds, textural softening) does NOT occur equivalently; this is precisely why it is banned (deceptive + toxic), not merely \"an alternate ripening agent.\"",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(b) Safe Alternative: Ethephon / Ethylene Gas",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Parameter",
+          "Calcium Carbide (Masala)",
+          "Ethephon / Ethylene"
+        ],
+        [
+          "Legal status",
+          "Banned under FSSA, 2006",
+          "Permitted, recommended safe practice"
+        ],
+        [
+          "Mechanism",
+          "Acetylene gas (analogous but not identical to ethylene)",
+          "Releases actual ethylene gas"
+        ],
+        [
+          "Ripening depth",
+          "Surface colour only, internal unripened",
+          "Genuine, uniform ripening throughout"
+        ],
+        [
+          "Toxicity",
+          "Arsenic/phosphorus hydride contamination, acidic damage",
+          "Comparatively safe at regulated application"
+        ],
+        [
+          "Shelf life of ripened fruit",
+          "Shorter",
+          "Longer shelf life than carbide-ripened fruit"
+        ],
+        [
+          "Colour profile",
+          "Inferior/patchy",
+          "Better colour profile"
+        ],
+        [
+          "Fruits commonly treated",
+          "—",
+          "Apples, cherries, blueberries, figs, pineapple, tomatoes, peaches, guava, grapes, citrus, walnut"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tolerance limit for carbide residue = NIL (no tolerance permitted at all) since the agent itself is prohibited outright — this is an absolute ban, not a capped-residue regulation (unlike most other additives discussed in Module 2).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.3 Hazardous Dyes & Chemical Malpractices",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Classification by Commodity",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "               POST-HARVEST ADULTERATION\n                       |\n    ┌──────────────────┼───────────────────┬──────────────┐\n    ▼                  ▼                    ▼              ▼\nGREEN VEGETABLES   WATERMELON/FRUITS   FRESHNESS      GROWTH HORMONES\n(Malachite Green,  (Methanil Yellow,   EXTENDERS       (Oxytocin in\n Copper Sulfate)    Lead Chromate,     (Formaldehyde    cucurbits/gourds)\n                    Sudan Red,         on cabbage)\n                    injected saccharin)",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "Master Toxicant Table",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Chemical",
+          "Commodity Target",
+          "Purpose of Adulteration",
+          "Toxic Effect"
+        ],
+        [
+          "Malachite Green",
+          "Bitter gourd, peas, green chili, lady finger, pointed gourd",
+          "Enhances/restores bright green colour",
+          "Carcinogenic on prolonged consumption; detected by moistened white blotting paper test (colour transfers onto blotting paper)"
+        ],
+        [
+          "Copper sulfate",
+          "Bitter gourd, lady fingers (green vegetables)",
+          "Dipping to appear greener/fresher",
+          "Prolonged consumption may cause anaemia; juice from treated vegetables can cause abdominal pain, vomiting"
+        ],
+        [
+          "Methanil yellow",
+          "Watermelons, fruits",
+          "Artificial colouring",
+          "Stomach ailments, cancer, degeneration of male reproductive organs"
+        ],
+        [
+          "Lead chromate",
+          "Watermelons, fruits",
+          "Colour enhancement",
+          "Neurotoxic — brain damage, blindness, anaemia"
+        ],
+        [
+          "Sudan red",
+          "Watermelons, fruits",
+          "Red colour enhancement",
+          "Carcinogenic, stomach problems"
+        ],
+        [
+          "Injected saccharin",
+          "Melons, watermelons",
+          "Artificial sweetening of under-ripe/tasteless fruit",
+          "Detected as uneven sweetness (half sweet, half tasteless) — injection point artefact"
+        ],
+        [
+          "Formaldehyde",
+          "Cabbage heads",
+          "Freshness extension (sprayed on cut stem, dipped)",
+          "Carcinogenic; irritates skin, breathing/digestive problems"
+        ],
+        [
+          "Oxytocin",
+          "Cucurbits/gourds (bottle gourd, bitter gourd, pumpkin, cucumber)",
+          "Size enlargement, colour enhancement",
+          "Mammalian hormone, NOT meant for plant use; may cause uterine cancer, male impotency, hormonal disruption, early/erratic periods"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Detection mnemonic: Malachite Green → Blotting Paper Test (colour bleeds onto moistened white blotting paper). This exact test-chemical pairing is a frequently asked MCQ fact.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nAbsolute qualifier: \"Oxytocin is a plant hormone used for ripening.\" — FALSE. Oxytocin is a mammalian neurohormone (role in sexual/emotional behaviour and female reproduction) — it has NO legitimate plant physiological role; its agricultural use is entirely illegal misuse, not a sanctioned plant growth regulator (unlike gibberellic acid or NAA, which ARE legitimate plant hormones also sometimes misused).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.4 Food-Grade Waxing Regulations",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Approved Waxes (under GMP)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Wax",
+          "Source"
+        ],
+        [
+          "Carnauba wax",
+          "Carnauba palm tree"
+        ],
+        [
+          "Beeswax (white and yellow)",
+          "Bee secretion"
+        ],
+        [
+          "Shellac wax",
+          "Secretion of the lac insect/beetle"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Rationale for waxing: replaces natural wax lost during primary processing (washing etc.), reduces water loss, surface abrasion, controls internal gas composition, provides shiny/attractive appearance, extends shelf life.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Preferred over: petroleum-based waxes (which may contain wood rosins or solvent residues).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Typical waxed commodities: breadfruit, passion fruit, coconut, carambola, grapefruit, guava, mango, lime, lemon, orange, papaya, avocado, tangerine, pineapple (fruits); melon, bitter gourd, cassava, eggplant, peppers, sweet potato, tomato, pumpkin, yam, cucumber, asparagus, turnip, brinjal, okra, parsnip, sweet peppers (vegetables).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mandatory Label Declarations for Waxed Produce",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Under FSSA, 2006, fresh fruits/vegetables coated with wax (bees or carnauba) MUST have a clear label declaration stating:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Origin of the wax — animal-based (e.g., beeswax, shellac) vs vegetable-based (e.g., carnauba) — with food-grade certification.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Presence of known allergens that may be present in coating ingredients — e.g., milk, soybeans, fish, peanuts, nuts, wheat.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Post-harvest antimicrobial coatings/substances — their application must be indicated on each shipping container.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nAbsolute qualifier: \"All waxes and mineral oils are permitted on fruits and vegetables under GMP.\" — FALSE. No mineral oil and no colour is permitted at all on fresh fruits/vegetables per Indian regulatory bodies; only the THREE named food-grade waxes (carnauba, beeswax, shellac) are permitted, strictly under GMP, with mandatory labelling.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nutrient absorption caveat: Wax coating can form an insoluble layer that reduces nutrient absorption in the intestine — hence the practical consumer advice to wash fruits thoroughly / boil vegetables briefly before consumption, acknowledging that negative impact cannot be fully eliminated by washing alone.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.5 Regulatory Residue/Tolerance Summary",
+      "style": "Heading 2"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Substance",
+          "Tolerance/Limit Status"
+        ],
+        [
+          "Approved waxes (carnauba/beeswax/shellac)",
+          "Permitted per GMP as food additives, with mandatory label declaration"
+        ],
+        [
+          "Calcium carbide (ripening agent)",
+          "Strictly prohibited — NO tolerance limit at all under FSSA, 2006"
+        ],
+        [
+          "Mineral oil / any colour on fresh F&V",
+          "NOT ALLOWED — no tolerance limit assigned"
+        ],
+        [
+          "Heavy metals",
+          "Allowed up to tolerable limits prescribed under FSSA, 2006 — must not exceed assigned value"
+        ],
+        [
+          "Naturally occurring toxic substances/anti-nutrients",
+          "Must not exceed maximum limit per FSSAI/FDA specifications"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "4.6 Stage 1 Revision Bank: Count-Based Pair Bank",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q1. On calcium carbide:\n(i) It releases acetylene gas on contact with moisture.\n(ii) It ripens fruit uniformly, both internally and externally.\n(iii) It may be contaminated with traces of arsenic and phosphorus hydride.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and iii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ii) FALSE — it only produces superficial/surface colouration; the interior remains unripened — the exact reverse of the trap statement.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q2. On food-grade waxes:\n(i) Carnauba wax, beeswax, and shellac wax are all permitted food-grade waxes.\n(ii) Mineral oil is permitted on fruits under GMP in limited quantity.\n(iii) Waxed produce must declare the animal/vegetable origin of the wax on the label.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and iii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ii) FALSE — NO mineral oil is permitted on fresh fruits and vegetables, period; there is no \"limited quantity\" exception.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q3. On hazardous dyes:\n(i) Malachite green is detected using the blotting paper test.\n(ii) Lead chromate causes neurotoxic effects including blindness and anaemia.\n(iii) Copper sulfate dipping is used to make watermelons appear redder.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — copper sulfate is used on GREEN vegetables (bitter gourd, lady finger) to enhance green colour, NOT on watermelons for red colour (that is methanil yellow/lead chromate/Sudan red's role) — a commodity-mismatch trap.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q4. On oxytocin misuse:\n(i) Oxytocin is a legitimate plant growth hormone like gibberellic acid.\n(ii) Oxytocin is commonly misused on bottle gourd, bitter gourd, pumpkin, and cucumber.\n(iii) Prolonged oxytocin-tainted vegetable consumption has been linked to uterine cancer and hormonal disruption.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (ii and iii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(i) FALSE — oxytocin is a mammalian hormone with NO legitimate plant physiological function, unlike gibberellic acid/NAA which ARE genuine plant hormones.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q5. On ethephon vs calcium carbide:\n(i) Ethephon-ripened fruits have a better colour profile than carbide-ripened fruits.\n(ii) Ethephon-ripened fruits have a shorter shelf life than carbide-ripened fruits.\n(iii) Ethephon works by releasing ethylene gas.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and iii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ii) FALSE — it is the REVERSE: ethephon-ripened fruits have LONGER shelf life than carbide-ripened fruits.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Module 5: Packaging & Labelling Law",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "MODULE 5: PACKAGING & LABELLING STATUTORY STANDARDS",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "5.1 First-Principles: Why does the label matter legally?",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "A food label is a legally binding representation to the consumer — it is the primary (often only) information bridge between a manufacturer's internal quality/safety processes and the buyer's informed choice. Every mandatory declaration exists to answer one of three consumer questions: (1) Is this food safe for me right now? (2) What exactly am I eating? (3) Who is accountable if something goes wrong? Organize your memorization around these three questions.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "   LABEL ANSWERS THREE QUESTIONS:\n   ┌─────────────────┬──────────────────┬───────────────────┐\n   │  IS IT SAFE NOW? │ WHAT AM I EATING? │  WHO IS ACCOUNTABLE?│\n   │ (dates, veg/non- │ (ingredients,     │ (manufacturer      │\n   │  veg, allergens) │  nutrition facts) │  address, batch,   │\n   │                  │                   │  country of origin)│\n   └─────────────────┴──────────────────┴───────────────────┘",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "5.2 Statutory Date Markings — Precise Definitions",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Date of Manufacture\" vs \"Date of Packaging\"",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Term",
+          "Definition"
+        ],
+        [
+          "Date of manufacture",
+          "The date on which the food becomes the product as described (i.e., the food's identity/composition is finalized)"
+        ],
+        [
+          "Date of packaging",
+          "The date on which the food is placed in the immediate container in which it will ultimately be sold"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "These are conceptually distinct steps — a food can be manufactured on Day 1 and packaged on Day 3; both dates may be legally relevant depending on the product category.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Best Before\" vs \"Use By / Expiry Date\" — THE critical distinction",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "            PRODUCT TIMELINE\n   Manufacture ──► \"Best Before\" ──► \"Use By / Expiry\"\n                    (quality marker)   (safety marker)\n                         │                    │\n              Food MAY still be          Food shall NOT\n              perfectly safe to          be sold — safety\n              consume past this          threshold passed\n              date, though quality\n              may have diminished\n              (BUT: food shall not\n              be sold if it becomes\n              unsafe at ANY stage)",
+      "style": "Code"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Term",
+          "Full Definition",
+          "Key Legal Effect"
+        ],
+        [
+          "\"Best before\"",
+          "Signifies the end of the period, under stated storage conditions, during which the food remains fully marketable and retains claimed qualities. Beyond this date, food MAY still be perfectly safe to consume, though quality may have diminished. HOWEVER — the food shall NOT be sold if at any stage it becomes unsafe.",
+          "Quality guarantee, NOT an absolute safety cutoff"
+        ],
+        [
+          "\"Use-by date\" / \"Recommended last consumption date\" / \"Expiry date\"",
+          "Signifies the end of the estimated period, under stated storage conditions, after which the food probably will not have the quality and safety attributes normally expected.",
+          "The food SHALL NOT be sold after this date — absolute safety/sale cutoff"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nAbsolute qualifier: \"Food past its 'best before' date is always unsafe and must never be sold.\" — FALSE. \"Best before\" is a quality marker — food MAY remain safe and even saleable past this date UNLESS it has independently become unsafe. Do not confuse this with \"use by/expiry,\" which IS an absolute sale prohibition threshold. This exact confusion (best-before = safety cutoff) is the single most common trap in this sub-topic.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other Statutory Definitions",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Term",
+          "Definition"
+        ],
+        [
+          "Lot number / Code number / Batch number",
+          "Numerals/alphabets/combination, preceded by words like \"Lot No,\" \"Code,\" \"Batch No,\" by which the food can be traced in manufacture and identified in distribution"
+        ],
+        [
+          "Prepackaged / Pre-packed food",
+          "Food placed in a package of any nature such that the contents cannot be changed without tampering, and which is ready for sale to the consumer"
+        ],
+        [
+          "Principal Display Panel (PDP)",
+          "That part of the container/package intended/likely to be displayed, presented, shown, or examined by the customer under normal/customary conditions of display, sale, or purchase"
+        ],
+        [
+          "Multipiece package",
+          "A package containing two or more individually packaged/labelled pieces of the same commodity of identical quantity, intended for retail either as individual pieces or as a whole"
+        ],
+        [
+          "Wholesale package",
+          "A package containing a number of retail packages (intended for sale to an intermediary, NOT a single consumer) OR a bulk commodity sold to an intermediary for repackaging/resale in smaller quantities"
+        ],
+        [
+          "Infant",
+          "A child not more than twelve (12) months of age"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Vegetarian vs Non-Vegetarian Food — THE statutory exclusion trap",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Term",
+          "Definition"
+        ],
+        [
+          "\"Non-Vegetarian Food\"",
+          "An article of food which contains whole or part of any animal including birds, fresh water or marine animals, or eggs, or products of any animal origin, BUT EXCLUDING MILK OR MILK PRODUCTS, as an ingredient"
+        ],
+        [
+          "\"Vegetarian Food\"",
+          "Any article of food OTHER THAN Non-Vegetarian Food"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nThis is one of the single highest-yield statutory traps in the entire syllabus. Milk and milk products are statutorily EXCLUDED from the definition of \"Non-Vegetarian Food\" — meaning milk/milk products are classified as VEGETARIAN under this specific legal definition, DESPITE being an animal product. A question stating \"milk and milk products are classified as non-vegetarian food because they are of animal origin\" is FALSE under this statutory scheme — eggs ARE non-vegetarian, milk is NOT.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "5.3 Mandatory Package Label Declarations — Complete Checklist",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "                    MANDATORY LABEL ELEMENTS\n     ┌───────────┬────────────┬─────────────┬────────────┬───────────┐\n     ▼           ▼            ▼             ▼            ▼           ▼\n  Name of    Ingredient   Nutritional   Veg/Non-Veg  Manufacturer  Net Qty/\n   Food       List         Facts        Logo         Name+Address  Batch/\n  (trade     (descending  (per 100g/    (specific                  Date/\n   name/     order by     100ml:        dimensions/                Origin/\n   descrip)  weight/vol)  Energy kcal,  geometry)                  Use\n                          Protein,CHO,                              Instructions\n                          Fat in g)",
+      "style": "Code"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element",
+          "Detail"
+        ],
+        [
+          "Name of food",
+          "Trade name or description of the food contained"
+        ],
+        [
+          "List of ingredients",
+          "Title \"Ingredients\"; listed in descending order of composition by weight or volume, as at time of manufacture (except single-ingredient foods)"
+        ],
+        [
+          "Nutritional information (per 100g/100ml or per serving)",
+          "Energy value in Kcal; amounts of Protein, Carbohydrate, and Fat in grams; amount of any nutrient for which a nutrition/health claim is made"
+        ],
+        [
+          "Veg/Non-veg differentiation",
+          "Mandatory symbolic logo with specific dimensions and geometry"
+        ],
+        [
+          "Manufacturer details",
+          "Name and complete address of the manufacturer"
+        ],
+        [
+          "Net quantity",
+          "Of the product"
+        ],
+        [
+          "Lot/Code/Batch identification",
+          "For traceability"
+        ],
+        [
+          "Date of manufacture or packing",
+          "As defined above"
+        ],
+        [
+          "Best before and use-by date",
+          "As defined above"
+        ],
+        [
+          "Country of origin",
+          "Mandatory for imported foods"
+        ],
+        [
+          "Instructions for use",
+          "Where applicable"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "General Labelling Requirements",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Language: English or Hindi in Devanagari script.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Must NOT be false, misleading, deceptive, or create an erroneous impression regarding character.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Labels must be applied such that they do not become separated from the container.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Content must be clear, prominent, indelible, readily legible under normal purchase/use conditions.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "If covered by a wrapper: the wrapper must carry necessary information, OR the label beneath must be legible through the wrapper without obstruction.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "5.4 Packaging Material Safety",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Prohibited Containers (render food unfit for human consumption if used)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Prohibited Container Type",
+          "Reason"
+        ],
+        [
+          "Rusty containers",
+          "Chemical contamination risk"
+        ],
+        [
+          "Enameled containers that have become chipped and rusty",
+          "Exposed metal/chemical leaching"
+        ],
+        [
+          "Copper or brass containers not properly tinned",
+          "Toxic metal leaching (copper toxicity)"
+        ],
+        [
+          "Containers made of aluminium (for certain prescribed uses per the rule as framed)",
+          "Regulatory prohibition cited in source"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Plastic containers must conform to Indian Standards Specification (BIS).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Canned Product Packaging Requirements",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Containers must be securely packed and sealed.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Exterior must be free from major dents, rust, perforations, and seam distortions.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cans must be free from leaks.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fruit & Vegetable Product Packaging — Commodity-Specific Rules",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Product",
+          "Required Packaging"
+        ],
+        [
+          "Canned fruits, juices, vegetables",
+          "Sanitary top cans of suitable tin plate"
+        ],
+        [
+          "Bottled fruits, juices, vegetables",
+          "Bottles/jars capable of giving a hermetic seal"
+        ],
+        [
+          "Juices, squashes, crush, cordials, syrups, barley waters",
+          "Clean, securely sealed bottles; frozen forms packed in suitable cartons"
+        ],
+        [
+          "Juices and pulps (if sulphited)",
+          "May be packed in wooden barrels"
+        ],
+        [
+          "Preserves, jams, jellies, marmalades",
+          "New cans, clean jars, new canisters, bottles, chinaware jars, aluminium containers — securely sealed"
+        ],
+        [
+          "Pickles",
+          "Clean bottles, jars, wooden casks, tin containers lined with 250-gauge polythene, or suitably lacquered cans"
+        ],
+        [
+          "Tomato ketchup/sauces",
+          "Clean bottles; if acidity does not exceed 0.5% as acetic acid, open-top sanitary cans may ALSO be used"
+        ],
+        [
+          "Candied fruits/peels, dried fruits/vegetables",
+          "Paper bags, cardboard/wooden boxes, new tins, bottles, jars, aluminium, other approved containers"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nNumeric trap: Tomato ketchup/sauce may use open-top sanitary cans only if acidity does not exceed 0.5% as acetic acid — any MCQ citing a different percentage threshold or omitting the conditional \"if acidity does not exceed\" clause is testing careless absolute-qualifier reading.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "5.5 Stage 1 Revision Bank: Count-Based Pair Bank",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q1. On date markings:\n(i) \"Best before\" signifies the food must never be sold after that date under any circumstance.\n(ii) \"Use by\"/\"Expiry date\" signifies the food shall not be sold after that date.\n(iii) \"Date of packaging\" and \"Date of manufacture\" are legally identical terms.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 1 is correct (statement ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(i) FALSE — \"best before\" allows continued sale/consumption as long as the food remains safe; it is NOT an absolute sale prohibition like \"use by.\"",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — they are explicitly distinct definitions (product-becomes-product vs placed-in-immediate-container).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q2. On vegetarian/non-vegetarian classification:\n(i) Eggs are classified as non-vegetarian food.\n(ii) Milk and milk products are classified as non-vegetarian food because of animal origin.\n(iii) Vegetarian food is defined as any food other than non-vegetarian food.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and iii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ii) FALSE — milk/milk products are statutorily excluded from the non-vegetarian definition, making them vegetarian under this legal scheme — the classic trap.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q3. On mandatory nutritional declarations:\n(i) Energy value must be declared in Kcal.\n(ii) Protein, carbohydrate, and fat must be declared in grams.\n(iii) Vitamin content must always be declared regardless of any health claim.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — additional nutrients (like vitamins) need be declared only when a nutrition or health claim is made for that nutrient, not unconditionally for all products.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q4. On prohibited/approved containers:\n(i) Rusty containers are deemed unfit for use in food preparation/storage.\n(ii) Untinned copper or brass containers are prohibited.\n(iii) Plastic containers used for food have no mandatory BIS conformity requirement.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — plastic containers DO carry a mandatory requirement to conform to Indian Standards Specification (BIS).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q5. On tomato ketchup packaging:\n(i) Tomato ketchup must always be packed in clean bottles.\n(ii) Open-top sanitary cans may be used for ketchup/sauce only if acidity does not exceed 0.5% as acetic acid.\n(iii) There is no acidity-based conditionality for using cans with tomato products.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — the acidity conditionality (≤0.5% acetic acid) IS the governing rule for permitting can use; statement iii directly contradicts statement ii.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Module 6: HACCP System",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "MODULE 6: THE HACCP SYSTEM & QUALITY ASSURANCE",
+      "style": "Heading 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "6.1 First-Principles: Why HACCP replaced end-product testing",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "The core insight that birthed HACCP: if you only test the FINISHED product for safety, you can never achieve near-100% assurance, because (a) you'd have to destructively test almost every unit to be statistically confident, leaving nothing left to sell, and (b) by the time a defect is found, the unsafe batch may already be shipped. HACCP's genius is to shift control upstream, into the process itself — identify exactly WHERE in the process a hazard could enter or fail to be controlled, and build real-time monitoring AT THAT POINT, so you catch failures before the product is even finished, let alone shipped.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "   OLD MODEL:  Raw material → Process → Process → Process → [TEST FINISHED PRODUCT]\n               (if contaminated, discovered too late / insufficient sampling)\n\n   HACCP MODEL: Raw material → [MONITOR CCP1] → Process → [MONITOR CCP2] → Process → Product\n               (hazard caught in real time, AT the exact point of risk)",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "6.2 Historical Foundations",
+      "style": "Heading 2"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Milestone",
+          "Detail"
+        ],
+        [
+          "Origin",
+          "Pillsbury Company, pioneered application of HACCP concept to food production in the early 1960s"
+        ],
+        [
+          "Driving need",
+          "Supplying food for the U.S. space program (NASA) — existing QC (end-product testing) could not provide adequate contamination assurance; extensive end-testing would consume so much product that little food would remain available for space flights"
+        ],
+        [
+          "Formalization",
+          "1985 — NACMCF (National Advisory Committee on Microbiological Criteria for Foods) formulated the HACCP principles"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nDate-pairing trap: Pillsbury origin = early 1960s (the practical invention); NACMCF formal principles = 1985 (the codification). Do not swap these two dates — a question may ask \"In which year were the 7 HACCP principles formulated?\" and offer \"1960s\" as a distractor; the correct year for the formal 7-principle codification is 1985.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "6.3 Hazard vs Undesirable Defect — THE scope-defining distinction",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "In HACCP terminology, \"hazard\" has a narrower, more precise meaning than in everyday food safety usage. It refers ONLY to conditions/contaminants that can cause illness or injury.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nHigh-yield exclusion list — the following are explicitly NOT HACCP hazards unless directly linked to injury/illness:\n- Insects (as mere presence, not a food-safety-linked infestation)\n- Hair\n- Filth\n- Spoilage\n- Economic fraud\n- Violations of regulatory food standards not directly related to safety\n\nThese are termed \"undesirable defects\" — they may trigger quality rejection, regulatory penalty, or consumer complaint, but they fall OUTSIDE the formal HACCP hazard-control scope UNLESS a specific injury/illness mechanism is demonstrated (e.g., a hair causing choking in an infant, or filth carrying a specific pathogen load).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "   CONDITION IN FOOD\n          │\n          ▼\n   Does it have the potential to cause\n   adverse health effect (illness/injury)?\n          │\n     ┌────┴────┐\n     NO         YES\n     │           │\n     ▼           ▼\n \"Undesirable   HACCP \"HAZARD\"\n  Defect\"       (biological/chemical/\n (hair, filth,   physical)\n  economic fraud,\n  spoilage)",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "HACCP Hazard Categories (same three as Module 1, but now scoped to injury/illness potential)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Category",
+          "Examples"
+        ],
+        [
+          "Biological",
+          "Bacteria, yeasts, moulds, viruses, protozoa — present in raw materials or introduced during processing"
+        ],
+        [
+          "Chemical",
+          "Naturally occurring chemicals, intentionally added chemicals, unintentionally/incidentally added chemicals"
+        ],
+        [
+          "Physical",
+          "Extraneous matter capable of causing choking, injury, or other adverse health effects upon ingestion"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "6.4 The 7 Core HACCP Principles — Full Treatment",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "  PRINCIPLE 1          PRINCIPLE 2         PRINCIPLE 3        PRINCIPLE 4\n Conduct Hazard  ──►  Determine     ──►   Establish     ──►  Establish CCP\n   Analysis            CCPs                Critical          Monitoring\n                     (decision tree)        Limits            Procedures\n                                                                   │\n                                                                   ▼\n  PRINCIPLE 7          PRINCIPLE 6         PRINCIPLE 5\n Establish       ◄──  Establish      ◄──  Establish\n Documentation &       Verification        Corrective\n Record-Keeping        Procedures          Actions",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle 1: Conduct Hazard Analysis",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "HACCP team bears initial responsibility to decide which hazards are significant and must be addressed.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Safety concerns must be explicitly differentiated from quality concerns (quality issues are NOT the subject of HACCP control).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tool: hazard identification and evaluation worksheet — organizes the process step (Column 1), identified hazard (Column 2), hazard evaluation result (Column 3), and justification for accepting/rejecting the hazard (Column 4).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle 2: Determine Critical Control Points (CCPs)",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "For every significant hazard identified in Principle 1, there must be one or more CCPs where the hazard is controlled.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "A CCP = a specific point in the process flow where applying a control measure effectively prevents, eliminates, or reduces the hazard to an acceptable level.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Determined using decision tree logic — a structured sequence of questions applied at each process step to test whether that step qualifies as a CCP.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle 3: Establish Critical Limits",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "A critical limit = the boundary/boundaries used to ensure a process produces safe product at a given CCP.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Each CCP may require one or more critical limits, one per associated food-safety hazard.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Deviation from a critical limit → mandatory corrective action.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "If exact critical limit data is unavailable: gather from scientific publications, regulatory guidelines, experts, or experimental studies; if still unavailable, select a conservative value. The rationale/reference becomes part of the HACCP plan's support documentation.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle 4: Establish CCP Monitoring Procedures",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Monitoring must define four elements:",
+      "style": "Normal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element",
+          "Meaning"
+        ],
+        [
+          "What",
+          "What characteristic will be monitored (e.g., temperature, pH, line speed)"
+        ],
+        [
+          "How",
+          "How the critical limit/control measure will be measured"
+        ],
+        [
+          "Frequency",
+          "How often monitoring is performed"
+        ],
+        [
+          "Who",
+          "Who is responsible for performing the monitoring"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Purpose: accurate monitoring reveals loss of control at a CCP and deviation from a critical limit in real time; also creates records proving compliant production (feeds into Principle 7 and Principle 6 verification).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle 5: Establish Corrective Actions",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "When a critical limit is violated, pre-determined, documented corrective actions must be instituted. Effective corrective action plans must:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Correct and eliminate the cause of non-compliance, restoring the CCP to control.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Segregate, assess, and determine disposition of the non-compliant product.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Options: isolate/hold product for safety evaluation; divert affected product to a non-critical line; reprocess; destroy product.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle 6: Establish Verification Procedures",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Verification = collecting and evaluating scientific/technical information to confirm the HACCP plan, if properly implemented, will effectively control hazards.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Validation = a component of verification performed BEFORE the plan is implemented — substantiates that the plan, if followed, is sufficient to control the likely food-safety hazards; provides objective evidence that all elements have a scientific basis.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Approaches to validation: incorporation of fundamental scientific principles, use of scientific data, reliance on expert opinion, or in-plant observation/testing.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Validation vs ongoing verification: Validation happens once, UP FRONT (before operation). Verification (in the broader sense, including scheduled audits) is ongoing, confirming the system continues to function as validated.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Principle 7: Establish Documentation and Record-Keeping Procedures",
+      "style": "Heading 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Accurate record-keeping is essential — provides documentation that critical limits were met OR appropriate corrective action was taken when exceeded.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Four record categories:",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "HACCP-plan support documents",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Monitoring records",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Corrective action records",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Verification records",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "6.5 CCP vs Prerequisite Programme (PRP) — The Critical Distinction",
+      "style": "Heading 2"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Feature",
+          "CCP (Critical Control Point)",
+          "PRP (Prerequisite Programme)"
+        ],
+        [
+          "Scope",
+          "A specific point in the process flow directly controlling a significant, identified hazard",
+          "General, plant-wide foundational practices (e.g., GMP, GHP, sanitation, pest control, personnel hygiene) that create the environment in which the HACCP plan can function"
+        ],
+        [
+          "Determined by",
+          "Decision tree logic, applied per process step, tied to a specific hazard",
+          "Applied broadly, NOT hazard-specific; baseline operational conditions"
+        ],
+        [
+          "Failure consequence",
+          "Direct, immediate food-safety risk requiring corrective action under Principle 5",
+          "Failure typically requires general corrective maintenance, not necessarily an immediate product-disposition decision (though severe PRP failure can elevate a step to CCP status)"
+        ],
+        [
+          "Monitoring",
+          "Continuous/frequent, tied to a measurable critical limit",
+          "Periodic inspection/audit (e.g., sanitation checklists)"
+        ],
+        [
+          "Examples",
+          "Cook temperature/time for a specific pasteurization step; metal detector at packaging",
+          "Water potability programme; pest control programme; personnel hygiene training; equipment calibration schedule"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Decision tree logic for identifying a CCP (conceptual sequence):",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1: Does a control measure exist at this step for the identified hazard?\n        │\n   NO ──┴── YES\n   │          │\n   Modify     Step 2: Is control at this step NECESSARY for safety?\n   step/      │\n   process    NO ──┴── YES → NOT a CCP (not necessary for safety)\n              │\n              Step 3: Is the hazard likely to occur above acceptable\n                      level, OR could it increase to an unacceptable\n                      level, at this step?\n              │\n         NO ──┴── YES\n         │          │\n     NOT a CCP   Step 4: Will a SUBSEQUENT step eliminate or reduce\n                         the hazard to an acceptable level?\n                  │\n             YES ─┴─ NO\n              │        │\n          NOT a CCP   THIS STEP IS A CCP",
+      "style": "Code"
+    },
+    {
+      "type": "paragraph",
+      "text": "[HPSC EXAM TRAP]\nAbsolute qualifier: \"Every step that controls a hazard is automatically a CCP.\" — FALSE. If a LATER step in the process will adequately eliminate/reduce the SAME hazard to an acceptable level, the EARLIER step is not designated a CCP — the decision tree explicitly tests for this downstream-elimination possibility before confirming CCP status.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "6.6 Stage 2 Model Answer Framework (15 Marks)",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Question: \"Elaborate the 7 Principles of Hazard Analysis and Critical Control Point (HACCP). Explain how a Critical Control Point (CCP) is determined and distinguished from a Prerequisite Programme (PRP).\"",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer architecture (~15 marks, 3–4 pages):",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Introduction (1 mark): Brief history — Pillsbury/NASA origin (1960s), NACMCF formalization (1985); define HACCP as a preventive (not reactive) system.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "The 7 Principles — full elaboration (9 marks, ~1.3 marks each): Walk through Principles 1–7 exactly as detailed above, naming the key deliverable/tool at each stage (hazard analysis worksheet, decision tree, critical limits, monitoring's 4 W's, corrective action disposition options, validation vs verification, 4 record types).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "CCP determination via decision tree (3 marks): Explain the sequential logic — is control necessary? is the hazard likely to occur/increase? will a later step eliminate it? — concluding in CCP designation only when all conditions align.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "CCP vs PRP distinction (2 marks): Reproduce the comparison table — CCP is hazard-specific and point-specific with a measurable critical limit; PRP is a general plant-wide foundational practice (GMP/GHP) that enables the HACCP system to function, but is not itself tied to a single measurable critical limit at a single process point.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "6.7 Stage 1 Revision Bank: Count-Based Pair Bank",
+      "style": "Heading 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q1. On HACCP origins:\n(i) HACCP originated at the Pillsbury Company in connection with the NASA space programme.\n(ii) The 7 HACCP principles were formulated by NACMCF in 1985.\n(iii) HACCP was developed in the early 1960s as a reactive, end-product-testing-based system.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — HACCP was developed specifically because end-product testing (reactive) was found inadequate; HACCP is explicitly a preventive, not reactive, system — the exact reverse characterization.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q2. On HACCP hazard scope:\n(i) Hair and filth are automatically classified as HACCP hazards.\n(ii) Economic fraud is excluded from the HACCP hazard definition unless directly tied to illness/injury.\n(iii) A hazard in HACCP terms must have the potential to cause an adverse health effect.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (ii and iii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(i) FALSE — hair and filth are \"undesirable defects,\" not automatically HACCP hazards, unless a direct injury/illness link is shown.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q3. On the 7 principles, consider this set relating to Principle 4 (Monitoring):\n(i) Monitoring must specify \"what,\" \"how,\" \"frequency,\" and \"who.\"\n(ii) Monitoring is only required at the END of the production line.\n(iii) Monitoring records support verification under Principle 6.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and iii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ii) FALSE — monitoring occurs AT each CCP throughout the process, not solely at the end; this contradicts HACCP's core preventive, real-time logic.",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q4. On CCP vs PRP:\n(i) A CCP is always hazard-specific and tied to a measurable critical limit.\n(ii) A PRP (e.g., GMP/GHP/sanitation programme) is plant-wide and foundational, not hazard-point-specific.\n(iii) Every PRP failure automatically qualifies as a critical-limit deviation requiring product disposition under Principle 5.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and ii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iii) FALSE — PRP failures are generally managed through general corrective maintenance, not necessarily triggering the formal CCP critical-limit deviation/product-disposition process (unless the PRP failure is severe enough to compromise an actual CCP).",
+      "style": "List Paragraph"
+    },
+    {
+      "type": "paragraph",
+      "text": "Q5. On validation vs verification:\n(i) Validation occurs before the HACCP plan is implemented.\n(ii) Verification is the same process as validation and occurs only once.\n(iii) Verification includes collecting and evaluating scientific/technical information to confirm the plan will effectively control hazards.",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Answer: Only 2 are correct (i and iii).",
+      "style": "Normal"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ii) FALSE — validation is a one-time, pre-implementation component; verification (in the broader sense) is an ONGOING activity, not identical to or synonymous with a single one-time validation event.",
+      "style": "List Paragraph"
+    }
+  ]
+}

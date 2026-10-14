@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "title": "HPSC FSO Question Bank Catalogue",
+  "total_questions": 900,
+  "units": [
+    {
+      "unit": 1,
+      "title": "Food Safety Law, Hazards, Adulteration, Labelling and HACCP",
+      "file": "unit1_question_bank_150.json",
+      "count": 150,
+      "difficulty_counts": {
+        "easy": 50,
+        "medium": 50,
+        "hard": 50
+      },
+      "draft_disclaimer": "This is a draft, not a fully audited final mock. The difficulty levels currently reuse some underlying concepts, so redundancy and question discrimination need review. Scientific and current regulatory verification also remains pending. The questions are not represented as actual HPSC previous-year questions."
+    },
+    {
+      "unit": 2,
+      "title": "Food Microbiology, Spoilage and Preservation",
+      "file": "unit2_question_bank_150.json",
+      "count": 150,
+      "difficulty_counts": {
+        "easy": 50,
+        "medium": 50,
+        "hard": 50
+      },
+      "draft_disclaimer": "This is a draft, not a fully audited final mock. The difficulty levels currently reuse some underlying concepts, so redundancy and question discrimination need review. Scientific and current regulatory verification also remains pending. The questions are not represented as actual HPSC previous-year questions."
+    },
+    {
+      "unit": 3,
+      "title": "Food Chemistry, Macromolecules, Lipids, Enzymes, Pigments, Additives and Fortification",
+      "file": "unit3_question_bank_150.json",
+      "count": 150,
+      "difficulty_counts": {
+        "easy": 50,
+        "medium": 50,
+        "hard": 50
+      },
+      "draft_disclaimer": "This is a draft, not a fully audited final mock. The difficulty levels currently reuse some underlying concepts, so redundancy and question discrimination need review. Scientific and current regulatory verification also remains pending. The questions are not represented as actual HPSC previous-year questions."
+    },
+    {
+      "unit": 4,
+      "title": "Food Processing Operations & Commodity Technology (Dairy, Cereals/Pulses, Meat/Fish/Eggs and Horticulture)",
+      "file": "unit4_question_bank_150.json",
+      "count": 150,
+      "difficulty_counts": {
+        "easy": 50,
+        "medium": 50,
+        "hard": 50
+      },
+      "draft_disclaimer": "This is a draft, not a fully audited final mock. The difficulty levels currently reuse some underlying concepts, so redundancy and question discrimination need review. Scientific and current regulatory verification also remains pending. The questions are not represented as actual HPSC previous-year questions."
+    },
+    {
+      "unit": 5,
+      "title": "Food Toxicology, Inherent Plant and Animal Toxicants, Contaminants, Residues and Heavy Metals",
+      "file": "unit5_question_bank_150.json",
+      "count": 150,
+      "difficulty_counts": {
+        "easy": 50,
+        "medium": 50,
+        "hard": 50
+      },
+      "draft_disclaimer": "This is a draft, not a fully audited final mock. The difficulty levels currently reuse some underlying concepts, so redundancy and question discrimination need review. Scientific and current regulatory verification also remains pending. The questions are not represented as actual HPSC previous-year questions."
+    },
+    {
+      "unit": 6,
+      "title": "Modern Food Packaging Technology, Migration Regulations and Instrumental Food Analysis",
+      "file": "unit6_question_bank_150.json",
+      "count": 150,
+      "difficulty_counts": {
+        "easy": 50,
+        "medium": 50,
+        "hard": 50
+      },
+      "draft_disclaimer": "This is a draft, not a fully audited final mock. The difficulty levels currently reuse some underlying concepts, so redundancy and question discrimination need review. Scientific and current regulatory verification also remains pending. The questions are not represented as actual HPSC previous-year questions."
+    }
+  ],
+  "marking": {
+    "correct": 1,
+    "incorrect": -0.25,
+    "unanswered": 0
+  },
+  "draft_disclaimer": "This is a draft, not a fully audited final mock. The difficulty levels currently reuse some underlying concepts, so redundancy and question discrimination need review. Scientific and current regulatory verification also remains pending. The questions are not represented as actual HPSC previous-year questions."
+}
